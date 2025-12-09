@@ -1,0 +1,1296 @@
+"","Batter_Name","bowler.type","balls_faced","runs_vs_type","dismissals_vs_type","batting_avg","median_vs_type_when_out","sd_vs_type_when_out","boundary_pct","dot_pct"
+"1","Ayush Badoni","Left arm wrist spin",20,20,1,20,0,NA,0,25
+"2","Ayush Badoni","Left arm pace",109,153,9,17,2,7.68,17.43,30.28
+"3","Ayush Badoni","Leg spin",106,133,5,26.6,3,6.98,12.26,29.25
+"4","Ayush Badoni","Off spin",80,99,3,33,8,7.64,10,25
+"5","Ayush Badoni","Right arm pace",339,499,12,41.58,12,11.67,18.88,30.97
+"6","Ayush Badoni","Slow left arm orthodox",35,48,2,24,3.5,3.54,17.14,25.71
+"7","A Kamboj","Leg spin",1,0,1,0,0,NA,0,100
+"8","A Kamboj","Right arm pace",13,16,1,16,2,NA,15.38,38.46
+"9","Abhinav Manohar","Left arm wrist spin",19,13,1,13,3,NA,0,36.84
+"10","Abhinav Manohar","Left arm pace",43,59,3,19.67,2,4.36,18.6,41.86
+"11","Abhinav Manohar","Leg spin",34,52,4,13,5,10.17,20.59,32.35
+"12","Abhinav Manohar","Off spin",16,11,1,11,3,NA,6.25,50
+"13","Abhinav Manohar","Right arm pace",90,132,8,16.5,1.5,8.45,21.11,32.22
+"14","Abhinav Manohar","Slow left arm orthodox",29,20,1,20,0,NA,3.45,48.28
+"15","A Mhatre","Left arm pace",29,62,1,62,7,NA,34.48,24.14
+"16","A Mhatre","Leg spin",8,12,0,NA,NA,NA,12.5,12.5
+"17","A Mhatre","Right arm pace",72,132,6,22,17,21.5,36.11,38.89
+"18","A Mhatre","Slow left arm orthodox",14,17,0,NA,NA,NA,14.29,35.71
+"19","Amit Mishra","Leg spin",11,1,0,NA,NA,NA,0,90.91
+"20","Amit Mishra","Right arm pace",18,17,1,17,17,NA,11.11,38.89
+"21","Amit Mishra","Slow left arm orthodox",1,1,0,NA,NA,NA,0,0
+"22","Anrich Nortje","Left arm pace",10,11,1,11,0,NA,20,50
+"23","Anrich Nortje","Leg spin",3,1,0,NA,NA,NA,0,66.67
+"24","Anrich Nortje","Off spin",5,1,0,NA,NA,NA,0,80
+"25","Anrich Nortje","Right arm pace",25,29,3,9.67,3,2.52,16,32
+"26","Angkrish Raghuvanshi","Left arm wrist spin",9,6,1,6,1,NA,0,44.44
+"27","Angkrish Raghuvanshi","Left arm pace",42,56,3,18.67,3,2.52,23.81,47.62
+"28","Angkrish Raghuvanshi","Leg spin",62,92,1,92,2,NA,19.35,12.9
+"29","Angkrish Raghuvanshi","Off spin",22,29,0,NA,NA,NA,13.64,27.27
+"30","Angkrish Raghuvanshi","Right arm pace",121,198,8,24.75,9,15.35,23.97,27.27
+"31","Angkrish Raghuvanshi","Slow left arm orthodox",27,30,1,30,0,NA,7.41,11.11
+"32","Abhijeet Tomar","Left arm pace",2,0,1,0,0,NA,0,100
+"33","Abhijeet Tomar","Right arm pace",6,4,0,NA,NA,NA,16.67,83.33
+"34","Adam Zampa","Left arm wrist spin",2,1,0,NA,NA,NA,0,50
+"35","Adam Zampa","Leg spin",4,2,1,2,0,NA,0,50
+"36","Adam Zampa","Off spin",5,2,0,NA,NA,NA,0,60
+"37","Adam Zampa","Right arm pace",5,5,2,2.5,2.5,2.12,0,0
+"38","AA Kulkarni","Left arm pace",4,4,1,4,4,NA,25,75
+"39","AA Kulkarni","Right arm pace",4,5,1,5,0,NA,25,50
+"40","Andre Russell","Left arm wrist spin",20,20,2,10,5,7.07,15,55
+"41","Andre Russell","Left arm pace",121,213,6,35.5,6,10.09,25.62,31.4
+"42","Andre Russell","Leg spin",112,156,8,19.5,4,5.26,19.64,52.68
+"43","Andre Russell","Off spin",29,60,1,60,0,NA,31.03,44.83
+"44","Andre Russell","Right arm pace",234,411,15,27.4,7,10.25,29.06,38.46
+"45","Andre Russell","Slow left arm orthodox",49,86,0,NA,NA,NA,26.53,42.86
+"46","Aaron Finch","Left arm pace",27,29,2,14.5,1.5,2.12,14.81,51.85
+"47","Aaron Finch","Leg spin",4,13,0,NA,NA,NA,75,0
+"48","Aaron Finch","Off spin",3,7,0,NA,NA,NA,33.33,33.33
+"49","Aaron Finch","Right arm pace",27,37,3,12.33,14,8.72,18.52,37.04
+"50","Akeal Hosein","Right arm pace",10,16,0,NA,NA,NA,20,30
+"51","Ashton Turner","Leg spin",4,13,1,13,13,NA,50,25
+"52","Ashton Turner","Off spin",4,3,0,NA,NA,NA,0,25
+"53","Ashton Turner","Right arm pace",10,5,1,5,4,NA,0,40
+"54","Aiden Markram","Left arm wrist spin",30,40,1,40,1,NA,13.33,33.33
+"55","Aiden Markram","Left arm pace",126,165,6,27.5,3.5,5.09,18.25,36.51
+"56","Aiden Markram","Leg spin",155,227,5,45.4,7,14.85,16.13,21.94
+"57","Aiden Markram","Off spin",108,125,2,62.5,15,18.38,10.19,26.85
+"58","Aiden Markram","Right arm pace",379,541,17,31.82,13,9.32,18.47,31.4
+"59","Aiden Markram","Slow left arm orthodox",105,119,9,13.22,2,6.26,9.52,28.57
+"60","Ajinkya Rahane","Left arm wrist spin",21,19,0,NA,NA,NA,0,14.29
+"61","Ajinkya Rahane","Left arm pace",150,250,5,50,5,4.64,24.67,31.33
+"62","Ajinkya Rahane","Leg spin",134,176,8,22,6.5,6.25,14.93,24.63
+"63","Ajinkya Rahane","Off spin",65,75,4,18.75,9,7.8,9.23,33.85
+"64","Ajinkya Rahane","Right arm pace",282,425,13,32.69,4,15.01,24.11,40.07
+"65","Ajinkya Rahane","Slow left arm orthodox",92,95,8,11.88,5.5,5.71,8.7,30.43
+"66","Axar Patel","Left arm wrist spin",22,36,2,18,14,8.49,22.73,27.27
+"67","Axar Patel","Left arm pace",65,97,4,24.25,0,7,15.38,26.15
+"68","Axar Patel","Leg spin",155,222,5,44.4,1,2.51,18.71,34.84
+"69","Axar Patel","Off spin",74,116,4,29,9,9.91,20.27,32.43
+"70","Axar Patel","Right arm pace",309,409,15,27.27,8,5.85,17.48,33.33
+"71","Axar Patel","Slow left arm orthodox",32,64,0,NA,NA,NA,28.12,18.75
+"72","Alzarri Joseph","Left arm pace",4,4,0,NA,NA,NA,0,0
+"73","Alzarri Joseph","Right arm pace",14,7,1,7,0,NA,7.14,64.29
+"74","Alzarri Joseph","Slow left arm orthodox",1,1,0,NA,NA,NA,0,0
+"75","Anukul Roy","Left arm wrist spin",1,0,1,0,0,NA,0,100
+"76","Anukul Roy","Left arm pace",11,8,2,4,2,2.83,9.09,54.55
+"77","Anukul Roy","Leg spin",4,4,0,NA,NA,NA,0,25
+"78","Anukul Roy","Right arm pace",9,14,1,14,0,NA,22.22,22.22
+"79","Ambati Rayudu","Left arm wrist spin",8,6,0,NA,NA,NA,0,25
+"80","Ambati Rayudu","Left arm pace",63,80,4,20,6.5,9.57,19.05,41.27
+"81","Ambati Rayudu","Leg spin",71,88,5,17.6,2,3.65,16.9,42.25
+"82","Ambati Rayudu","Off spin",43,40,4,10,2,1.82,6.98,37.21
+"83","Ambati Rayudu","Right arm pace",129,184,6,30.67,15,13.01,21.71,42.64
+"84","Ambati Rayudu","Slow left arm orthodox",20,27,0,NA,NA,NA,15,30
+"85","Adil Rashid","Leg spin",8,9,2,4.5,4.5,0.71,12.5,50
+"86","Adil Rashid","Off spin",3,6,0,NA,NA,NA,33.33,66.67
+"87","Adil Rashid","Right arm pace",5,7,0,NA,NA,NA,20,20
+"88","Abdul Basith","Right arm pace",1,1,0,NA,NA,NA,0,0
+"89","Abdul Samad","Left arm wrist spin",7,12,0,NA,NA,NA,14.29,0
+"90","Abdul Samad","Left arm pace",57,105,5,21,6,9.63,29.82,31.58
+"91","Abdul Samad","Leg spin",51,60,4,15,2,1.73,11.76,35.29
+"92","Abdul Samad","Off spin",20,21,0,NA,NA,NA,10,50
+"93","Abdul Samad","Right arm pace",174,298,14,21.29,4,7.16,24.14,27.01
+"94","Abdul Samad","Slow left arm orthodox",28,22,0,NA,NA,NA,3.57,39.29
+"95","Abhishek Sharma","Left arm wrist spin",19,43,2,21.5,13,16.97,36.84,36.84
+"96","Abhishek Sharma","Left arm pace",184,307,13,23.62,4,12.97,28.8,42.39
+"97","Abhishek Sharma","Leg spin",125,268,6,44.67,7.5,10.98,29.6,22.4
+"98","Abhishek Sharma","Off spin",109,200,5,40,0,6.86,23.85,21.1
+"99","Abhishek Sharma","Right arm pace",462,690,22,31.36,10,14.83,24.89,38.31
+"100","Abhishek Sharma","Slow left arm orthodox",40,59,3,19.67,6,2.08,17.5,32.5
+"101","Abhishek Porel","Left arm pace",75,117,3,39,1,2.08,24,32
+"102","Abhishek Porel","Leg spin",68,77,6,12.83,3.5,4.18,8.82,30.88
+"103","Abhishek Porel","Off spin",43,43,4,10.75,6,6.7,6.98,30.23
+"104","Abhishek Porel","Right arm pace",204,338,10,33.8,6,11.1,25.49,34.31
+"105","Abhishek Porel","Slow left arm orthodox",27,52,3,17.33,4,3,33.33,22.22
+"106","Akash Deep","Leg spin",7,13,1,13,13,NA,28.57,28.57
+"107","Akash Deep","Off spin",1,4,0,NA,NA,NA,100,0
+"108","Akash Deep","Right arm pace",4,8,1,8,0,NA,25,25
+"109","Akash Deep","Slow left arm orthodox",2,0,1,0,0,NA,0,100
+"110","Akash Madhwal","Left arm pace",2,1,0,NA,NA,NA,0,50
+"111","Akash Madhwal","Leg spin",7,3,0,NA,NA,NA,0,57.14
+"112","Akash Madhwal","Right arm pace",5,4,0,NA,NA,NA,0,20
+"113","Aman Hakim Khan","Left arm wrist spin",14,9,0,NA,NA,NA,0,50
+"114","Aman Hakim Khan","Left arm pace",17,26,0,NA,NA,NA,23.53,41.18
+"115","Aman Hakim Khan","Leg spin",27,22,2,11,8,1.41,11.11,62.96
+"116","Aman Hakim Khan","Off spin",5,6,2,3,2,2.83,20,40
+"117","Aman Hakim Khan","Right arm pace",37,51,4,12.75,4.5,4.24,16.22,29.73
+"118","Aman Hakim Khan","Slow left arm orthodox",5,1,1,1,0,NA,0,80
+"119","Aniket Verma","Left arm wrist spin",12,11,2,5.5,5.5,4.95,8.33,50
+"120","Aniket Verma","Left arm pace",8,13,0,NA,NA,NA,25,25
+"121","Aniket Verma","Leg spin",13,40,1,40,1,NA,46.15,15.38
+"122","Aniket Verma","Off spin",3,5,0,NA,NA,NA,33.33,33.33
+"123","Aniket Verma","Right arm pace",62,86,4,21.5,8.5,5.48,17.74,35.48
+"124","Aniket Verma","Slow left arm orthodox",32,54,1,54,8,NA,21.88,34.38
+"125","Anmolpreet Singh","Left arm wrist spin",6,4,1,4,4,NA,0,50
+"126","Anmolpreet Singh","Left arm pace",13,18,0,NA,NA,NA,15.38,46.15
+"127","Anmolpreet Singh","Leg spin",15,15,2,7.5,6,0,13.33,46.67
+"128","Anmolpreet Singh","Off spin",4,6,0,NA,NA,NA,25,25
+"129","Anmolpreet Singh","Right arm pace",52,65,4,16.25,4.5,2.38,23.08,46.15
+"130","Anmolpreet Singh","Slow left arm orthodox",11,15,1,15,10,NA,18.18,27.27
+"131","Anuj Rawat","Left arm wrist spin",8,2,0,NA,NA,NA,0,62.5
+"132","Anuj Rawat","Left arm pace",51,65,3,21.67,2.5,9.95,15.69,39.22
+"133","Anuj Rawat","Leg spin",28,33,2,16.5,1,1.41,10.71,28.57
+"134","Anuj Rawat","Off spin",31,18,2,9,5.5,2.12,3.23,54.84
+"135","Anuj Rawat","Right arm pace",139,191,6,31.83,4,10.15,20.14,36.69
+"136","Anuj Rawat","Slow left arm orthodox",11,9,0,NA,NA,NA,0,27.27
+"137","Arjun Tendulkar","Left arm pace",3,3,0,NA,NA,NA,0,0
+"138","Arjun Tendulkar","Right arm pace",6,10,1,10,10,NA,16.67,33.33
+"139","Arshad Khan","Left arm wrist spin",16,19,1,19,1,NA,12.5,43.75
+"140","Arshad Khan","Left arm pace",10,23,0,NA,NA,NA,40,20
+"141","Arshad Khan","Off spin",3,7,0,NA,NA,NA,33.33,33.33
+"142","Arshad Khan","Right arm pace",46,66,2,33,0.5,0.71,15.22,34.78
+"143","Arshad Khan","Slow left arm orthodox",9,4,2,2,1.5,0.71,0,55.56
+"144","Arshad Khan (2)","Left arm pace",4,5,1,5,5,NA,25,50
+"145","Arshdeep Singh","Left arm pace",13,9,1,9,9,NA,15.38,76.92
+"146","Arshdeep Singh","Off spin",3,0,0,NA,NA,NA,0,100
+"147","Arshdeep Singh","Right arm pace",22,20,4,5,0.5,1.89,9.09,50
+"148","Arshdeep Singh","Slow left arm orthodox",3,0,0,NA,NA,NA,0,100
+"149","Ashutosh Sharma","Left arm wrist spin",3,2,0,NA,NA,NA,0,33.33
+"150","Ashutosh Sharma","Left arm pace",26,43,2,21.5,2.5,3.54,23.08,34.62
+"151","Ashutosh Sharma","Leg spin",25,47,1,47,0,NA,28,24
+"152","Ashutosh Sharma","Off spin",3,1,0,NA,NA,NA,0,66.67
+"153","Ashutosh Sharma","Right arm pace",128,226,6,37.67,8.5,23.22,24.22,22.66
+"154","Ashutosh Sharma","Slow left arm orthodox",28,21,4,5.25,1.5,0.96,3.57,46.43
+"155","Atharva Taide","Left arm wrist spin",8,7,0,NA,NA,NA,0,25
+"156","Atharva Taide","Left arm pace",27,32,1,32,9,NA,18.52,40.74
+"157","Atharva Taide","Leg spin",24,33,2,16.5,13,8.49,16.67,33.33
+"158","Atharva Taide","Off spin",4,3,0,NA,NA,NA,0,25
+"159","Atharva Taide","Right arm pace",93,150,5,30,12,10.32,25.81,33.33
+"160","Atharva Taide","Slow left arm orthodox",22,35,1,35,5,NA,22.73,22.73
+"161","Avesh Khan","Left arm pace",5,6,0,NA,NA,NA,20,20
+"162","Avesh Khan","Leg spin",9,28,1,28,12,NA,55.56,44.44
+"163","Avesh Khan","Right arm pace",18,19,1,19,0,NA,11.11,38.89
+"164","Azmatullah Omarzai","Left arm wrist spin",4,2,1,2,1,NA,0,50
+"165","Azmatullah Omarzai","Left arm pace",10,19,1,19,0,NA,30,20
+"166","Azmatullah Omarzai","Leg spin",14,29,0,NA,NA,NA,21.43,7.14
+"167","Azmatullah Omarzai","Off spin",2,5,0,NA,NA,NA,50,0
+"168","Azmatullah Omarzai","Right arm pace",24,31,4,7.75,3.5,3.16,20.83,37.5
+"169","Azmatullah Omarzai","Slow left arm orthodox",20,13,2,6.5,0.5,0.71,5,65
+"170","Baba Indrajith","Left arm wrist spin",1,0,1,0,0,NA,0,100
+"171","Baba Indrajith","Left arm pace",18,9,1,9,0,NA,0,61.11
+"172","Baba Indrajith","Right arm pace",8,9,1,9,9,NA,25,62.5
+"173","Baba Indrajith","Slow left arm orthodox",3,3,0,NA,NA,NA,0,0
+"174","Bhuvneshwar Kumar","Left arm wrist spin",11,14,0,NA,NA,NA,18.18,27.27
+"175","Bhuvneshwar Kumar","Left arm pace",21,19,3,6.33,1,3.21,4.76,38.1
+"176","Bhuvneshwar Kumar","Leg spin",24,17,2,8.5,1,1.41,8.33,54.17
+"177","Bhuvneshwar Kumar","Off spin",5,2,0,NA,NA,NA,0,60
+"178","Bhuvneshwar Kumar","Right arm pace",57,43,5,8.6,2,3.88,8.77,50.88
+"179","Bhuvneshwar Kumar","Slow left arm orthodox",4,4,1,4,4,NA,25,75
+"180","Sai Sudharsan","Left arm wrist spin",34,42,1,42,0,NA,8.82,20.59
+"181","Sai Sudharsan","Left arm pace",232,316,7,45.14,10,8.5,19.83,34.48
+"182","Sai Sudharsan","Leg spin",138,210,3,70,9.5,4.51,16.67,20.29
+"183","Sai Sudharsan","Off spin",107,163,2,81.5,13.5,0.71,19.63,21.5
+"184","Sai Sudharsan","Right arm pace",541,784,19,41.26,19,19.78,20.52,29.94
+"185","Sai Sudharsan","Slow left arm orthodox",146,224,2,112,10.5,2.12,18.49,17.81
+"186","Ben Stokes","Leg spin",6,7,1,7,6,NA,16.67,33.33
+"187","Ben Stokes","Right arm pace",8,8,1,8,7,NA,12.5,37.5
+"188","Kusal Mendis","Left arm pace",4,14,0,NA,NA,NA,50,25
+"189","Kusal Mendis","Right arm pace",5,6,0,NA,NA,NA,20,40
+"190","Kusal Mendis","Slow left arm orthodox",1,0,1,0,0,NA,0,100
+"191","BR Sharath","Leg spin",3,1,0,NA,NA,NA,0,66.67
+"192","BR Sharath","Slow left arm orthodox",2,1,1,1,1,NA,0,50
+"193","Corbin Bosch","Leg spin",4,3,0,NA,NA,NA,0,50
+"194","Corbin Bosch","Right arm pace",24,32,2,16,16,11.31,16.67,41.67
+"195","Cameron Green","Left arm wrist spin",30,55,1,55,17,NA,20,33.33
+"196","Cameron Green","Left arm pace",82,145,4,36.25,1,1.73,28.05,23.17
+"197","Cameron Green","Leg spin",71,99,0,NA,NA,NA,12.68,19.72
+"198","Cameron Green","Off spin",51,69,3,23,7,3.79,15.69,33.33
+"199","Cameron Green","Right arm pace",165,259,8,32.38,8.5,5.91,22.42,26.67
+"200","Cameron Green","Slow left arm orthodox",61,80,1,80,11,NA,18.03,37.7
+"201","Chetan Sakariya","Off spin",2,0,0,NA,NA,NA,0,100
+"202","Chetan Sakariya","Right arm pace",4,4,1,4,4,NA,25,75
+"203","Chris Jordan","Left arm pace",5,2,1,2,2,NA,0,60
+"204","Chris Jordan","Leg spin",8,7,1,7,5,NA,0,37.5
+"205","Chris Jordan","Right arm pace",7,8,1,8,0,NA,0,28.57
+"206","Varun Chakravarthy","Left arm wrist spin",3,1,0,NA,NA,NA,0,66.67
+"207","Varun Chakravarthy","Left arm pace",2,2,0,NA,NA,NA,0,0
+"208","Varun Chakravarthy","Leg spin",3,0,0,NA,NA,NA,0,100
+"209","Varun Chakravarthy","Off spin",3,0,0,NA,NA,NA,0,100
+"210","Varun Chakravarthy","Right arm pace",17,11,0,NA,NA,NA,11.76,70.59
+"211","Dewald Brevis","Left arm wrist spin",16,22,0,NA,NA,NA,18.75,43.75
+"212","Dewald Brevis","Left arm pace",31,39,3,13,0,0.58,19.35,45.16
+"213","Dewald Brevis","Leg spin",60,97,3,32.33,5,2.65,20,36.67
+"214","Dewald Brevis","Off spin",14,24,0,NA,NA,NA,21.43,21.43
+"215","Dewald Brevis","Right arm pace",121,201,10,20.1,11.5,10.83,26.45,38.02
+"216","Dewald Brevis","Slow left arm orthodox",35,36,0,NA,NA,NA,8.57,42.86
+"217","Donovan Ferreira","Left arm wrist spin",1,0,1,0,0,NA,0,100
+"218","Donovan Ferreira","Left arm pace",2,1,0,NA,NA,NA,0,50
+"219","Donovan Ferreira","Leg spin",3,1,0,NA,NA,NA,0,66.67
+"220","Donovan Ferreira","Right arm pace",8,7,2,3.5,3.5,3.54,0,25
+"221","Devdutt Padikkal","Left arm wrist spin",16,15,1,15,0,NA,6.25,25
+"222","Devdutt Padikkal","Left arm pace",126,154,9,17.11,0,5.96,18.25,43.65
+"223","Devdutt Padikkal","Leg spin",114,135,4,33.75,1.5,2.63,11.4,25.44
+"224","Devdutt Padikkal","Off spin",78,92,7,13.14,1,3.21,12.82,30.77
+"225","Devdutt Padikkal","Right arm pace",314,419,18,23.28,2.5,9.75,21.97,44.59
+"226","Devdutt Padikkal","Slow left arm orthodox",71,104,3,34.67,4,5.03,21.13,38.03
+"227","Dwaine Pretorius","Left arm pace",4,8,1,8,8,NA,25,25
+"228","Dwaine Pretorius","Leg spin",4,8,1,8,8,NA,25,50
+"229","Dwaine Pretorius","Right arm pace",20,28,2,14,6.5,9.19,20,35
+"230","David Wiese","Left arm wrist spin",3,0,0,NA,NA,NA,0,100
+"231","David Wiese","Left arm pace",2,7,0,NA,NA,NA,50,0
+"232","David Wiese","Right arm pace",6,14,1,14,1,NA,33.33,16.67
+"233","David Miller","Left arm wrist spin",24,23,1,23,0,NA,12.5,37.5
+"234","David Miller","Left arm pace",112,131,4,32.75,2.5,1.71,10.71,25
+"235","David Miller","Leg spin",123,190,4,47.5,4.5,4.57,17.07,23.58
+"236","David Miller","Off spin",102,155,1,155,4,NA,17.65,22.55
+"237","David Miller","Right arm pace",357,527,15,35.13,9,10.67,19.33,27.73
+"238","David Miller","Slow left arm orthodox",51,66,1,66,3,NA,11.76,23.53
+"239","David Warner","Left arm pace",145,217,6,36.17,7,4.89,24.83,40.69
+"240","David Warner","Leg spin",99,132,5,26.4,7,7.37,14.14,24.24
+"241","David Warner","Off spin",118,149,2,74.5,8,5.66,17.8,34.75
+"242","David Warner","Right arm pace",399,538,15,35.87,14,11.21,22.56,42.86
+"243","David Warner","Slow left arm orthodox",45,80,2,40,5.5,6.36,26.67,24.44
+"244","Darshan Nalkande","Leg spin",2,2,0,NA,NA,NA,0,0
+"245","Darshan Nalkande","Right arm pace",1,0,1,0,0,NA,0,100
+"246","Darshan Nalkande","Slow left arm orthodox",9,10,1,10,10,NA,11.11,44.44
+"247","Dwayne Bravo","Left arm pace",4,4,0,NA,NA,NA,0,0
+"248","Dwayne Bravo","Leg spin",1,0,1,0,0,NA,0,100
+"249","Dwayne Bravo","Off spin",1,1,0,NA,NA,NA,0,0
+"250","Dwayne Bravo","Right arm pace",13,9,0,NA,NA,NA,7.69,46.15
+"251","Dwayne Bravo","Slow left arm orthodox",6,9,1,9,9,NA,16.67,33.33
+"252","Deepak Hooda","Left arm wrist spin",17,22,1,22,5,NA,11.76,17.65
+"253","Deepak Hooda","Left arm pace",115,160,5,32,8,4.67,19.13,30.43
+"254","Deepak Hooda","Leg spin",99,131,10,13.1,2.5,7.77,13.13,26.26
+"255","Deepak Hooda","Off spin",48,49,3,16.33,0,4.62,6.25,31.25
+"256","Deepak Hooda","Right arm pace",223,268,15,17.87,5,9.05,15.7,39.01
+"257","Deepak Hooda","Slow left arm orthodox",56,69,1,69,1,NA,8.93,26.79
+"258","Daryl Mitchell","Left arm wrist spin",4,4,0,NA,NA,NA,0,25
+"259","Daryl Mitchell","Left arm pace",56,64,4,16,3,8.16,14.29,35.71
+"260","Daryl Mitchell","Leg spin",31,51,1,51,0,NA,19.35,16.13
+"261","Daryl Mitchell","Off spin",21,32,1,32,17,NA,19.05,19.05
+"262","Daryl Mitchell","Right arm pace",115,149,6,24.83,6.5,14.35,13.04,26.96
+"263","Daryl Mitchell","Slow left arm orthodox",41,51,1,51,14,NA,12.2,29.27
+"264","David Willey","Leg spin",23,19,1,19,0,NA,13.04,52.17
+"265","David Willey","Off spin",14,7,1,7,4,NA,0,64.29
+"266","David Willey","Right arm pace",26,27,0,NA,NA,NA,15.38,42.31
+"267","Deepak Chahar","Left arm wrist spin",4,1,0,NA,NA,NA,0,75
+"268","Deepak Chahar","Left arm pace",4,12,0,NA,NA,NA,50,0
+"269","Deepak Chahar","Leg spin",2,1,0,NA,NA,NA,0,50
+"270","Deepak Chahar","Right arm pace",16,24,0,NA,NA,NA,18.75,25
+"271","Deepak Chahar","Slow left arm orthodox",1,0,1,0,0,NA,0,100
+"272","Devon Conway","Left arm wrist spin",49,79,1,79,7,NA,20.41,20.41
+"273","Devon Conway","Left arm pace",130,219,3,73,0,2.89,25.38,23.85
+"274","Devon Conway","Leg spin",120,179,5,35.8,20,10.42,18.33,30.83
+"275","Devon Conway","Off spin",93,123,3,41,1,1,18.28,30.11
+"276","Devon Conway","Right arm pace",334,410,10,41,20,12.73,18.26,36.53
+"277","Devon Conway","Slow left arm orthodox",42,65,1,65,0,NA,19.05,26.19
+"278","Daniel Sams","Left arm pace",6,1,1,1,0,NA,0,83.33
+"279","Daniel Sams","Leg spin",1,0,1,0,0,NA,0,100
+"280","Daniel Sams","Off spin",8,18,0,NA,NA,NA,25,0
+"281","Daniel Sams","Right arm pace",19,19,4,4.75,0.5,0.58,10.53,52.63
+"282","Daniel Sams","Slow left arm orthodox",2,0,1,0,0,NA,0,100
+"283","DS Rathi","Left arm pace",2,1,1,1,1,NA,0,50
+"284","DS Rathi","Right arm pace",1,0,0,NA,NA,NA,0,100
+"285","Dhruv Jurel","Left arm wrist spin",21,30,2,15,2.5,3.54,19.05,23.81
+"286","Dhruv Jurel","Left arm pace",83,118,5,23.6,2,5.55,19.28,30.12
+"287","Dhruv Jurel","Leg spin",69,86,4,21.5,2,3.56,13.04,40.58
+"288","Dhruv Jurel","Off spin",24,29,2,14.5,1,0,12.5,33.33
+"289","Dhruv Jurel","Right arm pace",181,332,9,36.89,9,11.76,25.41,23.2
+"290","Dhruv Jurel","Slow left arm orthodox",66,84,0,NA,NA,NA,16.67,34.85
+"291","Evin Lewis","Left arm wrist spin",5,3,0,NA,NA,NA,0,40
+"292","Evin Lewis","Off spin",11,2,2,1,1,1.41,0,72.73
+"293","Evin Lewis","Right arm pace",40,68,1,68,10,NA,27.5,30
+"294","Faf du Plessis","Left arm wrist spin",10,8,1,8,2,NA,0,30
+"295","Faf du Plessis","Left arm pace",273,376,15,25.07,3,11.39,20.88,39.19
+"296","Faf du Plessis","Leg spin",199,258,8,32.25,4.5,5.73,12.56,28.64
+"297","Faf du Plessis","Off spin",94,106,4,26.5,4,6.95,10.64,29.79
+"298","Faf du Plessis","Right arm pace",475,779,18,43.28,6.5,15.15,26.32,33.26
+"299","Faf du Plessis","Slow left arm orthodox",211,282,3,94,7,14.86,14.22,26.07
+"300","Fabian Allen","Leg spin",3,5,0,NA,NA,NA,33.33,33.33
+"301","Fabian Allen","Right arm pace",4,3,1,3,3,NA,0,50
+"302","Fazalhaq Farooqi","Left arm pace",2,2,0,NA,NA,NA,0,0
+"303","Fazalhaq Farooqi","Leg spin",5,1,0,NA,NA,NA,0,80
+"304","Fazalhaq Farooqi","Right arm pace",8,2,0,NA,NA,NA,0,75
+"305","Gerald Coetzee","Left arm wrist spin",1,1,0,NA,NA,NA,0,0
+"306","Gerald Coetzee","Left arm pace",9,3,2,1.5,1,0,0,55.56
+"307","Gerald Coetzee","Leg spin",5,1,1,1,1,NA,0,80
+"308","Gerald Coetzee","Off spin",2,2,0,NA,NA,NA,0,0
+"309","Gerald Coetzee","Right arm pace",13,19,3,6.33,4,3.51,23.08,46.15
+"310","Glenn Phillips","Left arm pace",5,22,1,22,22,NA,80,20
+"311","Glenn Phillips","Leg spin",2,3,0,NA,NA,NA,0,0
+"312","Glenn Phillips","Off spin",2,1,1,1,1,NA,0,50
+"313","Glenn Phillips","Right arm pace",12,13,2,6.5,3,2.83,16.67,58.33
+"314","Glenn Phillips","Slow left arm orthodox",1,0,1,0,0,NA,0,100
+"315","Glenn Maxwell","Left arm wrist spin",12,34,2,17,11.5,16.26,50,25
+"316","Glenn Maxwell","Left arm pace",75,118,5,23.6,4,6.38,28,38.67
+"317","Glenn Maxwell","Leg spin",95,164,7,23.43,1,2.24,27.37,29.47
+"318","Glenn Maxwell","Off spin",71,110,6,18.33,2.5,9.61,16.9,30.99
+"319","Glenn Maxwell","Right arm pace",181,299,10,29.9,6.5,12.21,25.41,34.81
+"320","Glenn Maxwell","Slow left arm orthodox",55,74,7,10.57,1,2.05,16.36,34.55
+"321","Gulbadin Naib","Left arm pace",2,1,1,1,1,NA,0,50
+"322","Gulbadin Naib","Leg spin",5,13,0,NA,NA,NA,40,0
+"323","Gulbadin Naib","Off spin",4,3,0,NA,NA,NA,0,25
+"324","Gulbadin Naib","Right arm pace",4,2,0,NA,NA,NA,0,50
+"325","Heinrich Klaasen","Left arm wrist spin",30,73,0,NA,NA,NA,36.67,13.33
+"326","Heinrich Klaasen","Left arm pace",86,144,0,NA,NA,NA,20.93,24.42
+"327","Heinrich Klaasen","Leg spin",149,302,6,50.33,8.5,9.25,26.85,23.49
+"328","Heinrich Klaasen","Off spin",71,104,0,NA,NA,NA,14.08,18.31
+"329","Heinrich Klaasen","Right arm pace",333,552,20,27.6,12,11.37,21.92,21.62
+"330","Heinrich Klaasen","Slow left arm orthodox",115,190,5,38,7,3.83,20,25.22
+"331","Harry Brook","Left arm pace",36,34,3,11.33,9,2.08,16.67,61.11
+"332","Harry Brook","Leg spin",32,44,2,22,3,0,15.62,28.12
+"333","Harry Brook","Off spin",12,12,0,NA,NA,NA,0,16.67
+"334","Harry Brook","Right arm pace",68,93,3,31,0,3.46,22.06,39.71
+"335","Harry Brook","Slow left arm orthodox",8,7,1,7,0,NA,12.5,50
+"336","Rassie van der Dussen","Left arm pace",4,3,1,3,0,NA,0,50
+"337","Rassie van der Dussen","Leg spin",3,1,0,NA,NA,NA,0,33.33
+"338","Rassie van der Dussen","Off spin",1,0,1,0,0,NA,0,100
+"339","Rassie van der Dussen","Right arm pace",16,18,0,NA,NA,NA,12.5,31.25
+"340","Hardik Pandya","Left arm wrist spin",33,40,0,NA,NA,NA,15.15,33.33
+"341","Hardik Pandya","Left arm pace",144,191,7,27.29,2,4.68,18.75,34.03
+"342","Hardik Pandya","Leg spin",147,215,5,43,5,5.94,17.69,27.89
+"343","Hardik Pandya","Off spin",86,131,1,131,1,NA,16.28,23.26
+"344","Hardik Pandya","Right arm pace",399,582,21,27.71,6,11,19.3,31.08
+"345","Hardik Pandya","Slow left arm orthodox",94,100,5,20,2,2.59,11.7,41.49
+"346","Hrithik Shokeen","Left arm pace",5,0,0,NA,NA,NA,0,80
+"347","Hrithik Shokeen","Leg spin",2,5,0,NA,NA,NA,50,0
+"348","Hrithik Shokeen","Off spin",7,6,1,6,6,NA,14.29,57.14
+"349","Hrithik Shokeen","Right arm pace",31,32,2,16,1,1.41,12.9,38.71
+"350","Hrithik Shokeen","Slow left arm orthodox",20,23,0,NA,NA,NA,15,45
+"351","Harshal Patel","Left arm wrist spin",1,1,0,NA,NA,NA,0,0
+"352","Harshal Patel","Left arm pace",8,4,3,1.33,0,0,0,50
+"353","Harshal Patel","Leg spin",12,19,1,19,0,NA,25,50
+"354","Harshal Patel","Off spin",1,1,0,NA,NA,NA,0,0
+"355","Harshal Patel","Right arm pace",53,46,6,7.67,1,4.31,9.43,47.17
+"356","Harshal Patel","Slow left arm orthodox",11,10,1,10,6,NA,9.09,63.64
+"357","Harpreet Brar","Left arm wrist spin",2,0,2,0,0,0,0,100
+"358","Harpreet Brar","Left arm pace",14,25,1,25,5,NA,21.43,28.57
+"359","Harpreet Brar","Leg spin",24,14,0,NA,NA,NA,4.17,54.17
+"360","Harpreet Brar","Off spin",11,12,0,NA,NA,NA,9.09,45.45
+"361","Harpreet Brar","Right arm pace",74,90,8,11.25,4.5,6.93,17.57,37.84
+"362","Harpreet Brar","Slow left arm orthodox",9,19,1,19,17,NA,33.33,22.22
+"363","Harpreet Singh","Left arm pace",9,25,0,NA,NA,NA,55.56,33.33
+"364","Harpreet Singh","Leg spin",8,4,1,4,1,NA,0,50
+"365","Harpreet Singh","Off spin",20,18,0,NA,NA,NA,5,35
+"366","Harpreet Singh","Right arm pace",44,39,2,19.5,6,3.51,11.36,47.73
+"367","Harpreet Singh","Slow left arm orthodox",12,17,1,17,12,NA,16.67,25
+"368","Harshit Rana","Left arm pace",12,4,2,2,1,1.41,0,66.67
+"369","Harshit Rana","Leg spin",4,6,0,NA,NA,NA,25,25
+"370","Harshit Rana","Right arm pace",16,19,2,9.5,3,1.41,18.75,56.25
+"371","Harshit Rana","Slow left arm orthodox",10,22,0,NA,NA,NA,30,40
+"372","Ishant Sharma","Right arm pace",8,2,0,NA,NA,NA,0,75
+"373","Ishan Kishan","Left arm wrist spin",25,36,2,18,9,1.41,16,24
+"374","Ishan Kishan","Left arm pace",212,314,11,28.55,10,8.17,25.94,39.15
+"375","Ishan Kishan","Leg spin",115,142,7,20.29,6,5.93,14.78,31.3
+"376","Ishan Kishan","Off spin",138,177,4,44.25,5.5,5.57,17.39,36.96
+"377","Ishan Kishan","Right arm pace",508,703,24,29.29,7,9.57,20.47,39.96
+"378","Ishan Kishan","Slow left arm orthodox",104,161,3,53.67,6,5.86,20.19,22.12
+"379","Jake Fraser-McGurk","Left arm pace",43,79,4,19.75,5,6.4,34.88,48.84
+"380","Jake Fraser-McGurk","Leg spin",17,36,2,18,15.5,4.95,29.41,29.41
+"381","Jake Fraser-McGurk","Off spin",8,30,1,30,0,NA,75,25
+"382","Jake Fraser-McGurk","Right arm pace",102,187,6,31.17,5,10.64,33.33,41.18
+"383","Jake Fraser-McGurk","Slow left arm orthodox",16,34,0,NA,NA,NA,31.25,31.25
+"384","Jamie Overton","Left arm pace",1,0,0,NA,NA,NA,0,0
+"385","Jamie Overton","Right arm pace",6,15,0,NA,NA,NA,33.33,16.67
+"386","Jagadeesha Suchith","Leg spin",4,2,1,2,2,NA,0,50
+"387","Jagadeesha Suchith","Right arm pace",4,0,1,0,0,NA,0,75
+"388","Jhye Richardson","Right arm pace",2,2,1,2,2,NA,0,50
+"389","Jofra Archer","Left arm pace",8,10,3,3.33,0,5.2,12.5,50
+"390","Jofra Archer","Leg spin",10,13,0,NA,NA,NA,10,10
+"391","Jofra Archer","Right arm pace",35,43,2,21.5,0,6.93,14.29,45.71
+"392","Jofra Archer","Slow left arm orthodox",1,1,0,NA,NA,NA,0,0
+"393","Jos Buttler","Left arm wrist spin",40,63,1,63,0,NA,20,30
+"394","Jos Buttler","Left arm pace",292,445,8,55.62,14,18.53,22.6,33.9
+"395","Jos Buttler","Leg spin",161,229,3,76.33,1,2.65,17.39,31.68
+"396","Jos Buttler","Off spin",117,193,4,48.25,22,13.15,20.51,25.64
+"397","Jos Buttler","Right arm pace",682,987,27,36.56,11,19.57,22.43,38.56
+"398","Jos Buttler","Slow left arm orthodox",114,161,2,80.5,5.5,6.36,18.42,29.82
+"399","Jaydev Unadkat","Left arm pace",9,13,1,13,1,NA,11.11,22.22
+"400","Jaydev Unadkat","Leg spin",2,1,0,NA,NA,NA,0,50
+"401","Jaydev Unadkat","Off spin",5,3,1,3,3,NA,0,40
+"402","Jaydev Unadkat","Right arm pace",51,73,2,36.5,8,3.86,19.61,39.22
+"403","Jaydev Unadkat","Slow left arm orthodox",3,2,0,NA,NA,NA,0,33.33
+"404","James Neesham","Left arm pace",1,1,0,NA,NA,NA,0,0
+"405","James Neesham","Leg spin",14,16,0,NA,NA,NA,14.29,28.57
+"406","James Neesham","Right arm pace",7,8,1,8,8,NA,0,14.29
+"407","James Neesham","Slow left arm orthodox",5,6,0,NA,NA,NA,20,40
+"408","Joe Root","Left arm pace",8,4,1,4,4,NA,0,50
+"409","Joe Root","Off spin",1,1,0,NA,NA,NA,0,0
+"410","Joe Root","Right arm pace",6,5,0,NA,NA,NA,16.67,66.67
+"411","Jacob Bethell","Left arm wrist spin",6,14,0,NA,NA,NA,50,50
+"412","Jacob Bethell","Left arm pace",15,36,0,NA,NA,NA,46.67,26.67
+"413","Jacob Bethell","Right arm pace",3,1,1,1,1,NA,0,66.67
+"414","Jacob Bethell","Slow left arm orthodox",8,8,1,8,2,NA,12.5,37.5
+"415","Jasprit Bumrah","Left arm pace",2,1,0,NA,NA,NA,0,50
+"416","Jasprit Bumrah","Leg spin",3,1,0,NA,NA,NA,0,66.67
+"417","Jasprit Bumrah","Right arm pace",13,10,1,10,0,NA,7.69,53.85
+"418","Jasprit Bumrah","Slow left arm orthodox",3,0,0,NA,NA,NA,0,100
+"419","Jason Roy","Left arm wrist spin",7,8,1,8,8,NA,14.29,57.14
+"420","Jason Roy","Left arm pace",24,37,1,37,10,NA,29.17,45.83
+"421","Jason Roy","Leg spin",10,15,0,NA,NA,NA,30,40
+"422","Jason Roy","Off spin",17,48,1,48,39,NA,47.06,11.76
+"423","Jason Roy","Right arm pace",101,117,3,39,18,3.79,18.81,42.57
+"424","Jason Roy","Slow left arm orthodox",30,60,2,30,10,14.14,33.33,30
+"425","Jonny Bairstow","Left arm wrist spin",1,0,1,0,0,NA,0,100
+"426","Jonny Bairstow","Left arm pace",79,123,3,41,7,3.21,26.58,35.44
+"427","Jonny Bairstow","Leg spin",50,64,2,32,3,1.41,16,32
+"428","Jonny Bairstow","Off spin",37,50,0,NA,NA,NA,18.92,37.84
+"429","Jonny Bairstow","Right arm pace",199,326,12,27.17,8,7.86,27.64,36.68
+"430","Jonny Bairstow","Slow left arm orthodox",50,73,4,18.25,1.5,1.29,22,40
+"431","Jitesh Sharma","Left arm wrist spin",37,43,3,14.33,2,1.53,13.51,37.84
+"432","Jitesh Sharma","Left arm pace",107,184,4,46,8,6,26.17,35.51
+"433","Jitesh Sharma","Leg spin",100,146,7,20.86,4,7.02,18,32
+"434","Jitesh Sharma","Off spin",30,46,0,NA,NA,NA,16.67,40
+"435","Jitesh Sharma","Right arm pace",284,449,19,23.63,9,8.8,23.59,35.21
+"436","Jitesh Sharma","Slow left arm orthodox",64,106,6,17.67,4.5,4.23,21.88,29.69
+"437","Jason Holder","Left arm pace",15,14,1,14,1,NA,13.33,46.67
+"438","Jason Holder","Leg spin",10,11,2,5.5,4.5,4.95,10,40
+"439","Jason Holder","Right arm pace",30,45,5,9,9,7.37,20,50
+"440","Jason Behrendorff","Left arm pace",6,3,0,NA,NA,NA,0,50
+"441","Jason Behrendorff","Right arm pace",3,3,0,NA,NA,NA,0,0
+"442","Josh Inglis","Left arm pace",35,49,1,49,11,NA,20,48.57
+"443","Josh Inglis","Leg spin",14,15,2,7.5,3,1.41,7.14,35.71
+"444","Josh Inglis","Off spin",2,2,0,NA,NA,NA,0,0
+"445","Josh Inglis","Right arm pace",74,127,3,42.33,2,10.97,27.03,33.78
+"446","Josh Inglis","Slow left arm orthodox",39,58,2,29,14.5,6.36,20.51,33.33
+"447","Josh Hazlewood","Left arm pace",11,10,0,NA,NA,NA,9.09,36.36
+"448","Josh Hazlewood","Right arm pace",17,9,0,NA,NA,NA,0,52.94
+"449","Josh Hazlewood","Slow left arm orthodox",1,0,0,NA,NA,NA,0,100
+"450","Krishnappa Gowtham","Left arm pace",4,7,2,3.5,0.5,0.71,25,50
+"451","Krishnappa Gowtham","Leg spin",14,23,1,23,1,NA,21.43,28.57
+"452","Krishnappa Gowtham","Right arm pace",20,31,2,15.5,1,0,15,25
+"453","Kumar Kartikeya","Left arm pace",4,6,0,NA,NA,NA,25,25
+"454","Kumar Kartikeya","Leg spin",4,2,1,2,2,NA,0,50
+"455","Kumar Kartikeya","Right arm pace",9,4,2,2,2,1.41,0,44.44
+"456","Kagiso Rabada","Left arm wrist spin",2,1,1,1,1,NA,0,50
+"457","Kagiso Rabada","Left arm pace",2,0,1,0,0,NA,0,100
+"458","Kagiso Rabada","Leg spin",6,2,0,NA,NA,NA,0,66.67
+"459","Kagiso Rabada","Off spin",2,1,1,1,1,NA,0,50
+"460","Kagiso Rabada","Right arm pace",49,72,4,18,7,10.25,20.41,32.65
+"461","Kagiso Rabada","Slow left arm orthodox",4,1,0,NA,NA,NA,0,75
+"462","Kyle Jamieson","Left arm pace",2,0,0,NA,NA,NA,0,50
+"463","Kyle Jamieson","Right arm pace",3,0,0,NA,NA,NA,0,66.67
+"464","Keshav Maharaj","Left arm pace",2,1,1,1,1,NA,0,50
+"465","Kieron Pollard","Left arm wrist spin",3,2,1,2,2,NA,0,33.33
+"466","Kieron Pollard","Left arm pace",17,22,0,NA,NA,NA,17.65,41.18
+"467","Kieron Pollard","Leg spin",25,18,2,9,0,0,8,56
+"468","Kieron Pollard","Off spin",12,14,1,14,8,NA,8.33,33.33
+"469","Kieron Pollard","Right arm pace",76,88,5,17.6,8,8.38,11.84,39.47
+"470","Kieron Pollard","Slow left arm orthodox",1,0,1,0,0,NA,0,100
+"471","Dinesh Karthik","Left arm wrist spin",17,12,1,12,0,NA,5.88,52.94
+"472","Dinesh Karthik","Left arm pace",91,204,6,34,4,16.08,34.07,21.98
+"473","Dinesh Karthik","Leg spin",72,87,4,21.75,4,2.35,12.5,30.56
+"474","Dinesh Karthik","Off spin",41,73,0,NA,NA,NA,26.83,24.39
+"475","Dinesh Karthik","Right arm pace",211,384,12,32,8,6.87,27.96,29.38
+"476","Dinesh Karthik","Slow left arm orthodox",27,36,1,36,0,NA,18.52,33.33
+"477","Krunal Pandya","Left arm wrist spin",39,35,2,17.5,5.5,2.12,7.69,41.03
+"478","Krunal Pandya","Left arm pace",84,119,5,23.8,1,6.43,14.29,28.57
+"479","Krunal Pandya","Leg spin",70,87,3,29,3,2.52,12.86,40
+"480","Krunal Pandya","Off spin",66,49,6,8.17,1.5,2.1,6.06,50
+"481","Krunal Pandya","Right arm pace",201,273,11,24.82,1,5.84,16.92,29.35
+"482","Krunal Pandya","Slow left arm orthodox",32,34,1,34,0,NA,9.38,37.5
+"483","Khaleel Ahmed","Right arm pace",4,1,2,0.5,0,0,0,75
+"484","Karun Nair","Left arm pace",26,41,1,41,0,NA,26.92,38.46
+"485","Karun Nair","Leg spin",17,38,0,NA,NA,NA,41.18,11.76
+"486","Karun Nair","Off spin",9,10,1,10,6,NA,11.11,44.44
+"487","Karun Nair","Right arm pace",61,100,4,25,1,5.61,27.87,34.43
+"488","Karun Nair","Slow left arm orthodox",18,24,3,8,6,2.65,16.67,22.22
+"489","KL Rahul","Left arm wrist spin",45,70,2,35,6,7.07,17.78,17.78
+"490","KL Rahul","Left arm pace",303,441,9,49,8,7.97,21.45,31.68
+"491","KL Rahul","Leg spin",187,235,3,78.33,11,5.03,12.83,27.27
+"492","KL Rahul","Off spin",168,211,2,105.5,4.5,4.95,12.5,30.36
+"493","KL Rahul","Right arm pace",594,817,25,32.68,12,12.8,18.52,34.34
+"494","KL Rahul","Slow left arm orthodox",120,154,0,NA,NA,NA,12.5,25
+"495","KM Asif","Leg spin",2,0,1,0,0,NA,0,100
+"496","Kedar Jadhav","Right arm pace",8,9,0,NA,NA,NA,12.5,37.5
+"497","Kedar Jadhav","Slow left arm orthodox",2,3,0,NA,NA,NA,0,0
+"498","Kyle Mayers","Left arm wrist spin",15,27,0,NA,NA,NA,26.67,33.33
+"499","Kyle Mayers","Left arm pace",55,61,1,61,4,NA,20,56.36
+"500","Kyle Mayers","Leg spin",20,40,1,40,8,NA,30,25
+"501","Kyle Mayers","Off spin",40,53,4,13.25,2.5,2.38,17.5,47.5
+"502","Kyle Mayers","Right arm pace",118,172,5,34.4,2,13.65,23.73,44.07
+"503","Kyle Mayers","Slow left arm orthodox",15,26,2,13,13,16.97,26.67,46.67
+"504","Kuldeep Sen","Left arm pace",3,0,0,NA,NA,NA,0,100
+"505","K Srikar Bharat","Left arm pace",2,0,1,0,0,NA,0,100
+"506","K Srikar Bharat","Right arm pace",5,8,1,8,8,NA,40,60
+"507","KS Rathore","Off spin",3,0,1,0,0,NA,0,100
+"508","KS Rathore","Right arm pace",2,0,0,NA,NA,NA,0,100
+"509","Karan Sharma","Left arm pace",3,4,1,4,4,NA,33.33,66.67
+"510","Karan Sharma","Off spin",9,5,1,5,5,NA,0,44.44
+"511","Karan Sharma","Right arm pace",9,4,1,4,3,NA,0,55.56
+"512","Karan Sharma","Slow left arm orthodox",4,3,0,NA,NA,NA,0,25
+"513","Kane Williamson","Left arm pace",29,17,1,17,1,NA,6.9,68.97
+"514","Kane Williamson","Leg spin",16,14,1,14,0,NA,6.25,31.25
+"515","Kane Williamson","Off spin",24,25,0,NA,NA,NA,8.33,33.33
+"516","Kane Williamson","Right arm pace",153,153,9,17,8,15.2,13.73,50.33
+"517","Kane Williamson","Slow left arm orthodox",37,34,1,34,8,NA,5.41,35.14
+"518","Kwena Maphaka","Left arm pace",2,8,0,NA,NA,NA,100,0
+"519","Karn Sharma","Left arm pace",5,18,1,18,18,NA,60,40
+"520","Karn Sharma","Leg spin",2,0,1,0,0,NA,0,100
+"521","Karn Sharma","Right arm pace",14,17,2,8.5,5,2.08,14.29,21.43
+"522","Kartik Tyagi","Left arm wrist spin",1,0,1,0,0,NA,0,100
+"523","Kartik Tyagi","Right arm pace",5,7,1,7,0,NA,20,40
+"524","Kuldeep Yadav","Left arm pace",31,24,3,8,0,0.58,6.45,48.39
+"525","Kuldeep Yadav","Leg spin",18,19,1,19,3,NA,11.11,44.44
+"526","Kuldeep Yadav","Off spin",19,10,1,10,0,NA,5.26,57.89
+"527","Kuldeep Yadav","Right arm pace",87,83,2,41.5,1.5,0.71,10.34,41.38
+"528","Kuldeep Yadav","Slow left arm orthodox",1,4,0,NA,NA,NA,100,0
+"529","Kumar Kushagra","Leg spin",3,1,1,1,1,NA,0,66.67
+"530","Kumar Kushagra","Right arm pace",4,2,2,1,1,1.41,0,75
+"531","Lungi Ngidi","Right arm pace",2,0,0,NA,NA,NA,0,100
+"532","Luke Wood","Right arm pace",3,9,0,NA,NA,NA,33.33,0
+"533","Lizaad Williams","Right arm pace",2,1,0,NA,NA,NA,0,50
+"534","Lockie Ferguson","Left arm pace",2,2,1,2,1,NA,0,0
+"535","Lockie Ferguson","Right arm pace",4,8,2,4,2,2.83,50,50
+"536","Liam Livingstone","Left arm wrist spin",30,32,3,10.67,5,3.06,10,36.67
+"537","Liam Livingstone","Left arm pace",72,139,1,139,0,NA,31.94,26.39
+"538","Liam Livingstone","Leg spin",103,137,4,34.25,3,8.02,13.59,31.07
+"539","Liam Livingstone","Off spin",19,32,0,NA,NA,NA,21.05,26.32
+"540","Liam Livingstone","Right arm pace",253,495,20,24.75,7,14.05,30.04,30.04
+"541","Liam Livingstone","Slow left arm orthodox",99,104,3,34.67,1,7.23,10.1,35.35
+"542","Lalit Yadav","Left arm pace",35,50,3,16.67,4,4.62,20,25.71
+"543","Lalit Yadav","Leg spin",49,55,2,27.5,1,0,12.24,44.9
+"544","Lalit Yadav","Off spin",34,28,3,9.33,1,4.36,8.82,47.06
+"545","Lalit Yadav","Right arm pace",97,102,5,20.4,2.5,6.05,11.34,37.11
+"546","Lalit Yadav","Slow left arm orthodox",2,2,0,NA,NA,NA,0,0
+"547","Liton Das","Right arm pace",4,4,1,4,4,NA,25,75
+"548","Murugan Ashwin","Left arm pace",2,0,0,NA,NA,NA,0,100
+"549","Murugan Ashwin","Leg spin",2,1,0,NA,NA,NA,0,50
+"550","Murugan Ashwin","Right arm pace",10,11,2,5.5,5,3.21,20,70
+"551","Marco Jansen","Left arm wrist spin",4,6,0,NA,NA,NA,25,25
+"552","Marco Jansen","Left arm pace",13,16,1,16,0,NA,15.38,38.46
+"553","Marco Jansen","Leg spin",15,22,0,NA,NA,NA,20,20
+"554","Marco Jansen","Off spin",13,6,2,3,0.5,0.71,0,53.85
+"555","Marco Jansen","Right arm pace",80,88,6,14.67,1.5,4.75,10,30
+"556","Marco Jansen","Slow left arm orthodox",2,3,0,NA,NA,NA,0,0
+"557","Mayank Markande","Left arm pace",4,3,0,NA,NA,NA,0,25
+"558","Mayank Markande","Leg spin",5,7,0,NA,NA,NA,20,20
+"559","Mayank Markande","Right arm pace",4,11,0,NA,NA,NA,50,25
+"560","Prasidh Krishna","Leg spin",2,1,0,NA,NA,NA,0,50
+"561","Prasidh Krishna","Right arm pace",10,5,1,5,2,NA,0,50
+"562","Shahrukh Khan","Left arm wrist spin",12,9,0,NA,NA,NA,0,25
+"563","Shahrukh Khan","Left arm pace",60,88,4,22,1,1.5,18.33,35
+"564","Shahrukh Khan","Leg spin",51,60,3,20,1,0.58,15.69,47.06
+"565","Shahrukh Khan","Off spin",28,47,1,47,16,NA,25,32.14
+"566","Shahrukh Khan","Right arm pace",183,335,14,23.93,6.5,11.2,26.23,26.78
+"567","Shahrukh Khan","Slow left arm orthodox",38,39,1,39,2,NA,7.89,36.84
+"568","Maheesh Theekshana","Left arm pace",2,1,0,NA,NA,NA,0,50
+"569","Maheesh Theekshana","Leg spin",1,0,1,0,0,NA,0,100
+"570","Maheesh Theekshana","Right arm pace",27,14,1,14,0,NA,3.7,59.26
+"571","Maheesh Theekshana","Slow left arm orthodox",4,2,1,2,2,NA,0,50
+"572","M Tiwari","Right arm pace",2,2,1,2,2,NA,0,50
+"573","M Tiwari","Slow left arm orthodox",2,1,0,NA,NA,NA,0,50
+"574","Manan Vohra","Off spin",4,2,1,2,2,NA,0,50
+"575","Manan Vohra","Right arm pace",16,20,1,20,12,NA,18.75,37.5
+"576","Manan Vohra","Slow left arm orthodox",3,7,0,NA,NA,NA,33.33,0
+"577","Mayank Agarwal","Left arm wrist spin",7,5,0,NA,NA,NA,0,28.57
+"578","Mayank Agarwal","Left arm pace",108,143,2,71.5,4,0,18.52,35.19
+"579","Mayank Agarwal","Leg spin",45,54,6,9,1,6.62,13.33,26.67
+"580","Mayank Agarwal","Off spin",28,31,2,15.5,4,4.24,14.29,35.71
+"581","Mayank Agarwal","Right arm pace",229,299,13,23,10,6.75,18.34,37.12
+"582","Mayank Agarwal","Slow left arm orthodox",61,69,4,17.25,3,3.3,16.39,37.7
+"583","Mitchell Starc","Left arm pace",6,6,1,6,0,NA,16.67,50
+"584","Mitchell Starc","Leg spin",2,0,2,0,0,0,0,100
+"585","Mitchell Starc","Right arm pace",6,4,1,4,0,NA,0,33.33
+"586","Mitchell Starc","Slow left arm orthodox",2,2,0,NA,NA,NA,0,0
+"587","Mark Wood","Left arm pace",1,1,0,NA,NA,NA,0,0
+"588","Mark Wood","Right arm pace",4,10,1,10,0,NA,50,50
+"589","Dasun Shanaka","Left arm pace",6,8,0,NA,NA,NA,16.67,16.67
+"590","Dasun Shanaka","Off spin",10,15,0,NA,NA,NA,20,40
+"591","Dasun Shanaka","Right arm pace",4,1,1,1,0,NA,0,75
+"592","Dasun Shanaka","Slow left arm orthodox",6,2,1,2,2,NA,0,66.67
+"593","Michael Bracewell","Left arm wrist spin",4,6,0,NA,NA,NA,25,0
+"594","Michael Bracewell","Left arm pace",2,2,0,NA,NA,NA,0,0
+"595","Michael Bracewell","Leg spin",17,21,0,NA,NA,NA,11.76,23.53
+"596","Michael Bracewell","Off spin",7,5,0,NA,NA,NA,0,28.57
+"597","Michael Bracewell","Right arm pace",17,24,2,12,10,14.14,23.53,35.29
+"598","Mitchell Owen","Left arm pace",1,0,1,0,0,NA,0,100
+"599","Mitchell Owen","Right arm pace",1,0,0,NA,NA,NA,0,100
+"600","Mitchell Santner","Left arm wrist spin",1,1,0,NA,NA,NA,0,0
+"601","Mitchell Santner","Left arm pace",17,21,2,10.5,6,2.83,23.53,41.18
+"602","Mitchell Santner","Leg spin",5,2,2,1,1,1.41,0,60
+"603","Mitchell Santner","Off spin",2,2,0,NA,NA,NA,0,0
+"604","Mitchell Santner","Right arm pace",50,50,2,25,4.5,2.12,10,42
+"605","Mitchell Santner","Slow left arm orthodox",5,2,1,2,0,NA,0,60
+"606","MJ Suthar","Right arm pace",2,1,1,1,1,NA,0,50
+"607","Mahipal Lomror","Left arm wrist spin",14,31,1,31,0,NA,28.57,14.29
+"608","Mahipal Lomror","Left arm pace",39,52,3,17.33,1,1,17.95,28.21
+"609","Mahipal Lomror","Leg spin",27,43,4,10.75,0,3.5,18.52,33.33
+"610","Mahipal Lomror","Off spin",38,59,2,29.5,10.5,9.19,18.42,21.05
+"611","Mahipal Lomror","Right arm pace",91,151,10,15.1,4,10.51,25.27,25.27
+"612","Mahipal Lomror","Slow left arm orthodox",14,10,1,10,0,NA,0,35.71
+"613","Manish Pandey","Left arm wrist spin",7,9,0,NA,NA,NA,14.29,14.29
+"614","Manish Pandey","Left arm pace",27,28,3,9.33,0,2.31,11.11,33.33
+"615","Manish Pandey","Leg spin",44,41,3,13.67,3,12.42,9.09,40.91
+"616","Manish Pandey","Off spin",59,70,0,NA,NA,NA,10.17,25.42
+"617","Manish Pandey","Right arm pace",117,138,8,17.25,8,8.38,13.68,39.32
+"618","Manish Pandey","Slow left arm orthodox",50,55,3,18.33,0,4.62,14,38
+"619","Moeen Ali","Left arm wrist spin",13,24,1,24,3,NA,23.08,23.08
+"620","Moeen Ali","Left arm pace",58,88,4,22,1,18.67,24.14,36.21
+"621","Moeen Ali","Leg spin",81,112,8,14,4.5,6.99,17.28,35.8
+"622","Moeen Ali","Off spin",56,56,3,18.67,1,8.96,10.71,39.29
+"623","Moeen Ali","Right arm pace",155,199,7,28.43,4,12.34,18.06,40
+"624","Moeen Ali","Slow left arm orthodox",17,22,1,22,1,NA,17.65,35.29
+"625","Mohit Sharma","Left arm wrist spin",5,0,0,NA,NA,NA,0,80
+"626","Mohit Sharma","Left arm pace",2,1,1,1,1,NA,0,50
+"627","Mohit Sharma","Right arm pace",3,0,2,0,0,0,0,66.67
+"628","Mohit Sharma","Slow left arm orthodox",9,2,0,NA,NA,NA,0,77.78
+"629","Matthew Breetzke","Right arm pace",7,5,1,5,5,NA,14.29,57.14
+"630","Matthew Breetzke","Slow left arm orthodox",5,9,0,NA,NA,NA,20,40
+"631","Marcus Stoinis","Left arm wrist spin",30,23,1,23,1,NA,3.33,40
+"632","Marcus Stoinis","Left arm pace",118,171,6,28.5,0.5,11.54,22.03,39.83
+"633","Marcus Stoinis","Leg spin",129,177,8,22.12,1,7.62,16.28,31.78
+"634","Marcus Stoinis","Off spin",46,93,4,23.25,9,4.73,28.26,17.39
+"635","Marcus Stoinis","Right arm pace",330,540,15,36,6,11.28,23.94,34.24
+"636","Marcus Stoinis","Slow left arm orthodox",71,91,4,22.75,6,7.8,12.68,35.21
+"637","Mitchell Marsh","Left arm wrist spin",16,18,0,NA,NA,NA,6.25,31.25
+"638","Mitchell Marsh","Left arm pace",122,202,9,22.44,1,10.1,28.69,39.34
+"639","Mitchell Marsh","Leg spin",87,115,2,57.5,3,6.24,14.94,24.14
+"640","Mitchell Marsh","Off spin",41,48,3,16,0,0,12.2,41.46
+"641","Mitchell Marsh","Right arm pace",297,487,14,34.79,13,14.08,25.25,36.03
+"642","Mitchell Marsh","Slow left arm orthodox",93,110,2,55,17.5,17.68,15.05,38.71
+"643","MS Bhandage","Left arm pace",2,0,1,0,0,NA,0,100
+"644","MS Bhandage","Leg spin",2,1,0,NA,NA,NA,0,50
+"645","Mahendra Singh Dhoni","Left arm wrist spin",4,4,0,NA,NA,NA,0,0
+"646","Mahendra Singh Dhoni","Left arm pace",100,174,5,34.8,2,5.59,25,28
+"647","Mahendra Singh Dhoni","Leg spin",86,91,3,30.33,9,6.24,11.63,46.51
+"648","Mahendra Singh Dhoni","Off spin",29,19,1,19,0,NA,3.45,48.28
+"649","Mahendra Singh Dhoni","Right arm pace",217,366,13,28.15,2,5.16,24.42,30.88
+"650","Mahendra Singh Dhoni","Slow left arm orthodox",20,32,0,NA,NA,NA,25,35
+"651","Matthew Wade","Left arm pace",30,38,3,12.67,1,11.85,20,43.33
+"652","Matthew Wade","Leg spin",17,15,0,NA,NA,NA,11.76,47.06
+"653","Matthew Wade","Off spin",25,14,3,4.67,1,1.15,4,56
+"654","Matthew Wade","Right arm pace",63,82,4,20.5,9,3.78,25.4,46.03
+"655","Matthew Wade","Slow left arm orthodox",13,12,0,NA,NA,NA,0,15.38
+"656","Matt Short","Left arm pace",29,36,1,36,0,NA,20.69,51.72
+"657","Matt Short","Leg spin",10,4,3,1.33,1,1.53,0,60
+"658","Matt Short","Off spin",5,7,1,7,7,NA,20,60
+"659","Matt Short","Right arm pace",42,66,1,66,4,NA,28.57,40.48
+"660","Matt Short","Slow left arm orthodox",6,4,0,NA,NA,NA,0,33.33
+"661","Mandeep Singh","Left arm pace",5,2,2,1,1,1.41,0,60
+"662","Mandeep Singh","Leg spin",2,0,1,0,0,NA,0,100
+"663","Mandeep Singh","Right arm pace",27,27,2,13.5,9,12.73,18.52,59.26
+"664","Mandeep Singh","Slow left arm orthodox",5,3,1,3,3,NA,0,60
+"665","Mayank Dagar","Right arm pace",1,0,0,NA,NA,NA,0,100
+"666","Mohammad Nabi","Left arm pace",7,6,0,NA,NA,NA,0,0
+"667","Mohammad Nabi","Leg spin",2,1,1,1,1,NA,0,50
+"668","Mohammad Nabi","Off spin",2,2,0,NA,NA,NA,0,0
+"669","Mohammad Nabi","Right arm pace",20,26,3,8.67,0,4.04,20,45
+"670","Mohammed Shami","Left arm pace",1,1,0,NA,NA,NA,0,0
+"671","Mohammed Shami","Leg spin",3,1,0,NA,NA,NA,0,66.67
+"672","Mohammed Shami","Right arm pace",13,13,3,4.33,1,2.65,15.38,46.15
+"673","Mohammed Siraj","Left arm wrist spin",2,0,0,NA,NA,NA,0,50
+"674","Mohammed Siraj","Left arm pace",10,7,0,NA,NA,NA,0,40
+"675","Mohammed Siraj","Leg spin",6,12,0,NA,NA,NA,33.33,66.67
+"676","Mohammed Siraj","Right arm pace",25,24,4,6,0,2.5,20,64
+"677","Mohammed Siraj","Slow left arm orthodox",2,0,0,NA,NA,NA,0,100
+"678","Mohit Rathee","Right arm pace",2,1,0,NA,NA,NA,0,50
+"679","Mohsin Khan","Left arm pace",9,16,0,NA,NA,NA,22.22,11.11
+"680","Mohsin Khan","Leg spin",3,7,0,NA,NA,NA,33.33,33.33
+"681","Mohsin Khan","Right arm pace",9,1,1,1,0,NA,0,88.89
+"682","Mohsin Khan","Slow left arm orthodox",3,1,1,1,1,NA,0,66.67
+"683","Mukesh Choudhary","Left arm pace",1,0,0,NA,NA,NA,0,100
+"684","Mukesh Choudhary","Leg spin",2,2,0,NA,NA,NA,0,0
+"685","Mukesh Choudhary","Right arm pace",3,4,0,NA,NA,NA,33.33,66.67
+"686","Mukesh Kumar","Left arm pace",5,3,0,NA,NA,NA,0,40
+"687","Mukesh Kumar","Right arm pace",13,7,1,7,2,NA,0,46.15
+"688","Musheer Khan","Leg spin",3,0,1,0,0,NA,0,100
+"689","Mustafizur Rahman","Leg spin",1,1,0,NA,NA,NA,0,0
+"690","Mustafizur Rahman","Right arm pace",6,3,1,3,0,NA,0,50
+"691","Narayan Jagadeesan","Left arm pace",36,38,2,19,3,4.24,16.67,47.22
+"692","Narayan Jagadeesan","Leg spin",18,17,1,17,11,NA,11.11,44.44
+"693","Narayan Jagadeesan","Off spin",4,6,0,NA,NA,NA,25,25
+"694","Narayan Jagadeesan","Right arm pace",48,44,4,11,5,9.14,12.5,52.08
+"695","Narayan Jagadeesan","Slow left arm orthodox",13,24,0,NA,NA,NA,30.77,23.08
+"696","Nicholas Pooran","Left arm wrist spin",40,46,3,15.33,0,0,15,47.5
+"697","Nicholas Pooran","Left arm pace",150,288,7,41.14,5,11.3,29.33,28.67
+"698","Nicholas Pooran","Leg spin",153,272,4,68,9.5,4.11,24.84,33.33
+"699","Nicholas Pooran","Off spin",89,106,2,53,0.5,0.71,11.24,29.21
+"700","Nicholas Pooran","Right arm pace",442,729,21,34.71,15,13.64,24.21,29.41
+"701","Nicholas Pooran","Slow left arm orthodox",59,145,0,NA,NA,NA,37.29,27.12
+"702","Nitish Rana","Left arm wrist spin",25,41,0,NA,NA,NA,20,12
+"703","Nitish Rana","Left arm pace",154,210,7,30,5,9.48,22.08,44.81
+"704","Nitish Rana","Leg spin",102,115,9,12.78,1,10.51,11.76,35.29
+"705","Nitish Rana","Off spin",127,190,8,23.75,6,10.55,19.69,25.98
+"706","Nitish Rana","Right arm pace",254,391,12,32.58,8.5,7.33,25.2,40.16
+"707","Nitish Rana","Slow left arm orthodox",47,74,2,37,3.5,0.71,21.28,23.4
+"708","Nehal Wadhera","Left arm wrist spin",15,34,0,NA,NA,NA,33.33,20
+"709","Nehal Wadhera","Left arm pace",30,40,5,8,0,3.13,20,40
+"710","Nehal Wadhera","Leg spin",111,179,4,44.75,4,11.29,22.52,35.14
+"711","Nehal Wadhera","Off spin",59,72,2,36,4,4.24,13.56,32.2
+"712","Nehal Wadhera","Right arm pace",206,287,12,23.92,7.5,7.66,19.9,37.38
+"713","Nehal Wadhera","Slow left arm orthodox",38,51,0,NA,NA,NA,18.42,28.95
+"714","Nathan Coulter-Nile","Left arm pace",2,1,0,NA,NA,NA,0,0
+"715","Nathan Ellis","Left arm wrist spin",2,0,1,0,0,NA,0,100
+"716","Nathan Ellis","Leg spin",2,0,1,0,0,NA,0,100
+"717","Nathan Ellis","Right arm pace",5,1,1,1,1,NA,0,80
+"718","Naman Dhir","Left arm wrist spin",3,2,1,2,1,NA,0,33.33
+"719","Naman Dhir","Left arm pace",35,58,3,19.33,3,2.08,28.57,34.29
+"720","Naman Dhir","Leg spin",11,13,1,13,0,NA,18.18,36.36
+"721","Naman Dhir","Off spin",4,8,0,NA,NA,NA,25,0
+"722","Naman Dhir","Right arm pace",135,265,6,44.17,11.5,7.43,29.63,26.67
+"723","Naman Dhir","Slow left arm orthodox",14,26,1,26,4,NA,28.57,14.29
+"724","Navdeep Saini","Left arm pace",2,2,1,2,2,NA,0,50
+"725","Naveen-ul-Haq","Leg spin",1,1,0,NA,NA,NA,0,0
+"726","Naveen-ul-Haq","Right arm pace",22,16,1,16,11,NA,9.09,45.45
+"727","Naveen-ul-Haq","Slow left arm orthodox",2,1,0,NA,NA,NA,0,50
+"728","Nitish Kumar Reddy","Left arm wrist spin",9,14,1,14,10,NA,11.11,33.33
+"729","Nitish Kumar Reddy","Left arm pace",48,48,4,12,6,4.9,10.42,41.67
+"730","Nitish Kumar Reddy","Leg spin",60,86,2,43,3.5,4.95,18.33,38.33
+"731","Nitish Kumar Reddy","Off spin",12,27,1,27,4,NA,33.33,25
+"732","Nitish Kumar Reddy","Right arm pace",152,188,7,26.86,7,5.53,14.47,36.18
+"733","Nitish Kumar Reddy","Slow left arm orthodox",62,95,2,47.5,7.5,3.54,19.35,22.58
+"734","Noor Ahmad","Left arm wrist spin",2,0,0,NA,NA,NA,0,100
+"735","Noor Ahmad","Leg spin",7,1,1,1,0,NA,0,85.71
+"736","Noor Ahmad","Off spin",2,1,0,NA,NA,NA,0,50
+"737","Noor Ahmad","Right arm pace",18,17,6,2.83,1,1.63,11.11,50
+"738","Noor Ahmad","Slow left arm orthodox",6,1,1,1,0,NA,0,83.33
+"739","Obed McCoy","Left arm pace",3,1,0,NA,NA,NA,0,66.67
+"740","Obed McCoy","Slow left arm orthodox",2,7,0,NA,NA,NA,50,0
+"741","Odean Smith","Left arm pace",4,3,0,NA,NA,NA,0,50
+"742","Odean Smith","Leg spin",1,1,0,NA,NA,NA,0,0
+"743","Odean Smith","Off spin",5,1,0,NA,NA,NA,0,60
+"744","Odean Smith","Right arm pace",35,46,3,15.33,3,5.13,17.14,51.43
+"745","Praveen Dubey","Left arm pace",5,7,0,NA,NA,NA,20,20
+"746","Praveen Dubey","Leg spin",6,4,0,NA,NA,NA,16.67,83.33
+"747","Praveen Dubey","Off spin",4,1,0,NA,NA,NA,0,75
+"748","Praveen Dubey","Right arm pace",3,2,1,2,2,NA,0,33.33
+"749","Praveen Dubey","Slow left arm orthodox",2,2,0,NA,NA,NA,0,0
+"750","Prabhsimran Singh","Left arm wrist spin",38,65,3,21.67,5,6.24,23.68,23.68
+"751","Prabhsimran Singh","Left arm pace",170,220,8,27.5,6,5.82,18.82,41.18
+"752","Prabhsimran Singh","Leg spin",80,143,2,71.5,11.5,14.85,27.5,31.25
+"753","Prabhsimran Singh","Off spin",39,74,1,74,6,NA,28.21,20.51
+"754","Prabhsimran Singh","Right arm pace",372,631,20,31.55,10,10.77,29.03,40.86
+"755","Prabhsimran Singh","Slow left arm orthodox",89,93,7,13.29,5.5,3.78,13.48,38.2
+"756","Bhanuka Rajapaksa","Left arm pace",13,18,0,NA,NA,NA,15.38,15.38
+"757","Bhanuka Rajapaksa","Leg spin",42,47,2,23.5,4,4.24,14.29,42.86
+"758","Bhanuka Rajapaksa","Off spin",23,34,0,NA,NA,NA,21.74,34.78
+"759","Bhanuka Rajapaksa","Right arm pace",102,163,9,18.11,21,10.66,22.55,33.33
+"760","Bhanuka Rajapaksa","Slow left arm orthodox",11,15,1,15,4,NA,9.09,18.18
+"761","Phil Salt","Left arm wrist spin",4,8,1,8,1,NA,25,25
+"762","Phil Salt","Left arm pace",175,271,5,54.2,4,9.73,25.14,38.86
+"763","Phil Salt","Leg spin",71,106,5,21.2,10,13.37,22.54,32.39
+"764","Phil Salt","Off spin",17,38,0,NA,NA,NA,41.18,11.76
+"765","Phil Salt","Right arm pace",244,459,15,30.6,6,11.13,32.79,33.2
+"766","Phil Salt","Slow left arm orthodox",65,117,5,23.4,8,5.81,32.31,27.69
+"767","PHKD Mendis","Left arm wrist spin",10,14,0,NA,NA,NA,20,20
+"768","PHKD Mendis","Left arm pace",3,4,0,NA,NA,NA,0,0
+"769","PHKD Mendis","Leg spin",4,2,0,NA,NA,NA,0,50
+"770","PHKD Mendis","Off spin",4,4,1,4,4,NA,0,25
+"771","PHKD Mendis","Right arm pace",34,44,2,22,0,0,11.76,32.35
+"772","PHKD Mendis","Slow left arm orthodox",7,7,0,NA,NA,NA,0,28.57
+"773","Pat Cummins","Left arm wrist spin",6,1,2,0.5,0.5,0.71,0,83.33
+"774","Pat Cummins","Left arm pace",27,68,1,68,1,NA,40.74,22.22
+"775","Pat Cummins","Leg spin",29,51,2,25.5,2.5,3.54,24.14,27.59
+"776","Pat Cummins","Off spin",15,10,0,NA,NA,NA,0,33.33
+"777","Pat Cummins","Right arm pace",94,152,8,19,2,6.65,22.34,35.11
+"778","Pat Cummins","Slow left arm orthodox",6,14,0,NA,NA,NA,33.33,16.67
+"779","Pradeep Sangwan","Left arm pace",2,1,1,1,1,NA,0,50
+"780","Pradeep Sangwan","Right arm pace",3,1,0,NA,NA,NA,0,66.67
+"781","Priyam Garg","Left arm pace",18,27,0,NA,NA,NA,16.67,27.78
+"782","Priyam Garg","Leg spin",11,16,1,16,1,NA,18.18,18.18
+"783","Priyam Garg","Right arm pace",17,7,3,2.33,2,2.52,0,64.71
+"784","Priyam Garg","Slow left arm orthodox",10,18,0,NA,NA,NA,20,10
+"785","Prerak Mankad","Left arm pace",23,33,1,33,0,NA,21.74,34.78
+"786","Prerak Mankad","Leg spin",13,26,0,NA,NA,NA,30.77,15.38
+"787","Prerak Mankad","Off spin",7,7,0,NA,NA,NA,14.29,42.86
+"788","Prerak Mankad","Right arm pace",26,25,2,12.5,9,9.9,15.38,53.85
+"789","Prerak Mankad","Slow left arm orthodox",4,6,0,NA,NA,NA,25,25
+"790","Piyush Chawla","Left arm pace",2,1,1,1,0,NA,0,50
+"791","Piyush Chawla","Leg spin",3,1,0,NA,NA,NA,0,33.33
+"792","Piyush Chawla","Off spin",3,2,0,NA,NA,NA,0,33.33
+"793","Piyush Chawla","Right arm pace",29,36,5,7.2,0,7.8,13.79,34.48
+"794","Prithvi Shaw","Left arm pace",98,165,2,82.5,11,15.56,30.61,33.67
+"795","Prithvi Shaw","Leg spin",41,59,4,14.75,1.5,1.71,24.39,39.02
+"796","Prithvi Shaw","Off spin",46,75,4,18.75,10.5,7.27,28.26,30.43
+"797","Prithvi Shaw","Right arm pace",190,256,15,17.07,5,9.75,22.11,43.68
+"798","Prithvi Shaw","Slow left arm orthodox",18,32,1,32,16,NA,22.22,22.22
+"799","Dushmantha Chameera","Left arm pace",13,15,1,15,0,NA,7.69,30.77
+"800","Dushmantha Chameera","Leg spin",10,8,1,8,4,NA,10,50
+"801","Dushmantha Chameera","Right arm pace",18,29,1,29,6,8.49,22.22,27.78
+"802","Dushmantha Chameera","Slow left arm orthodox",1,1,0,NA,NA,NA,0,0
+"803","PVSN Raju","Right arm pace",1,1,0,NA,NA,NA,0,0
+"804","Wiaan Mulder","Left arm wrist spin",2,1,0,NA,NA,NA,0,50
+"805","Wiaan Mulder","Left arm pace",2,1,1,1,1,NA,0,50
+"806","Wiaan Mulder","Right arm pace",3,5,0,NA,NA,NA,33.33,33.33
+"807","Wiaan Mulder","Slow left arm orthodox",2,0,0,NA,NA,NA,0,100
+"808","Wanindu Hasaranga","Left arm wrist spin",4,4,0,NA,NA,NA,0,25
+"809","Wanindu Hasaranga","Left arm pace",10,8,3,2.67,1,3.79,10,50
+"810","Wanindu Hasaranga","Leg spin",14,15,3,5,1,1.53,7.14,28.57
+"811","Wanindu Hasaranga","Off spin",10,9,1,9,0,NA,0,30
+"812","Wanindu Hasaranga","Right arm pace",45,38,5,7.6,1,4.24,11.11,53.33
+"813","Wanindu Hasaranga","Slow left arm orthodox",4,6,2,3,3,4.24,25,75
+"814","Prince Yadav","Left arm pace",4,2,0,NA,NA,NA,0,50
+"815","Prince Yadav","Leg spin",1,1,0,NA,NA,NA,0,0
+"816","Prince Yadav","Right arm pace",5,2,0,NA,NA,NA,0,60
+"817","Priyansh Arya","Left arm wrist spin",13,27,1,27,8,NA,30.77,23.08
+"818","Priyansh Arya","Left arm pace",89,170,5,34,2,7.46,34.83,32.58
+"819","Priyansh Arya","Leg spin",8,13,1,13,5,NA,25,37.5
+"820","Priyansh Arya","Off spin",20,39,0,NA,NA,NA,25,25
+"821","Priyansh Arya","Right arm pace",139,255,7,36.43,19,15.47,31.65,38.13
+"822","Priyansh Arya","Slow left arm orthodox",18,27,2,13.5,3.5,4.95,16.67,27.78
+"823","Quinton de Kock","Left arm wrist spin",16,27,1,27,16,NA,31.25,25
+"824","Quinton de Kock","Left arm pace",141,165,8,20.62,8,7.32,17.73,46.81
+"825","Quinton de Kock","Leg spin",86,141,5,28.2,11,8.91,22.09,20.93
+"826","Quinton de Kock","Off spin",92,96,2,48,1.5,2.12,8.7,30.43
+"827","Quinton de Kock","Right arm pace",363,544,17,32,4,10.23,21.76,37.19
+"828","Quinton de Kock","Slow left arm orthodox",43,71,1,71,6,NA,20.93,18.6
+"829","Ravichandran Ashwin","Left arm wrist spin",20,26,1,26,2,NA,10,20
+"830","Ravichandran Ashwin","Left arm pace",32,46,3,15.33,1,7.23,15.62,28.12
+"831","Ravichandran Ashwin","Leg spin",48,53,4,13.25,2,1.91,12.5,41.67
+"832","Ravichandran Ashwin","Off spin",29,40,0,NA,NA,NA,13.79,31.03
+"833","Ravichandran Ashwin","Right arm pace",121,174,11,15.82,10,7.24,19.01,25.62
+"834","Ravichandran Ashwin","Slow left arm orthodox",40,38,3,12.67,2,2.52,10,45
+"835","Rishi Dhawan","Left arm wrist spin",5,2,0,NA,NA,NA,0,60
+"836","Rishi Dhawan","Left arm pace",1,1,0,NA,NA,NA,0,0
+"837","Rishi Dhawan","Leg spin",6,8,1,8,8,NA,16.67,66.67
+"838","Rishi Dhawan","Off spin",6,11,0,NA,NA,NA,16.67,0
+"839","Rishi Dhawan","Right arm pace",22,33,1,33,7,NA,27.27,50
+"840","Rishi Dhawan","Slow left arm orthodox",12,2,1,2,2,NA,0,83.33
+"841","R Minz","Left arm wrist spin",5,2,1,2,2,NA,0,60
+"842","R Minz","Off spin",4,1,0,NA,NA,NA,0,75
+"843","R Minz","Right arm pace",3,2,0,NA,NA,NA,0,66.67
+"844","R Minz","Slow left arm orthodox",3,1,1,1,1,NA,0,66.67
+"845","Riyan Parag","Left arm wrist spin",57,83,1,83,0,NA,17.54,36.84
+"846","Riyan Parag","Left arm pace",123,179,9,19.89,2.5,3.49,21.95,35.77
+"847","Riyan Parag","Leg spin",119,142,5,28.4,3,2.59,10.92,31.93
+"848","Riyan Parag","Off spin",48,82,1,82,0,NA,16.67,16.67
+"849","Riyan Parag","Right arm pace",345,576,20,28.8,10.5,11.18,23.77,31.59
+"850","Riyan Parag","Slow left arm orthodox",113,142,4,35.5,1,2.71,12.39,27.43
+"851","Rovman Powell","Left arm wrist spin",2,2,0,NA,NA,NA,0,0
+"852","Rovman Powell","Left arm pace",39,67,6,11.17,3,13.13,28.21,43.59
+"853","Rovman Powell","Leg spin",52,47,5,9.4,0,0.89,7.69,50
+"854","Rovman Powell","Off spin",40,65,3,21.67,0,9.81,25,50
+"855","Rovman Powell","Right arm pace",106,176,6,29.33,9.5,6.68,22.64,30.19
+"856","Rovman Powell","Slow left arm orthodox",8,4,0,NA,NA,NA,0,50
+"857","Rachin Ravindra","Left arm pace",72,88,3,29.33,1,4.36,18.06,40.28
+"858","Rachin Ravindra","Leg spin",28,49,3,16.33,6,1.53,25,25
+"859","Rachin Ravindra","Off spin",45,44,4,11,4,4.27,2.22,20
+"860","Rachin Ravindra","Right arm pace",109,182,5,36.4,1,0.63,27.52,35.78
+"861","Rachin Ravindra","Slow left arm orthodox",16,21,0,NA,NA,NA,12.5,25
+"862","R Sai Kishore","Left arm wrist spin",5,2,0,NA,NA,NA,0,60
+"863","R Sai Kishore","Off spin",2,1,1,1,1,NA,0,50
+"864","R Sai Kishore","Right arm pace",7,14,1,14,13,NA,28.57,28.57
+"865","Sanjay Yadav","Right arm pace",2,0,1,0,0,NA,0,100
+"866","Romario Shepherd","Left arm pace",15,40,1,40,0,NA,46.67,26.67
+"867","Romario Shepherd","Leg spin",12,18,2,9,2,2.83,25,50
+"868","Romario Shepherd","Off spin",8,6,0,NA,NA,NA,0,50
+"869","Romario Shepherd","Right arm pace",49,121,3,40.33,1,4.36,38.78,18.37
+"870","Romario Shepherd","Slow left arm orthodox",2,0,0,NA,NA,NA,0,100
+"871","Rahul Tewatia","Left arm wrist spin",13,7,2,3.5,1.5,0.71,0,46.15
+"872","Rahul Tewatia","Left arm pace",63,124,7,17.71,5,2.06,31.75,23.81
+"873","Rahul Tewatia","Leg spin",33,57,1,57,7,NA,27.27,27.27
+"874","Rahul Tewatia","Off spin",20,32,1,32,2,NA,20,20
+"875","Rahul Tewatia","Right arm pace",229,338,12,28.17,5,9.33,20.52,32.31
+"876","Rahul Tewatia","Slow left arm orthodox",27,24,1,24,1,NA,7.41,40.74
+"877","Raj Bawa","Left arm pace",2,3,0,NA,NA,NA,0,0
+"878","Raj Bawa","Leg spin",4,1,0,NA,NA,NA,0,75
+"879","Raj Bawa","Off spin",6,8,1,8,8,NA,16.67,33.33
+"880","Raj Bawa","Right arm pace",6,7,1,7,0,NA,0,33.33
+"881","Ravindra Jadeja","Left arm wrist spin",10,13,1,13,0,NA,10,40
+"882","Ravindra Jadeja","Left arm pace",115,171,5,34.2,7,8.11,16.52,22.61
+"883","Ravindra Jadeja","Leg spin",116,140,5,28,1,1.64,11.21,28.45
+"884","Ravindra Jadeja","Off spin",48,43,3,14.33,6,3.79,4.17,37.5
+"885","Ravindra Jadeja","Right arm pace",299,443,13,34.08,3,5.61,18.06,22.74
+"886","Ravindra Jadeja","Slow left arm orthodox",31,34,1,34,12,NA,12.9,29.03
+"887","Rahul Tripathi","Left arm wrist spin",5,4,0,NA,NA,NA,0,20
+"888","Rahul Tripathi","Left arm pace",92,130,5,26,6,6.19,21.74,39.13
+"889","Rahul Tripathi","Leg spin",118,177,4,44.25,5,11.35,19.49,27.12
+"890","Rahul Tripathi","Off spin",89,107,3,35.67,8,4.51,11.24,28.09
+"891","Rahul Tripathi","Right arm pace",267,390,18,21.67,9.5,12.96,22.85,38.58
+"892","Rahul Tripathi","Slow left arm orthodox",72,93,3,31,5,2.65,20.83,41.67
+"893","Rahul Chahar","Left arm pace",18,26,1,26,4,NA,22.22,55.56
+"894","Rahul Chahar","Leg spin",5,1,1,1,0,NA,0,80
+"895","Rahul Chahar","Off spin",4,4,1,4,4,NA,25,75
+"896","Rahul Chahar","Right arm pace",60,66,6,11,1,7.13,16.67,51.67
+"897","Rahul Chahar","Slow left arm orthodox",5,1,0,NA,NA,NA,0,80
+"898","Ruturaj Gaikwad","Left arm wrist spin",27,45,1,45,2,NA,18.52,14.81
+"899","Ruturaj Gaikwad","Left arm pace",274,383,13,29.46,5,14.21,18.98,37.96
+"900","Ruturaj Gaikwad","Leg spin",146,187,8,23.38,3,5.21,12.33,25.34
+"901","Ruturaj Gaikwad","Off spin",84,135,2,67.5,0.5,0.71,17.86,23.81
+"902","Ruturaj Gaikwad","Right arm pace",537,738,15,49.2,9.5,18.19,19.18,35.38
+"903","Ruturaj Gaikwad","Slow left arm orthodox",113,162,3,54,1,1,19.47,28.32
+"904","Ryan Rickelton","Left arm wrist spin",5,4,2,2,2,1.41,0,40
+"905","Ryan Rickelton","Left arm pace",55,85,3,28.33,13,6.66,29.09,47.27
+"906","Ryan Rickelton","Leg spin",18,26,0,NA,NA,NA,22.22,33.33
+"907","Ryan Rickelton","Off spin",27,35,1,35,7,NA,18.52,44.44
+"908","Ryan Rickelton","Right arm pace",109,163,5,32.6,10,6.66,23.85,37.61
+"909","Ryan Rickelton","Slow left arm orthodox",11,14,1,14,0,NA,18.18,45.45
+"910","Rohit Sharma","Left arm wrist spin",18,22,1,22,4,NA,11.11,22.22
+"911","Rohit Sharma","Left arm pace",213,273,12,22.75,3.5,5.42,21.6,51.64
+"912","Rohit Sharma","Leg spin",85,110,9,12.22,6,5.05,18.82,45.88
+"913","Rohit Sharma","Off spin",66,105,4,26.25,3.5,4.35,25.76,24.24
+"914","Rohit Sharma","Right arm pace",513,737,24,30.71,7,8.84,23,44.83
+"915","Rohit Sharma","Slow left arm orthodox",127,170,5,34,11,3.21,18.11,31.5
+"916","Richard Gleeson","Left arm pace",2,2,0,NA,NA,NA,0,0
+"917","Reece Topley","Leg spin",2,1,0,NA,NA,NA,0,50
+"918","Reece Topley","Right arm pace",4,2,0,NA,NA,NA,0,50
+"919","Ricky Bhui","Left arm pace",2,0,1,0,0,NA,0,100
+"920","Ricky Bhui","Leg spin",3,2,0,NA,NA,NA,0,33.33
+"921","Ricky Bhui","Right arm pace",2,1,0,NA,NA,NA,0,50
+"922","Ricky Bhui","Slow left arm orthodox",2,0,1,0,0,NA,0,100
+"923","Rinku Singh","Left arm wrist spin",36,43,2,21.5,3.5,0.71,19.44,47.22
+"924","Rinku Singh","Left arm pace",81,153,6,25.5,6,2.51,28.4,28.4
+"925","Rinku Singh","Leg spin",91,124,5,24.8,1,0.84,14.29,25.27
+"926","Rinku Singh","Off spin",78,70,0,NA,NA,NA,5.13,26.92
+"927","Rinku Singh","Right arm pace",316,529,11,48.09,12,11.65,24.68,32.91
+"928","Rinku Singh","Slow left arm orthodox",59,72,2,36,4,0,10.17,33.9
+"929","Rajat Patidar","Left arm wrist spin",32,36,1,36,4,NA,9.38,31.25
+"930","Rajat Patidar","Left arm pace",87,108,6,18,7,5.72,12.64,27.59
+"931","Rajat Patidar","Leg spin",100,226,4,56.5,6,2.58,32,22
+"932","Rajat Patidar","Off spin",55,77,2,38.5,8.5,9.19,12.73,27.27
+"933","Rajat Patidar","Right arm pace",274,419,15,27.93,10,11.83,22.99,34.67
+"934","Rajat Patidar","Slow left arm orthodox",92,143,2,71.5,12,14.14,19.57,26.09
+"935","Riley Meredith","Right arm pace",3,0,0,NA,NA,NA,0,100
+"936","Rishabh Pant","Left arm wrist spin",34,27,1,27,0,NA,8.82,55.88
+"937","Rishabh Pant","Left arm pace",72,107,2,53.5,0.5,0.71,22.22,44.44
+"938","Rishabh Pant","Leg spin",167,266,8,33.25,5.5,7.29,22.16,29.34
+"939","Rishabh Pant","Off spin",91,88,3,29.33,4,6.81,9.89,38.46
+"940","Rishabh Pant","Right arm pace",304,498,18,27.67,10,12.03,24.67,33.88
+"941","Rishabh Pant","Slow left arm orthodox",34,55,0,NA,NA,NA,26.47,32.35
+"942","Rilee Rossouw","Left arm wrist spin",4,5,1,5,5,NA,25,50
+"943","Rilee Rossouw","Left arm pace",33,57,0,NA,NA,NA,33.33,42.42
+"944","Rilee Rossouw","Leg spin",42,64,2,32,17,9.9,21.43,33.33
+"945","Rilee Rossouw","Off spin",44,30,2,15,2,2.83,2.27,47.73
+"946","Rilee Rossouw","Right arm pace",103,210,8,26.25,4.5,13.76,33.98,31.07
+"947","Rilee Rossouw","Slow left arm orthodox",31,54,2,27,6.5,9.19,22.58,19.35
+"948","Ripal Patel","Left arm wrist spin",2,1,0,NA,NA,NA,0,50
+"949","Ripal Patel","Left arm pace",10,17,0,NA,NA,NA,20,0
+"950","Ripal Patel","Leg spin",2,7,0,NA,NA,NA,50,0
+"951","Ripal Patel","Off spin",7,8,1,8,6,NA,14.29,42.86
+"952","Ripal Patel","Right arm pace",21,20,2,10,4,2,4.76,23.81
+"953","Ripal Patel","Slow left arm orthodox",4,2,0,NA,NA,NA,0,50
+"954","Robin Uthappa","Left arm pace",18,16,1,16,10,NA,5.56,50
+"955","Robin Uthappa","Leg spin",10,12,3,4,2,3.46,10,30
+"956","Robin Uthappa","Off spin",21,32,2,16,0,0,19.05,47.62
+"957","Robin Uthappa","Right arm pace",116,163,5,32.6,1,5.61,23.28,45.69
+"958","Robin Uthappa","Slow left arm orthodox",6,7,0,NA,NA,NA,0,0
+"959","Rahmanullah Gurbaz","Left arm wrist spin",5,9,1,9,9,NA,20,20
+"960","Rahmanullah Gurbaz","Left arm pace",78,98,4,24.5,0,11,21.79,52.56
+"961","Rahmanullah Gurbaz","Leg spin",31,55,2,27.5,5,5.66,25.81,25.81
+"962","Rahmanullah Gurbaz","Off spin",13,27,1,27,11,NA,23.08,7.69
+"963","Rahmanullah Gurbaz","Right arm pace",123,148,7,21.14,1,2.87,18.7,51.22
+"964","Rahmanullah Gurbaz","Slow left arm orthodox",17,20,1,20,13,NA,17.65,52.94
+"965","Ramandeep Singh","Left arm wrist spin",1,1,0,NA,NA,NA,0,0
+"966","Ramandeep Singh","Left arm pace",20,41,0,NA,NA,NA,30,25
+"967","Ramandeep Singh","Leg spin",24,21,2,10.5,0.5,0.71,4.17,37.5
+"968","Ramandeep Singh","Off spin",10,11,1,11,7,NA,10,30
+"969","Ramandeep Singh","Right arm pace",56,101,6,16.83,2,3.88,23.21,26.79
+"970","Ramandeep Singh","Slow left arm orthodox",19,23,1,23,7,NA,10.53,31.58
+"971","Rashid Khan","Left arm wrist spin",11,17,1,17,7,NA,18.18,36.36
+"972","Rashid Khan","Left arm pace",22,36,4,9,0,0,22.73,40.91
+"973","Rashid Khan","Leg spin",4,2,0,NA,NA,NA,0,75
+"974","Rashid Khan","Off spin",7,7,0,NA,NA,NA,0,14.29
+"975","Rashid Khan","Right arm pace",131,246,11,22.36,0,13.16,28.24,29.01
+"976","Rashid Khan","Slow left arm orthodox",21,43,0,NA,NA,NA,28.57,38.1
+"977","Rasikh Salam","Left arm pace",10,16,0,NA,NA,NA,30,50
+"978","Rasikh Salam","Leg spin",6,2,0,NA,NA,NA,0,66.67
+"979","Rasikh Salam","Off spin",5,3,0,NA,NA,NA,0,40
+"980","Rasikh Salam","Right arm pace",15,14,5,2.8,1,3.42,13.33,40
+"981","Ravi Bishnoi","Left arm pace",7,5,2,2.5,0,0,0,57.14
+"982","Ravi Bishnoi","Leg spin",4,2,0,NA,NA,NA,0,50
+"983","Ravi Bishnoi","Right arm pace",36,28,4,7,2,5.32,8.33,61.11
+"984","Ravi Bishnoi","Slow left arm orthodox",3,2,1,2,2,NA,0,33.33
+"985","Shikhar Dhawan","Left arm pace",173,233,3,77.67,12,4,21.39,41.62
+"986","Shikhar Dhawan","Leg spin",109,134,5,26.8,7,6.27,16.51,34.86
+"987","Shikhar Dhawan","Off spin",68,75,5,15,6,6.95,11.76,38.24
+"988","Shikhar Dhawan","Right arm pace",357,464,13,35.69,8,8.7,19.05,35.85
+"989","Shikhar Dhawan","Slow left arm orthodox",53,79,0,NA,NA,NA,20.75,28.3
+"990","Shivam Dube","Left arm wrist spin",17,21,1,21,0,NA,11.76,35.29
+"991","Shivam Dube","Left arm pace",120,206,10,20.6,5.5,3.98,23.33,30
+"992","Shivam Dube","Leg spin",154,252,5,50.4,15,7.12,19.48,25.97
+"993","Shivam Dube","Off spin",134,173,3,57.67,6,4.93,14.93,39.55
+"994","Shivam Dube","Right arm pace",474,705,19,37.11,15.5,12.12,19.41,31.01
+"995","Shivam Dube","Slow left arm orthodox",40,67,2,33.5,1,1.41,20,27.5
+"996","Shreyas Gopal","Left arm wrist spin",2,0,0,NA,NA,NA,0,100
+"997","Shreyas Gopal","Left arm pace",2,0,0,NA,NA,NA,0,100
+"998","Shreyas Gopal","Right arm pace",3,9,0,NA,NA,NA,66.67,0
+"999","Sean Abbott","Left arm pace",2,6,1,6,6,NA,50,50
+"1000","Sean Abbott","Right arm pace",3,1,0,NA,NA,NA,0,66.67
+"1001","Suryakumar Yadav","Left arm wrist spin",54,70,3,23.33,6,0.58,16.67,31.48
+"1002","Suryakumar Yadav","Left arm pace",162,277,8,34.62,8.5,8.46,27.16,35.8
+"1003","Suryakumar Yadav","Leg spin",238,355,3,118.33,11,13,20.59,27.73
+"1004","Suryakumar Yadav","Off spin",91,132,2,66,2,2.83,18.68,26.37
+"1005","Suryakumar Yadav","Right arm pace",452,862,20,43.1,15,15.38,30.53,32.52
+"1006","Suryakumar Yadav","Slow left arm orthodox",123,177,6,29.5,5.5,4.97,17.89,23.58
+"1007","Shubham Dubey","Left arm wrist spin",2,1,0,NA,NA,NA,0,50
+"1008","Shubham Dubey","Left arm pace",11,15,2,7.5,5.5,7.78,18.18,45.45
+"1009","Shubham Dubey","Leg spin",11,14,1,14,0,NA,18.18,45.45
+"1010","Shubham Dubey","Off spin",7,5,0,NA,NA,NA,0,28.57
+"1011","Shubham Dubey","Right arm pace",54,104,3,34.67,6,7.55,27.78,24.07
+"1012","Shai Hope","Left arm pace",34,43,1,43,15,NA,20.59,52.94
+"1013","Shai Hope","Leg spin",28,45,2,22.5,5.5,6.36,21.43,28.57
+"1014","Shai Hope","Off spin",7,17,0,NA,NA,NA,28.57,0
+"1015","Shai Hope","Right arm pace",40,66,4,16.5,7.5,2.06,22.5,40
+"1016","Shai Hope","Slow left arm orthodox",13,12,0,NA,NA,NA,0,23.08
+"1017","Sherfane Rutherford","Left arm wrist spin",11,17,0,NA,NA,NA,18.18,18.18
+"1018","Sherfane Rutherford","Left arm pace",20,25,4,6.25,0.5,7.35,15,40
+"1019","Sherfane Rutherford","Leg spin",20,20,0,NA,NA,NA,10,40
+"1020","Sherfane Rutherford","Off spin",24,29,0,NA,NA,NA,16.67,45.83
+"1021","Sherfane Rutherford","Right arm pace",114,157,6,26.17,12.5,10.07,18.42,35.96
+"1022","Sherfane Rutherford","Slow left arm orthodox",17,41,0,NA,NA,NA,41.18,17.65
+"1023","Spencer Johnson","Left arm pace",4,4,0,NA,NA,NA,25,50
+"1024","Spencer Johnson","Right arm pace",5,3,0,NA,NA,NA,0,40
+"1025","SK Rasheed","Left arm pace",17,22,1,22,11,NA,23.53,64.71
+"1026","SK Rasheed","Right arm pace",31,37,2,18.5,11,15.56,19.35,51.61
+"1027","SK Rasheed","Slow left arm orthodox",9,6,2,3,3,1.41,0,33.33
+"1028","Sam Curran","Left arm wrist spin",25,20,0,NA,NA,NA,4,28
+"1029","Sam Curran","Left arm pace",62,78,5,15.6,8,6.06,17.74,41.94
+"1030","Sam Curran","Leg spin",97,126,6,21,4.5,2.04,15.46,31.96
+"1031","Sam Curran","Off spin",55,58,1,58,3,NA,9.09,34.55
+"1032","Sam Curran","Right arm pace",206,276,11,25.09,8,8.8,17.48,31.55
+"1033","Sam Curran","Slow left arm orthodox",49,67,2,33.5,3,0,10.2,20.41
+"1034","Sarfaraz Khan","Left arm pace",21,27,2,13.5,5.5,0.71,14.29,38.1
+"1035","Sarfaraz Khan","Leg spin",31,34,2,17,5,4.24,9.68,29.03
+"1036","Sarfaraz Khan","Off spin",2,0,2,0,0,0,0,100
+"1037","Sarfaraz Khan","Right arm pace",62,61,1,61,4,NA,11.29,38.71
+"1038","Sarfaraz Khan","Slow left arm orthodox",13,22,0,NA,NA,NA,23.08,23.08
+"1039","Shardul Thakur","Left arm wrist spin",2,0,1,0,0,NA,0,100
+"1040","Shardul Thakur","Left arm pace",35,63,4,15.75,1,3.2,25.71,20
+"1041","Shardul Thakur","Leg spin",31,35,3,11.67,1,1,12.9,35.48
+"1042","Shardul Thakur","Off spin",29,34,1,34,4,NA,10.34,41.38
+"1043","Shardul Thakur","Right arm pace",90,140,11,12.73,6,10.41,23.33,32.22
+"1044","Shimron Hetmyer","Left arm wrist spin",17,17,0,NA,NA,NA,5.88,29.41
+"1045","Shimron Hetmyer","Left arm pace",132,228,7,32.57,12,11.35,25,25.76
+"1046","Shimron Hetmyer","Leg spin",100,131,5,26.2,1,1.67,16,43
+"1047","Shimron Hetmyer","Off spin",70,78,2,39,10,7.07,10,34.29
+"1048","Shimron Hetmyer","Right arm pace",295,481,16,30.06,7.5,8.29,20.68,28.81
+"1049","Shimron Hetmyer","Slow left arm orthodox",21,26,1,26,2,NA,9.52,28.57
+"1050","Sheldon Jackson","Left arm pace",4,3,1,3,3,NA,0,50
+"1051","Sheldon Jackson","Leg spin",6,3,1,3,0,NA,0,50
+"1052","Sheldon Jackson","Right arm pace",14,16,2,8,4.5,2.12,7.14,28.57
+"1053","Sheldon Jackson","Slow left arm orthodox",2,1,0,NA,NA,NA,0,50
+"1054","Sunil Narine","Left arm wrist spin",5,4,4,1,0,2,20,80
+"1055","Sunil Narine","Left arm pace",109,152,9,16.89,0.5,3.43,24.77,46.79
+"1056","Sunil Narine","Leg spin",50,98,5,19.6,1,7.84,30,30
+"1057","Sunil Narine","Off spin",40,80,0,NA,NA,NA,35,40
+"1058","Sunil Narine","Right arm pace",249,443,15,29.53,5,16.59,31.33,38.96
+"1059","Sunil Narine","Slow left arm orthodox",18,34,3,11.33,0,0.58,27.78,38.89
+"1060","Shreyas Iyer","Left arm wrist spin",45,65,3,21.67,16,7.57,13.33,26.67
+"1061","Shreyas Iyer","Left arm pace",161,245,8,30.62,5,8.56,21.74,37.89
+"1062","Shreyas Iyer","Leg spin",90,106,6,17.67,3.5,3.72,13.33,32.22
+"1063","Shreyas Iyer","Off spin",55,97,0,NA,NA,NA,20,18.18
+"1064","Shreyas Iyer","Right arm pace",342,530,15,35.33,10,9.68,22.22,29.24
+"1065","Shreyas Iyer","Slow left arm orthodox",114,158,0,NA,NA,NA,15.79,21.05
+"1066","Suyash Prabhudessai","Left arm pace",6,5,0,NA,NA,NA,16.67,66.67
+"1067","Suyash Prabhudessai","Leg spin",27,26,2,13,1,1,11.11,48.15
+"1068","Suyash Prabhudessai","Off spin",10,9,2,4.5,3.5,3.54,10,40
+"1069","Suyash Prabhudessai","Right arm pace",40,52,3,17.33,10,9.5,15,40
+"1070","Suyash Prabhudessai","Slow left arm orthodox",23,34,2,17,5.5,0.71,17.39,34.78
+"1071","Sanju Samson","Left arm wrist spin",27,35,3,11.67,1,6.08,11.11,29.63
+"1072","Sanju Samson","Left arm pace",199,319,5,63.8,1,1.92,26.13,36.68
+"1073","Sanju Samson","Leg spin",211,346,5,69.2,4.5,3.83,21.33,27.49
+"1074","Sanju Samson","Off spin",79,116,1,116,16,NA,16.46,30.38
+"1075","Sanju Samson","Right arm pace",441,625,26,24.04,8,13.53,21.54,37.41
+"1076","Sanju Samson","Slow left arm orthodox",132,182,6,30.33,1.5,4.58,15.15,28.03
+"1077","Sam Billings","Left arm wrist spin",1,1,0,NA,NA,NA,0,0
+"1078","Sam Billings","Left arm pace",19,16,1,16,1,NA,5.26,42.11
+"1079","Sam Billings","Leg spin",32,40,2,20,12,4.24,12.5,37.5
+"1080","Sam Billings","Off spin",9,9,0,NA,NA,NA,11.11,33.33
+"1081","Sam Billings","Right arm pace",51,69,4,17.25,5.5,4.72,19.61,41.18
+"1082","Sam Billings","Slow left arm orthodox",26,34,0,NA,NA,NA,11.54,30.77
+"1083","Shams Mulani","Right arm pace",1,1,0,NA,NA,NA,0,0
+"1084","Sameer Rizvi","Left arm wrist spin",3,8,0,NA,NA,NA,33.33,0
+"1085","Sameer Rizvi","Left arm pace",22,36,1,36,1,NA,22.73,22.73
+"1086","Sameer Rizvi","Leg spin",17,32,0,NA,NA,NA,23.53,23.53
+"1087","Sameer Rizvi","Right arm pace",49,75,3,25,0,5.2,26.53,36.73
+"1088","Sameer Rizvi","Slow left arm orthodox",32,21,3,7,0,1.73,3.12,56.25
+"1089","Sandeep Sharma","Off spin",1,0,0,NA,NA,NA,0,100
+"1090","Sandeep Sharma","Right arm pace",8,5,0,NA,NA,NA,0,37.5
+"1091","Sandeep Sharma","Slow left arm orthodox",2,3,0,NA,NA,NA,0,0
+"1092","Sanvir Singh","Leg spin",1,1,0,NA,NA,NA,0,0
+"1093","Sanvir Singh","Off spin",1,0,1,0,0,NA,0,100
+"1094","Sanvir Singh","Right arm pace",15,18,1,18,6,NA,13.33,33.33
+"1095","Sanvir Singh","Slow left arm orthodox",3,2,0,NA,NA,NA,0,33.33
+"1096","Saurav Chauhan","Left arm pace",1,1,0,NA,NA,NA,0,0
+"1097","Saurav Chauhan","Leg spin",1,0,1,0,0,NA,0,100
+"1098","Saurav Chauhan","Off spin",3,7,0,NA,NA,NA,33.33,33.33
+"1099","Saurav Chauhan","Right arm pace",10,10,2,5,4.5,6.36,10,40
+"1100","Sediqullah Atal","Left arm pace",5,8,0,NA,NA,NA,20,20
+"1101","Sediqullah Atal","Leg spin",4,2,1,2,2,NA,0,50
+"1102","Sediqullah Atal","Right arm pace",5,11,0,NA,NA,NA,20,20
+"1103","Sediqullah Atal","Slow left arm orthodox",2,1,0,NA,NA,NA,0,50
+"1104","Shahbaz Ahmed","Left arm wrist spin",10,17,0,NA,NA,NA,20,10
+"1105","Shahbaz Ahmed","Left arm pace",73,109,6,18.17,3,4.71,19.18,34.25
+"1106","Shahbaz Ahmed","Leg spin",61,47,3,15.67,2,4.73,3.28,44.26
+"1107","Shahbaz Ahmed","Off spin",46,48,5,9.6,2,5.72,8.7,32.61
+"1108","Shahbaz Ahmed","Right arm pace",160,214,7,30.57,5,6.61,14.38,30
+"1109","Shahbaz Ahmed","Slow left arm orthodox",46,50,0,NA,NA,NA,6.52,21.74
+"1110","Shashank Singh","Left arm wrist spin",25,41,0,NA,NA,NA,20,28
+"1111","Shashank Singh","Left arm pace",50,67,4,16.75,1,1.73,18,36
+"1112","Shashank Singh","Leg spin",77,131,2,65.5,3,4.24,20.78,23.38
+"1113","Shashank Singh","Off spin",31,34,0,NA,NA,NA,9.68,38.71
+"1114","Shashank Singh","Right arm pace",240,429,9,47.67,1,6.33,25,21.25
+"1115","Shashank Singh","Slow left arm orthodox",57,60,3,20,10,4.04,10.53,36.84
+"1116","Shivam Mavi","Leg spin",5,1,2,0.5,0.5,0.71,0,80
+"1117","Shivam Mavi","Right arm pace",2,2,0,NA,NA,NA,0,0
+"1118","Shivam Singh","Left arm pace",1,1,0,NA,NA,NA,0,0
+"1119","Shivam Singh","Right arm pace",2,1,0,NA,NA,NA,0,50
+"1120","Shubman Gill","Left arm wrist spin",24,42,0,NA,NA,NA,16.67,12.5
+"1121","Shubman Gill","Left arm pace",275,374,4,93.5,11,11.84,17.45,25.09
+"1122","Shubman Gill","Leg spin",229,341,7,48.71,6,7.93,18.34,23.14
+"1123","Shubman Gill","Off spin",140,239,6,39.83,7,5.91,22.14,19.29
+"1124","Shubman Gill","Right arm pace",683,1036,30,34.53,8,20.04,21.23,30.89
+"1125","Shubman Gill","Slow left arm orthodox",226,322,4,80.5,6.5,5.68,16.37,31.86
+"1126","Sikandar Raza","Left arm wrist spin",9,11,0,NA,NA,NA,0,22.22
+"1127","Sikandar Raza","Left arm pace",13,18,1,18,9,NA,15.38,46.15
+"1128","Sikandar Raza","Leg spin",21,31,1,31,2,NA,19.05,28.57
+"1129","Sikandar Raza","Off spin",18,20,2,10,0.5,0.71,11.11,50
+"1130","Sikandar Raza","Right arm pace",62,74,3,24.67,4,4.62,12.9,38.71
+"1131","Sikandar Raza","Slow left arm orthodox",13,28,0,NA,NA,NA,30.77,23.08
+"1132","Simarjeet Singh","Left arm pace",3,3,0,NA,NA,NA,0,33.33
+"1133","Simarjeet Singh","Leg spin",1,0,1,0,0,NA,0,100
+"1134","Simarjeet Singh","Right arm pace",8,5,1,5,0,NA,0,37.5
+"1135","Simarjeet Singh","Slow left arm orthodox",3,2,1,2,2,NA,0,66.67
+"1136","Sumit Kumar","Left arm wrist spin",6,8,0,NA,NA,NA,33.33,50
+"1137","Sumit Kumar","Left arm pace",3,0,1,0,0,NA,0,100
+"1138","Sumit Kumar","Leg spin",8,2,0,NA,NA,NA,0,62.5
+"1139","Sumit Kumar","Off spin",3,6,1,6,6,NA,33.33,66.67
+"1140","Sumit Kumar","Right arm pace",4,2,0,NA,NA,NA,0,25
+"1141","Suryansh Shedge","Left arm pace",2,0,1,0,0,NA,0,100
+"1142","Suryansh Shedge","Leg spin",5,5,0,NA,NA,NA,0,0
+"1143","Suryansh Shedge","Off spin",1,0,1,0,0,NA,0,100
+"1144","Suryansh Shedge","Right arm pace",3,2,1,2,0,NA,0,33.33
+"1145","Swapnil Singh","Left arm wrist spin",9,9,0,NA,NA,NA,22.22,55.56
+"1146","Swapnil Singh","Left arm pace",5,11,1,11,11,NA,40,40
+"1147","Swapnil Singh","Leg spin",3,7,0,NA,NA,NA,33.33,33.33
+"1148","Swapnil Singh","Right arm pace",8,12,1,12,0,NA,12.5,12.5
+"1149","Tom Kohler-Cadmore","Left arm pace",15,20,0,NA,NA,NA,26.67,60
+"1150","Tom Kohler-Cadmore","Leg spin",1,0,1,0,0,NA,0,100
+"1151","Tom Kohler-Cadmore","Right arm pace",36,27,2,13.5,10,0,11.11,58.33
+"1152","Tom Kohler-Cadmore","Slow left arm orthodox",2,1,0,NA,NA,NA,0,50
+"1153","Tristan Stubbs","Left arm pace",56,113,1,113,0,NA,33.93,23.21
+"1154","Tristan Stubbs","Leg spin",81,126,4,31.5,2,12.4,17.28,25.93
+"1155","Tristan Stubbs","Off spin",30,48,1,48,1,NA,16.67,23.33
+"1156","Tristan Stubbs","Right arm pace",188,305,8,38.12,3,7.04,20.21,21.81
+"1157","Tristan Stubbs","Slow left arm orthodox",46,84,1,84,18,NA,21.74,13.04
+"1158","Trent Boult","Left arm wrist spin",7,13,0,NA,NA,NA,28.57,28.57
+"1159","Trent Boult","Left arm pace",12,15,1,15,1,NA,16.67,33.33
+"1160","Trent Boult","Leg spin",6,4,0,NA,NA,NA,0,33.33
+"1161","Trent Boult","Off spin",1,0,0,NA,NA,NA,0,100
+"1162","Trent Boult","Right arm pace",32,31,3,10.33,4,5.69,6.25,34.38
+"1163","Trent Boult","Slow left arm orthodox",5,9,1,9,8,NA,20,40
+"1164","Tim Southee","Left arm pace",3,0,2,0,0,0,0,100
+"1165","Tim Southee","Leg spin",2,1,1,1,1,NA,0,50
+"1166","Tim Southee","Right arm pace",6,1,1,1,0,NA,0,83.33
+"1167","Tim Southee","Slow left arm orthodox",1,0,0,NA,NA,NA,0,100
+"1168","Tim David","Left arm wrist spin",10,4,1,4,0,NA,0,60
+"1169","Tim David","Left arm pace",116,254,5,50.8,9.5,12.43,33.62,25.86
+"1170","Tim David","Leg spin",53,62,5,12.4,1,2.07,11.32,32.08
+"1171","Tim David","Off spin",23,25,0,NA,NA,NA,8.7,34.78
+"1172","Tim David","Right arm pace",245,441,12,36.75,8,10.12,24.49,26.53
+"1173","Tim David","Slow left arm orthodox",31,57,0,NA,NA,NA,22.58,29.03
+"1174","Tim Seifert","Left arm pace",3,9,0,NA,NA,NA,66.67,0
+"1175","Tim Seifert","Leg spin",3,0,1,0,0,NA,0,100
+"1176","Tim Seifert","Right arm pace",13,15,1,15,3,NA,15.38,53.85
+"1177","Travis Head","Left arm wrist spin",11,9,2,4.5,2,1.41,9.09,45.45
+"1178","Travis Head","Left arm pace",86,159,5,31.8,0,4.38,33.72,34.88
+"1179","Travis Head","Leg spin",47,95,2,47.5,11.5,14.85,31.91,27.66
+"1180","Travis Head","Off spin",92,144,4,36,4.5,3.3,21.74,33.7
+"1181","Travis Head","Right arm pace",255,485,11,44.09,16,13.62,34.9,29.02
+"1182","Travis Head","Slow left arm orthodox",6,6,0,NA,NA,NA,0,0
+"1183","Tymal Mills","Right arm pace",3,0,1,0,0,NA,0,100
+"1184","Tushar Deshpande","Left arm pace",3,3,0,NA,NA,NA,0,0
+"1185","Tushar Deshpande","Right arm pace",5,1,0,NA,NA,NA,0,20
+"1186","Tushar Deshpande","Slow left arm orthodox",3,3,1,3,3,NA,0,33.33
+"1187","Tanush Kotian","Left arm pace",13,12,0,NA,NA,NA,15.38,53.85
+"1188","Tanush Kotian","Leg spin",7,1,1,1,1,NA,0,85.71
+"1189","Tanush Kotian","Right arm pace",11,11,0,NA,NA,NA,9.09,36.36
+"1190","Tilak Varma","Left arm wrist spin",49,69,1,69,5,NA,16.33,30.61
+"1191","Tilak Varma","Left arm pace",126,180,4,45,1,2.51,19.05,35.71
+"1192","Tilak Varma","Leg spin",177,265,6,44.17,2.5,4.85,17.51,25.99
+"1193","Tilak Varma","Off spin",112,138,1,138,19,NA,9.82,25
+"1194","Tilak Varma","Right arm pace",435,641,25,25.64,12,9.18,20.69,31.95
+"1195","Tilak Varma","Slow left arm orthodox",107,159,1,159,20,NA,15.89,23.36
+"1196","Umesh Yadav","Left arm wrist spin",2,1,1,1,0,NA,0,50
+"1197","Umesh Yadav","Left arm pace",17,24,1,24,19,NA,17.65,35.29
+"1198","Umesh Yadav","Leg spin",7,6,0,NA,NA,NA,14.29,57.14
+"1199","Umesh Yadav","Off spin",1,0,1,0,0,NA,0,100
+"1200","Umesh Yadav","Right arm pace",45,54,4,13.5,2,7.89,13.33,44.44
+"1201","Umesh Yadav","Slow left arm orthodox",1,1,0,NA,NA,NA,0,0
+"1202","Umran Malik","Left arm pace",5,12,0,NA,NA,NA,40,40
+"1203","Umran Malik","Leg spin",2,0,1,0,0,NA,0,100
+"1204","Umran Malik","Right arm pace",9,11,0,NA,NA,NA,11.11,33.33
+"1205","Urvil Patel","Leg spin",3,6,0,NA,NA,NA,33.33,0
+"1206","Urvil Patel","Off spin",4,17,0,NA,NA,NA,75,0
+"1207","Urvil Patel","Right arm pace",21,34,2,17,7,9.9,23.81,47.62
+"1208","Urvil Patel","Slow left arm orthodox",4,11,1,11,11,NA,50,25
+"1209","Virat Kohli","Left arm wrist spin",73,101,2,50.5,9.5,2.12,17.81,24.66
+"1210","Virat Kohli","Left arm pace",359,550,11,50,1,15.26,22.56,31.48
+"1211","Virat Kohli","Leg spin",250,335,6,55.83,5,8.48,12.4,22.4
+"1212","Virat Kohli","Off spin",110,118,3,39.33,6,2.89,6.36,24.55
+"1213","Virat Kohli","Right arm pace",580,881,22,40.05,11.5,15.79,22.59,30.34
+"1214","Virat Kohli","Slow left arm orthodox",262,307,4,76.75,10.5,11.32,12.6,33.21
+"1215","V Nigam","Left arm pace",8,8,0,NA,NA,NA,12.5,37.5
+"1216","V Nigam","Leg spin",10,25,0,NA,NA,NA,40,10
+"1217","V Nigam","Off spin",6,16,0,NA,NA,NA,50,0
+"1218","V Nigam","Right arm pace",21,34,2,17,7,12.9,28.57,42.86
+"1219","V Nigam","Slow left arm orthodox",21,37,2,18.5,7.5,3.54,28.57,28.57
+"1220","Vijay Shankar","Left arm wrist spin",24,31,1,31,0,NA,12.5,25
+"1221","Vijay Shankar","Left arm pace",45,67,0,NA,NA,NA,26.67,31.11
+"1222","Vijay Shankar","Leg spin",58,88,5,17.6,5,4.42,18.97,24.14
+"1223","Vijay Shankar","Off spin",21,35,1,35,0,NA,19.05,14.29
+"1224","Vijay Shankar","Right arm pace",185,249,12,20.75,9,7.7,15.68,32.97
+"1225","Vijay Shankar","Slow left arm orthodox",41,41,0,NA,NA,NA,7.32,31.71
+"1226","V Suryavanshi","Left arm wrist spin",9,24,0,NA,NA,NA,44.44,11.11
+"1227","V Suryavanshi","Left arm pace",17,38,0,NA,NA,NA,41.18,47.06
+"1228","V Suryavanshi","Leg spin",13,18,0,NA,NA,NA,23.08,38.46
+"1229","V Suryavanshi","Off spin",16,23,2,11.5,3.5,2.12,18.75,37.5
+"1230","V Suryavanshi","Right arm pace",50,113,4,28.25,9.5,33.44,38,38
+"1231","V Suryavanshi","Slow left arm orthodox",8,22,1,22,8,NA,50,25
+"1232","Vijayakanth Viyaskanth","Left arm pace",1,1,0,NA,NA,NA,0,0
+"1233","Vijayakanth Viyaskanth","Leg spin",2,2,0,NA,NA,NA,0,0
+"1234","Vijayakanth Viyaskanth","Right arm pace",2,4,0,NA,NA,NA,0,0
+"1235","Vaibhav Arora","Left arm pace",13,4,2,2,0,0,0,76.92
+"1236","Vaibhav Arora","Off spin",1,1,0,NA,NA,NA,0,0
+"1237","Vaibhav Arora","Right arm pace",10,4,2,2,1,1.41,0,60
+"1238","Venkatesh Iyer","Left arm wrist spin",16,12,0,NA,NA,NA,6.25,50
+"1239","Venkatesh Iyer","Left arm pace",174,243,11,22.09,3,2.27,20.11,37.93
+"1240","Venkatesh Iyer","Leg spin",117,160,6,26.67,7,6.79,16.24,31.62
+"1241","Venkatesh Iyer","Off spin",88,110,3,36.67,2,3.46,13.64,32.95
+"1242","Venkatesh Iyer","Right arm pace",315,479,14,34.21,8,18.69,23.17,36.83
+"1243","Venkatesh Iyer","Slow left arm orthodox",52,60,6,10,3,4.63,9.62,34.62
+"1244","Vijaykumar Vyshak","Left arm pace",1,0,0,NA,NA,NA,0,100
+"1245","Vijaykumar Vyshak","Leg spin",2,2,0,NA,NA,NA,0,0
+"1246","Vijaykumar Vyshak","Right arm pace",10,12,2,6,0,0,10,30
+"1247","Vishnu Vinod","Left arm wrist spin",8,8,0,NA,NA,NA,12.5,37.5
+"1248","Vishnu Vinod","Left arm pace",5,5,0,NA,NA,NA,0,20
+"1249","Vishnu Vinod","Right arm pace",18,24,3,8,1,13,16.67,33.33
+"1250","Vivrant Sharma","Left arm pace",11,13,0,NA,NA,NA,18.18,54.55
+"1251","Vivrant Sharma","Leg spin",13,23,0,NA,NA,NA,30.77,30.77
+"1252","Vivrant Sharma","Right arm pace",17,24,1,24,24,NA,23.53,23.53
+"1253","Vivrant Sharma","Slow left arm orthodox",6,9,0,NA,NA,NA,16.67,0
+"1254","Wayne Parnell","Right arm pace",5,2,1,2,2,NA,0,60
+"1255","Will Jacks","Left arm wrist spin",19,31,2,15.5,7.5,9.19,21.05,31.58
+"1256","Will Jacks","Left arm pace",54,108,0,NA,NA,NA,35.19,29.63
+"1257","Will Jacks","Leg spin",60,79,2,39.5,3.5,2.12,15,35
+"1258","Will Jacks","Off spin",17,13,1,13,1,NA,5.88,35.29
+"1259","Will Jacks","Right arm pace",87,148,7,21.14,8,2.76,26.44,36.78
+"1260","Will Jacks","Slow left arm orthodox",31,40,1,40,5,NA,12.9,32.26
+"1261","Wriddhiman Saha","Left arm wrist spin",4,2,1,2,2,NA,0,50
+"1262","Wriddhiman Saha","Left arm pace",160,232,6,38.67,2.5,2.51,26.25,42.5
+"1263","Wriddhiman Saha","Leg spin",66,65,3,21.67,0,4.04,6.06,25.76
+"1264","Wriddhiman Saha","Off spin",45,45,1,45,2,NA,6.67,22.22
+"1265","Wriddhiman Saha","Right arm pace",304,386,19,20.32,10,9.81,20.72,42.43
+"1266","Wriddhiman Saha","Slow left arm orthodox",82,94,4,23.5,7,4.11,13.41,34.15
+"1267","Washington Sundar","Left arm wrist spin",3,3,0,NA,NA,NA,0,33.33
+"1268","Washington Sundar","Left arm pace",36,70,4,17.5,9.5,4.08,30.56,22.22
+"1269","Washington Sundar","Leg spin",29,19,2,9.5,6,5.66,0,41.38
+"1270","Washington Sundar","Off spin",8,6,0,NA,NA,NA,0,25
+"1271","Washington Sundar","Right arm pace",109,166,10,16.6,9,8.73,20.18,28.44
+"1272","Washington Sundar","Slow left arm orthodox",10,6,0,NA,NA,NA,0,40
+"1273","Xavier Bartlett","Leg spin",7,4,0,NA,NA,NA,0,42.86
+"1274","Xavier Bartlett","Off spin",3,2,0,NA,NA,NA,0,33.33
+"1275","Xavier Bartlett","Right arm pace",5,5,1,5,5,NA,20,60
+"1276","Yashasvi Jaiswal","Left arm wrist spin",12,19,1,19,8,NA,16.67,25
+"1277","Yashasvi Jaiswal","Left arm pace",287,495,17,29.12,9,7.52,32.75,40.42
+"1278","Yashasvi Jaiswal","Leg spin",152,210,1,210,8,NA,16.45,24.34
+"1279","Yashasvi Jaiswal","Off spin",102,163,3,54.33,3,2.52,21.57,31.37
+"1280","Yashasvi Jaiswal","Right arm pace",539,833,24,34.71,13,10.24,26.53,41
+"1281","Yashasvi Jaiswal","Slow left arm orthodox",83,113,2,56.5,6,1.41,16.87,26.51
+"1282","Yuzvendra Chahal","Left arm pace",3,2,1,2,2,NA,0,66.67
+"1283","Yuzvendra Chahal","Right arm pace",5,3,0,NA,NA,NA,0,40
+"1284","Yash Dhull","Left arm pace",2,1,0,NA,NA,NA,0,50
+"1285","Yash Dhull","Leg spin",2,1,0,NA,NA,NA,0,50
+"1286","Yash Dhull","Off spin",7,4,0,NA,NA,NA,0,42.86
+"1287","Yash Dhull","Right arm pace",5,1,2,0.5,0.5,0.71,0,80
+"1288","Yash Dhull","Slow left arm orthodox",7,9,1,9,9,NA,14.29,14.29
+"1289","Yash Dayal","Left arm pace",1,1,0,NA,NA,NA,0,0
+"1290","Yash Dayal","Right arm pace",7,3,2,1.5,1.5,2.12,0,71.43
+"1291","Yash Dayal","Slow left arm orthodox",1,0,1,0,0,NA,0,100
+"1292","Yudhvir Singh","Left arm wrist spin",2,1,0,NA,NA,NA,0,50
+"1293","Yudhvir Singh","Left arm pace",2,0,2,0,0,0,0,100
+"1294","Yudhvir Singh","Leg spin",5,6,1,6,6,NA,20,80
+"1295","Yudhvir Singh","Right arm pace",7,15,1,15,1,NA,28.57,14.29

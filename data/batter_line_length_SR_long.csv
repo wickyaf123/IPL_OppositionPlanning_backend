@@ -1,0 +1,3950 @@
+"Batter_Name","line_bin","length_bin","Balls","Runs","SR"
+"Ayush Badoni","off","yorker",44,73,165.91
+"Ayush Badoni","line","yorker",23,22,95.65
+"Ayush Badoni","leg","yorker",13,17,130.77
+"Ayush Badoni","off","full",64,74,115.62
+"Ayush Badoni","line","full",64,81,126.56
+"Ayush Badoni","leg","full",13,24,184.62
+"Ayush Badoni","off","length",71,89,125.35
+"Ayush Badoni","line","length",83,139,167.47
+"Ayush Badoni","leg","length",14,23,164.29
+"Ayush Badoni","off","back of length",68,96,141.18
+"Ayush Badoni","line","back of length",76,110,144.74
+"Ayush Badoni","leg","back of length",31,34,109.68
+"Ayush Badoni","off","short",41,64,156.1
+"Ayush Badoni","line","short",39,39,100
+"Ayush Badoni","leg","short",19,20,105.26
+"Ayush Badoni","off","bouncer",21,32,152.38
+"Ayush Badoni","line","bouncer",12,18,150
+"Ayush Badoni","leg","bouncer",4,8,200
+"A Kamboj","off","full",1,4,400
+"A Kamboj","line","full",2,0,0
+"A Kamboj","line","length",3,1,33.33
+"A Kamboj","off","back of length",2,5,250
+"A Kamboj","leg","back of length",1,1,100
+"A Kamboj","off","short",1,2,200
+"A Kamboj","line","short",3,1,33.33
+"A Kamboj","leg","short",1,2,200
+"Abhinav Manohar","off","yorker",12,7,58.33
+"Abhinav Manohar","line","yorker",13,28,215.38
+"Abhinav Manohar","leg","yorker",5,3,60
+"Abhinav Manohar","off","full",7,7,100
+"Abhinav Manohar","line","full",20,26,130
+"Abhinav Manohar","leg","full",6,9,150
+"Abhinav Manohar","off","length",27,39,144.44
+"Abhinav Manohar","line","length",30,37,123.33
+"Abhinav Manohar","leg","length",12,10,83.33
+"Abhinav Manohar","off","back of length",21,30,142.86
+"Abhinav Manohar","line","back of length",27,28,103.7
+"Abhinav Manohar","leg","back of length",7,8,114.29
+"Abhinav Manohar","off","short",11,14,127.27
+"Abhinav Manohar","line","short",18,22,122.22
+"Abhinav Manohar","leg","short",1,1,100
+"Abhinav Manohar","off","bouncer",8,13,162.5
+"Abhinav Manohar","line","bouncer",8,8,100
+"Abhinav Manohar","leg","bouncer",3,2,66.67
+"A Mhatre","off","yorker",5,3,60
+"A Mhatre","line","yorker",6,17,283.33
+"A Mhatre","leg","yorker",1,0,0
+"A Mhatre","off","full",4,5,125
+"A Mhatre","line","full",10,12,120
+"A Mhatre","leg","full",5,8,160
+"A Mhatre","off","length",17,44,258.82
+"A Mhatre","line","length",18,26,144.44
+"A Mhatre","leg","length",7,13,185.71
+"A Mhatre","off","back of length",17,32,188.24
+"A Mhatre","line","back of length",11,36,327.27
+"A Mhatre","leg","back of length",6,13,216.67
+"A Mhatre","off","short",7,9,128.57
+"A Mhatre","line","short",8,13,162.5
+"A Mhatre","off","bouncer",3,4,133.33
+"A Mhatre","leg","bouncer",2,5,250
+"Amit Mishra","off","yorker",3,4,133.33
+"Amit Mishra","line","yorker",3,1,33.33
+"Amit Mishra","line","full",2,0,0
+"Amit Mishra","leg","full",2,4,200
+"Amit Mishra","off","length",1,1,100
+"Amit Mishra","line","length",3,0,0
+"Amit Mishra","leg","length",2,2,100
+"Amit Mishra","off","back of length",2,1,50
+"Amit Mishra","line","back of length",6,4,66.67
+"Amit Mishra","off","short",1,0,0
+"Amit Mishra","line","short",1,1,100
+"Amit Mishra","off","bouncer",2,0,0
+"Amit Mishra","line","bouncer",2,1,50
+"Anrich Nortje","off","yorker",3,6,200
+"Anrich Nortje","line","yorker",2,1,50
+"Anrich Nortje","off","full",5,5,100
+"Anrich Nortje","line","full",6,1,16.67
+"Anrich Nortje","off","length",5,2,40
+"Anrich Nortje","line","length",6,4,66.67
+"Anrich Nortje","leg","length",2,4,200
+"Anrich Nortje","off","back of length",4,4,100
+"Anrich Nortje","line","back of length",3,9,300
+"Anrich Nortje","off","short",3,5,166.67
+"Anrich Nortje","line","short",3,0,0
+"Anrich Nortje","leg","short",1,1,100
+"Angkrish Raghuvanshi","off","yorker",18,22,122.22
+"Angkrish Raghuvanshi","line","yorker",15,20,133.33
+"Angkrish Raghuvanshi","leg","yorker",5,10,200
+"Angkrish Raghuvanshi","off","full",30,40,133.33
+"Angkrish Raghuvanshi","line","full",21,28,133.33
+"Angkrish Raghuvanshi","leg","full",9,4,44.44
+"Angkrish Raghuvanshi","off","length",35,53,151.43
+"Angkrish Raghuvanshi","line","length",37,76,205.41
+"Angkrish Raghuvanshi","leg","length",9,7,77.78
+"Angkrish Raghuvanshi","off","back of length",28,27,96.43
+"Angkrish Raghuvanshi","line","back of length",26,29,111.54
+"Angkrish Raghuvanshi","leg","back of length",17,32,188.24
+"Angkrish Raghuvanshi","off","short",26,43,165.38
+"Angkrish Raghuvanshi","line","short",16,28,175
+"Angkrish Raghuvanshi","leg","short",14,26,185.71
+"Angkrish Raghuvanshi","off","bouncer",5,8,160
+"Angkrish Raghuvanshi","line","bouncer",6,5,83.33
+"Angkrish Raghuvanshi","leg","bouncer",3,5,166.67
+"Abhijeet Tomar","leg","yorker",1,0,0
+"Abhijeet Tomar","line","full",1,0,0
+"Abhijeet Tomar","line","length",3,0,0
+"Abhijeet Tomar","off","back of length",1,0,0
+"Abhijeet Tomar","off","short",1,0,0
+"Abhijeet Tomar","line","bouncer",1,4,400
+"Adam Zampa","off","yorker",1,1,100
+"Adam Zampa","line","yorker",2,2,100
+"Adam Zampa","off","full",1,1,100
+"Adam Zampa","line","full",2,2,100
+"Adam Zampa","line","length",1,0,0
+"Adam Zampa","leg","length",1,1,100
+"Adam Zampa","off","back of length",2,0,0
+"Adam Zampa","line","back of length",2,1,50
+"Adam Zampa","off","short",1,1,100
+"Adam Zampa","line","short",1,1,100
+"Adam Zampa","off","bouncer",1,0,0
+"Adam Zampa","line","bouncer",1,0,0
+"AA Kulkarni","off","full",1,0,0
+"AA Kulkarni","leg","full",1,4,400
+"AA Kulkarni","off","length",2,1,50
+"AA Kulkarni","leg","length",1,4,400
+"AA Kulkarni","line","back of length",1,0,0
+"AA Kulkarni","line","short",1,0,0
+"AA Kulkarni","leg","short",1,0,0
+"Andre Russell","off","yorker",22,57,259.09
+"Andre Russell","line","yorker",28,50,178.57
+"Andre Russell","leg","yorker",6,7,116.67
+"Andre Russell","off","full",56,102,182.14
+"Andre Russell","line","full",49,70,142.86
+"Andre Russell","leg","full",14,22,157.14
+"Andre Russell","off","length",60,95,158.33
+"Andre Russell","line","length",69,79,114.49
+"Andre Russell","leg","length",25,40,160
+"Andre Russell","off","back of length",71,149,209.86
+"Andre Russell","line","back of length",53,87,164.15
+"Andre Russell","leg","back of length",20,43,215
+"Andre Russell","off","short",27,37,137.04
+"Andre Russell","line","short",32,53,165.62
+"Andre Russell","leg","short",11,14,127.27
+"Andre Russell","off","bouncer",9,10,111.11
+"Andre Russell","line","bouncer",14,26,185.71
+"Andre Russell","leg","bouncer",6,10,166.67
+"Aaron Finch","off","yorker",4,11,275
+"Aaron Finch","line","yorker",3,7,233.33
+"Aaron Finch","leg","yorker",1,4,400
+"Aaron Finch","off","full",5,16,320
+"Aaron Finch","line","full",4,7,175
+"Aaron Finch","leg","full",1,1,100
+"Aaron Finch","off","length",6,7,116.67
+"Aaron Finch","line","length",5,3,60
+"Aaron Finch","leg","length",3,0,0
+"Aaron Finch","off","back of length",6,5,83.33
+"Aaron Finch","line","back of length",8,16,200
+"Aaron Finch","leg","back of length",2,4,200
+"Aaron Finch","off","short",5,3,60
+"Aaron Finch","line","short",5,2,40
+"Aaron Finch","leg","short",2,0,0
+"Aaron Finch","off","bouncer",1,0,0
+"Akeal Hosein","off","full",1,1,100
+"Akeal Hosein","line","full",1,1,100
+"Akeal Hosein","line","length",3,3,100
+"Akeal Hosein","off","back of length",2,7,350
+"Akeal Hosein","line","back of length",1,0,0
+"Akeal Hosein","off","short",1,4,400
+"Akeal Hosein","leg","short",1,0,0
+"Ashton Turner","off","yorker",1,1,100
+"Ashton Turner","off","full",1,0,0
+"Ashton Turner","leg","full",2,6,300
+"Ashton Turner","line","length",5,4,80
+"Ashton Turner","leg","length",1,1,100
+"Ashton Turner","off","back of length",1,1,100
+"Ashton Turner","line","back of length",3,1,33.33
+"Ashton Turner","off","short",2,6,300
+"Ashton Turner","line","short",1,0,0
+"Ashton Turner","off","bouncer",1,1,100
+"Aiden Markram","off","yorker",41,68,165.85
+"Aiden Markram","line","yorker",35,49,140
+"Aiden Markram","leg","yorker",14,27,192.86
+"Aiden Markram","off","full",86,127,147.67
+"Aiden Markram","line","full",91,84,92.31
+"Aiden Markram","leg","full",20,33,165
+"Aiden Markram","off","length",103,136,132.04
+"Aiden Markram","line","length",99,106,107.07
+"Aiden Markram","leg","length",28,40,142.86
+"Aiden Markram","off","back of length",122,168,137.7
+"Aiden Markram","line","back of length",95,150,157.89
+"Aiden Markram","leg","back of length",36,84,233.33
+"Aiden Markram","off","short",44,54,122.73
+"Aiden Markram","line","short",55,66,120
+"Aiden Markram","leg","short",37,56,151.35
+"Aiden Markram","off","bouncer",20,19,95
+"Aiden Markram","line","bouncer",18,24,133.33
+"Aiden Markram","leg","bouncer",4,3,75
+"Ajinkya Rahane","off","yorker",38,59,155.26
+"Ajinkya Rahane","line","yorker",23,29,126.09
+"Ajinkya Rahane","leg","yorker",15,24,160
+"Ajinkya Rahane","off","full",62,79,127.42
+"Ajinkya Rahane","line","full",60,92,153.33
+"Ajinkya Rahane","leg","full",23,36,156.52
+"Ajinkya Rahane","off","length",85,107,125.88
+"Ajinkya Rahane","line","length",91,152,167.03
+"Ajinkya Rahane","leg","length",26,25,96.15
+"Ajinkya Rahane","off","back of length",78,113,144.87
+"Ajinkya Rahane","line","back of length",79,111,140.51
+"Ajinkya Rahane","leg","back of length",36,53,147.22
+"Ajinkya Rahane","off","short",49,66,134.69
+"Ajinkya Rahane","line","short",52,59,113.46
+"Ajinkya Rahane","leg","short",24,33,137.5
+"Ajinkya Rahane","off","bouncer",19,34,178.95
+"Ajinkya Rahane","line","bouncer",16,13,81.25
+"Ajinkya Rahane","leg","bouncer",2,6,300
+"Axar Patel","off","yorker",27,32,118.52
+"Axar Patel","line","yorker",27,41,151.85
+"Axar Patel","leg","yorker",8,7,87.5
+"Axar Patel","off","full",52,96,184.62
+"Axar Patel","line","full",58,98,168.97
+"Axar Patel","leg","full",18,16,88.89
+"Axar Patel","off","length",71,97,136.62
+"Axar Patel","line","length",90,105,116.67
+"Axar Patel","leg","length",29,35,120.69
+"Axar Patel","off","back of length",66,97,146.97
+"Axar Patel","line","back of length",71,93,130.99
+"Axar Patel","leg","back of length",21,34,161.9
+"Axar Patel","off","short",31,63,203.23
+"Axar Patel","line","short",36,49,136.11
+"Axar Patel","leg","short",15,21,140
+"Axar Patel","off","bouncer",26,31,119.23
+"Axar Patel","line","bouncer",18,33,183.33
+"Axar Patel","leg","bouncer",5,15,300
+"Alzarri Joseph","off","yorker",1,1,100
+"Alzarri Joseph","off","full",2,2,100
+"Alzarri Joseph","line","full",1,0,0
+"Alzarri Joseph","leg","full",1,0,0
+"Alzarri Joseph","off","length",1,0,0
+"Alzarri Joseph","line","length",2,1,50
+"Alzarri Joseph","leg","length",1,1,100
+"Alzarri Joseph","off","back of length",3,1,33.33
+"Alzarri Joseph","line","back of length",3,5,166.67
+"Alzarri Joseph","leg","back of length",2,0,0
+"Alzarri Joseph","leg","short",1,1,100
+"Alzarri Joseph","leg","bouncer",1,0,0
+"Anukul Roy","line","yorker",1,0,0
+"Anukul Roy","off","full",4,4,100
+"Anukul Roy","off","length",3,1,33.33
+"Anukul Roy","line","length",4,8,200
+"Anukul Roy","leg","length",2,1,50
+"Anukul Roy","off","back of length",6,6,100
+"Anukul Roy","line","back of length",2,2,100
+"Anukul Roy","leg","back of length",1,0,0
+"Anukul Roy","off","short",2,4,200
+"Ambati Rayudu","off","yorker",17,20,117.65
+"Ambati Rayudu","line","yorker",11,17,154.55
+"Ambati Rayudu","leg","yorker",3,5,166.67
+"Ambati Rayudu","off","full",27,39,144.44
+"Ambati Rayudu","line","full",31,32,103.23
+"Ambati Rayudu","leg","full",8,12,150
+"Ambati Rayudu","off","length",39,54,138.46
+"Ambati Rayudu","line","length",37,39,105.41
+"Ambati Rayudu","leg","length",9,12,133.33
+"Ambati Rayudu","off","back of length",31,42,135.48
+"Ambati Rayudu","line","back of length",39,36,92.31
+"Ambati Rayudu","leg","back of length",13,16,123.08
+"Ambati Rayudu","off","short",17,44,258.82
+"Ambati Rayudu","line","short",27,37,137.04
+"Ambati Rayudu","leg","short",12,6,50
+"Ambati Rayudu","off","bouncer",4,8,200
+"Ambati Rayudu","line","bouncer",10,13,130
+"Ambati Rayudu","leg","bouncer",2,0,0
+"Adil Rashid","leg","yorker",1,0,0
+"Adil Rashid","off","full",1,0,0
+"Adil Rashid","leg","full",1,2,200
+"Adil Rashid","off","length",2,1,50
+"Adil Rashid","line","length",4,7,175
+"Adil Rashid","off","back of length",1,2,200
+"Adil Rashid","line","back of length",2,5,250
+"Adil Rashid","line","short",3,4,133.33
+"Adil Rashid","leg","bouncer",1,1,100
+"Abdul Basith","off","length",1,1,100
+"Abdul Samad","off","yorker",19,15,78.95
+"Abdul Samad","line","yorker",12,28,233.33
+"Abdul Samad","leg","yorker",5,3,60
+"Abdul Samad","off","full",24,39,162.5
+"Abdul Samad","line","full",24,48,200
+"Abdul Samad","leg","full",12,14,116.67
+"Abdul Samad","off","length",29,45,155.17
+"Abdul Samad","line","length",34,34,100
+"Abdul Samad","leg","length",18,20,111.11
+"Abdul Samad","off","back of length",46,67,145.65
+"Abdul Samad","line","back of length",37,71,191.89
+"Abdul Samad","leg","back of length",16,30,187.5
+"Abdul Samad","off","short",17,31,182.35
+"Abdul Samad","line","short",17,28,164.71
+"Abdul Samad","leg","short",12,18,150
+"Abdul Samad","off","bouncer",4,10,250
+"Abdul Samad","line","bouncer",7,9,128.57
+"Abdul Samad","leg","bouncer",5,9,180
+"Abhishek Sharma","off","yorker",50,97,194
+"Abhishek Sharma","line","yorker",37,51,137.84
+"Abhishek Sharma","leg","yorker",21,40,190.48
+"Abhishek Sharma","off","full",63,124,196.83
+"Abhishek Sharma","line","full",72,103,143.06
+"Abhishek Sharma","leg","full",17,32,188.24
+"Abhishek Sharma","off","length",106,189,178.3
+"Abhishek Sharma","line","length",112,182,162.5
+"Abhishek Sharma","leg","length",33,52,157.58
+"Abhishek Sharma","off","back of length",113,198,175.22
+"Abhishek Sharma","line","back of length",103,176,170.87
+"Abhishek Sharma","leg","back of length",38,67,176.32
+"Abhishek Sharma","off","short",41,81,197.56
+"Abhishek Sharma","line","short",66,85,128.79
+"Abhishek Sharma","leg","short",20,32,160
+"Abhishek Sharma","off","bouncer",28,27,96.43
+"Abhishek Sharma","line","bouncer",19,33,173.68
+"Abhishek Sharma","leg","bouncer",7,6,85.71
+"Abhishek Porel","off","yorker",12,14,116.67
+"Abhishek Porel","line","yorker",21,29,138.1
+"Abhishek Porel","leg","yorker",6,11,183.33
+"Abhishek Porel","off","full",34,45,132.35
+"Abhishek Porel","line","full",33,52,157.58
+"Abhishek Porel","leg","full",7,8,114.29
+"Abhishek Porel","off","length",59,112,189.83
+"Abhishek Porel","line","length",43,61,141.86
+"Abhishek Porel","leg","length",20,35,175
+"Abhishek Porel","off","back of length",50,72,144
+"Abhishek Porel","line","back of length",55,88,160
+"Abhishek Porel","leg","back of length",19,30,157.89
+"Abhishek Porel","off","short",22,26,118.18
+"Abhishek Porel","line","short",29,38,131.03
+"Abhishek Porel","leg","short",11,18,163.64
+"Abhishek Porel","off","bouncer",10,11,110
+"Abhishek Porel","line","bouncer",6,3,50
+"Abhishek Porel","leg","bouncer",4,8,200
+"Akash Deep","line","yorker",1,1,100
+"Akash Deep","line","full",2,7,350
+"Akash Deep","off","length",2,1,50
+"Akash Deep","line","length",2,0,0
+"Akash Deep","off","back of length",1,0,0
+"Akash Deep","line","back of length",3,5,166.67
+"Akash Deep","off","short",2,5,250
+"Akash Deep","leg","short",1,6,600
+"Akash Madhwal","off","yorker",1,1,100
+"Akash Madhwal","line","yorker",1,0,0
+"Akash Madhwal","off","length",3,2,66.67
+"Akash Madhwal","line","length",3,1,33.33
+"Akash Madhwal","leg","length",1,1,100
+"Akash Madhwal","off","back of length",3,2,66.67
+"Akash Madhwal","line","back of length",1,1,100
+"Akash Madhwal","off","short",1,0,0
+"Aman Hakim Khan","off","yorker",5,6,120
+"Aman Hakim Khan","line","yorker",3,5,166.67
+"Aman Hakim Khan","leg","yorker",3,0,0
+"Aman Hakim Khan","off","full",9,19,211.11
+"Aman Hakim Khan","line","full",7,4,57.14
+"Aman Hakim Khan","leg","full",4,5,125
+"Aman Hakim Khan","off","length",10,7,70
+"Aman Hakim Khan","line","length",5,2,40
+"Aman Hakim Khan","leg","length",5,1,20
+"Aman Hakim Khan","off","back of length",21,26,123.81
+"Aman Hakim Khan","line","back of length",5,7,140
+"Aman Hakim Khan","leg","back of length",9,16,177.78
+"Aman Hakim Khan","off","short",7,5,71.43
+"Aman Hakim Khan","line","short",3,2,66.67
+"Aman Hakim Khan","leg","short",2,2,100
+"Aman Hakim Khan","off","bouncer",4,1,25
+"Aman Hakim Khan","line","bouncer",1,4,400
+"Aman Hakim Khan","leg","bouncer",2,3,150
+"Aniket Verma","off","yorker",8,11,137.5
+"Aniket Verma","line","yorker",5,4,80
+"Aniket Verma","leg","yorker",5,14,280
+"Aniket Verma","off","full",9,6,66.67
+"Aniket Verma","line","full",10,23,230
+"Aniket Verma","leg","full",4,3,75
+"Aniket Verma","off","length",11,9,81.82
+"Aniket Verma","line","length",23,41,178.26
+"Aniket Verma","leg","length",9,14,155.56
+"Aniket Verma","off","back of length",15,30,200
+"Aniket Verma","line","back of length",14,31,221.43
+"Aniket Verma","leg","back of length",6,13,216.67
+"Aniket Verma","off","short",9,17,188.89
+"Aniket Verma","line","short",3,2,66.67
+"Aniket Verma","leg","short",2,2,100
+"Aniket Verma","off","bouncer",2,6,300
+"Aniket Verma","line","bouncer",3,2,66.67
+"Aniket Verma","leg","bouncer",4,8,200
+"Anmolpreet Singh","off","yorker",4,6,150
+"Anmolpreet Singh","line","yorker",6,10,166.67
+"Anmolpreet Singh","off","full",9,8,88.89
+"Anmolpreet Singh","line","full",4,8,200
+"Anmolpreet Singh","leg","full",3,3,100
+"Anmolpreet Singh","off","length",8,10,125
+"Anmolpreet Singh","line","length",11,13,118.18
+"Anmolpreet Singh","leg","length",6,4,66.67
+"Anmolpreet Singh","off","back of length",9,7,77.78
+"Anmolpreet Singh","line","back of length",10,14,140
+"Anmolpreet Singh","leg","back of length",4,2,50
+"Anmolpreet Singh","off","short",8,17,212.5
+"Anmolpreet Singh","line","short",9,12,133.33
+"Anmolpreet Singh","leg","short",1,1,100
+"Anmolpreet Singh","off","bouncer",3,2,66.67
+"Anmolpreet Singh","line","bouncer",4,6,150
+"Anmolpreet Singh","leg","bouncer",2,0,0
+"Anuj Rawat","off","yorker",11,12,109.09
+"Anuj Rawat","line","yorker",14,15,107.14
+"Anuj Rawat","leg","yorker",7,5,71.43
+"Anuj Rawat","off","full",19,11,57.89
+"Anuj Rawat","line","full",13,21,161.54
+"Anuj Rawat","leg","full",5,9,180
+"Anuj Rawat","off","length",29,33,113.79
+"Anuj Rawat","line","length",43,56,130.23
+"Anuj Rawat","leg","length",7,7,100
+"Anuj Rawat","off","back of length",34,36,105.88
+"Anuj Rawat","line","back of length",26,34,130.77
+"Anuj Rawat","leg","back of length",12,6,50
+"Anuj Rawat","off","short",14,15,107.14
+"Anuj Rawat","line","short",12,23,191.67
+"Anuj Rawat","leg","short",5,9,180
+"Anuj Rawat","off","bouncer",5,10,200
+"Anuj Rawat","line","bouncer",6,6,100
+"Anuj Rawat","leg","bouncer",6,10,166.67
+"Arjun Tendulkar","line","yorker",1,1,100
+"Arjun Tendulkar","off","full",1,1,100
+"Arjun Tendulkar","line","full",1,2,200
+"Arjun Tendulkar","leg","full",1,1,100
+"Arjun Tendulkar","leg","length",1,0,0
+"Arjun Tendulkar","off","back of length",1,0,0
+"Arjun Tendulkar","leg","back of length",1,6,600
+"Arjun Tendulkar","off","short",1,1,100
+"Arjun Tendulkar","off","bouncer",1,1,100
+"Arshad Khan","off","yorker",3,5,166.67
+"Arshad Khan","line","yorker",3,2,66.67
+"Arshad Khan","off","full",6,4,66.67
+"Arshad Khan","line","full",6,18,300
+"Arshad Khan","leg","full",1,6,600
+"Arshad Khan","off","length",11,8,72.73
+"Arshad Khan","line","length",10,15,150
+"Arshad Khan","leg","length",1,0,0
+"Arshad Khan","off","back of length",7,6,85.71
+"Arshad Khan","line","back of length",12,16,133.33
+"Arshad Khan","leg","back of length",6,4,66.67
+"Arshad Khan","off","short",8,16,200
+"Arshad Khan","line","short",3,10,333.33
+"Arshad Khan","leg","short",2,1,50
+"Arshad Khan","line","bouncer",4,7,175
+"Arshad Khan","leg","bouncer",1,1,100
+"Arshad Khan (2)","line","yorker",1,1,100
+"Arshad Khan (2)","leg","length",1,0,0
+"Arshad Khan (2)","off","back of length",1,0,0
+"Arshad Khan (2)","leg","back of length",1,4,400
+"Arshdeep Singh","off","yorker",2,0,0
+"Arshdeep Singh","line","yorker",4,4,100
+"Arshdeep Singh","off","full",2,0,0
+"Arshdeep Singh","line","full",4,4,100
+"Arshdeep Singh","leg","full",1,0,0
+"Arshdeep Singh","off","length",6,4,66.67
+"Arshdeep Singh","line","length",4,5,125
+"Arshdeep Singh","leg","length",2,1,50
+"Arshdeep Singh","off","back of length",6,8,133.33
+"Arshdeep Singh","line","back of length",3,0,0
+"Arshdeep Singh","leg","back of length",2,3,150
+"Arshdeep Singh","off","short",1,0,0
+"Arshdeep Singh","line","short",3,0,0
+"Arshdeep Singh","off","bouncer",1,0,0
+"Ashutosh Sharma","off","yorker",18,32,177.78
+"Ashutosh Sharma","line","yorker",10,8,80
+"Ashutosh Sharma","leg","yorker",5,13,260
+"Ashutosh Sharma","off","full",19,23,121.05
+"Ashutosh Sharma","line","full",12,21,175
+"Ashutosh Sharma","leg","full",2,0,0
+"Ashutosh Sharma","off","length",23,33,143.48
+"Ashutosh Sharma","line","length",32,59,184.38
+"Ashutosh Sharma","leg","length",12,14,116.67
+"Ashutosh Sharma","off","back of length",24,40,166.67
+"Ashutosh Sharma","line","back of length",26,41,157.69
+"Ashutosh Sharma","leg","back of length",11,26,236.36
+"Ashutosh Sharma","off","short",11,23,209.09
+"Ashutosh Sharma","line","short",14,21,150
+"Ashutosh Sharma","leg","short",8,12,150
+"Ashutosh Sharma","off","bouncer",6,9,150
+"Ashutosh Sharma","line","bouncer",5,12,240
+"Ashutosh Sharma","leg","bouncer",2,6,300
+"Atharva Taide","off","yorker",10,21,210
+"Atharva Taide","line","yorker",11,9,81.82
+"Atharva Taide","leg","yorker",1,1,100
+"Atharva Taide","off","full",11,15,136.36
+"Atharva Taide","line","full",20,30,150
+"Atharva Taide","leg","full",2,10,500
+"Atharva Taide","off","length",26,38,146.15
+"Atharva Taide","line","length",12,16,133.33
+"Atharva Taide","leg","length",5,3,60
+"Atharva Taide","off","back of length",13,25,192.31
+"Atharva Taide","line","back of length",18,18,100
+"Atharva Taide","leg","back of length",6,2,33.33
+"Atharva Taide","off","short",10,16,160
+"Atharva Taide","line","short",11,14,127.27
+"Atharva Taide","leg","short",7,19,271.43
+"Atharva Taide","off","bouncer",4,5,125
+"Atharva Taide","line","bouncer",9,14,155.56
+"Atharva Taide","leg","bouncer",2,4,200
+"Avesh Khan","off","yorker",2,3,150
+"Avesh Khan","line","yorker",2,6,300
+"Avesh Khan","off","full",3,1,33.33
+"Avesh Khan","line","full",2,6,300
+"Avesh Khan","leg","full",1,1,100
+"Avesh Khan","off","length",3,6,200
+"Avesh Khan","line","length",4,4,100
+"Avesh Khan","off","back of length",2,7,350
+"Avesh Khan","line","back of length",6,7,116.67
+"Avesh Khan","leg","back of length",1,4,400
+"Avesh Khan","off","short",2,2,100
+"Avesh Khan","line","short",2,1,50
+"Avesh Khan","leg","short",1,1,100
+"Avesh Khan","line","bouncer",1,4,400
+"Azmatullah Omarzai","off","yorker",2,0,0
+"Azmatullah Omarzai","line","yorker",3,1,33.33
+"Azmatullah Omarzai","off","full",2,3,150
+"Azmatullah Omarzai","line","full",5,1,20
+"Azmatullah Omarzai","leg","full",1,4,400
+"Azmatullah Omarzai","off","length",9,11,122.22
+"Azmatullah Omarzai","line","length",12,28,233.33
+"Azmatullah Omarzai","leg","length",4,7,175
+"Azmatullah Omarzai","off","back of length",10,15,150
+"Azmatullah Omarzai","line","back of length",10,20,200
+"Azmatullah Omarzai","leg","back of length",1,1,100
+"Azmatullah Omarzai","off","short",4,2,50
+"Azmatullah Omarzai","line","short",3,1,33.33
+"Azmatullah Omarzai","leg","short",3,3,100
+"Azmatullah Omarzai","off","bouncer",2,1,50
+"Azmatullah Omarzai","line","bouncer",2,0,0
+"Azmatullah Omarzai","leg","bouncer",1,1,100
+"Baba Indrajith","off","yorker",1,0,0
+"Baba Indrajith","line","yorker",3,1,33.33
+"Baba Indrajith","leg","yorker",1,2,200
+"Baba Indrajith","off","full",1,4,400
+"Baba Indrajith","line","full",3,4,133.33
+"Baba Indrajith","leg","full",1,1,100
+"Baba Indrajith","off","length",5,3,60
+"Baba Indrajith","line","length",6,3,50
+"Baba Indrajith","leg","length",2,1,50
+"Baba Indrajith","off","back of length",1,0,0
+"Baba Indrajith","line","back of length",3,1,33.33
+"Baba Indrajith","line","short",1,1,100
+"Baba Indrajith","off","bouncer",1,0,0
+"Baba Indrajith","line","bouncer",1,0,0
+"Bhuvneshwar Kumar","off","yorker",8,7,87.5
+"Bhuvneshwar Kumar","line","yorker",4,6,150
+"Bhuvneshwar Kumar","leg","yorker",6,5,83.33
+"Bhuvneshwar Kumar","off","full",6,3,50
+"Bhuvneshwar Kumar","line","full",8,11,137.5
+"Bhuvneshwar Kumar","leg","full",6,4,66.67
+"Bhuvneshwar Kumar","off","length",13,9,69.23
+"Bhuvneshwar Kumar","line","length",21,18,85.71
+"Bhuvneshwar Kumar","leg","length",3,6,200
+"Bhuvneshwar Kumar","off","back of length",15,9,60
+"Bhuvneshwar Kumar","line","back of length",8,2,25
+"Bhuvneshwar Kumar","leg","back of length",4,3,75
+"Bhuvneshwar Kumar","off","short",7,11,157.14
+"Bhuvneshwar Kumar","line","short",9,8,88.89
+"Bhuvneshwar Kumar","leg","short",1,1,100
+"Bhuvneshwar Kumar","off","bouncer",4,0,0
+"Bhuvneshwar Kumar","line","bouncer",2,0,0
+"Bhuvneshwar Kumar","leg","bouncer",2,0,0
+"Sai Sudharsan","off","yorker",62,102,164.52
+"Sai Sudharsan","line","yorker",45,66,146.67
+"Sai Sudharsan","leg","yorker",28,30,107.14
+"Sai Sudharsan","off","full",94,124,131.91
+"Sai Sudharsan","line","full",69,100,144.93
+"Sai Sudharsan","leg","full",37,61,164.86
+"Sai Sudharsan","off","length",130,204,156.92
+"Sai Sudharsan","line","length",157,190,121.02
+"Sai Sudharsan","leg","length",49,77,157.14
+"Sai Sudharsan","off","back of length",151,213,141.06
+"Sai Sudharsan","line","back of length",120,194,161.67
+"Sai Sudharsan","leg","back of length",48,67,139.58
+"Sai Sudharsan","off","short",63,103,163.49
+"Sai Sudharsan","line","short",75,100,133.33
+"Sai Sudharsan","leg","short",36,57,158.33
+"Sai Sudharsan","off","bouncer",32,42,131.25
+"Sai Sudharsan","line","bouncer",24,34,141.67
+"Sai Sudharsan","leg","bouncer",16,29,181.25
+"Ben Stokes","off","yorker",1,1,100
+"Ben Stokes","off","full",4,3,75
+"Ben Stokes","line","full",1,0,0
+"Ben Stokes","off","length",3,0,0
+"Ben Stokes","leg","length",1,1,100
+"Ben Stokes","line","back of length",1,1,100
+"Ben Stokes","leg","back of length",2,8,400
+"Ben Stokes","line","short",1,1,100
+"Kusal Mendis","off","full",1,0,0
+"Kusal Mendis","line","full",3,6,200
+"Kusal Mendis","off","length",1,1,100
+"Kusal Mendis","line","length",1,6,600
+"Kusal Mendis","off","back of length",2,1,50
+"Kusal Mendis","line","back of length",2,6,300
+"BR Sharath","leg","length",1,1,100
+"BR Sharath","off","back of length",2,0,0
+"BR Sharath","line","short",1,1,100
+"BR Sharath","leg","bouncer",1,0,0
+"Corbin Bosch","off","yorker",2,3,150
+"Corbin Bosch","line","yorker",1,4,400
+"Corbin Bosch","leg","yorker",1,4,400
+"Corbin Bosch","off","full",3,1,33.33
+"Corbin Bosch","leg","full",1,0,0
+"Corbin Bosch","off","length",3,5,166.67
+"Corbin Bosch","line","length",5,3,60
+"Corbin Bosch","leg","length",1,6,600
+"Corbin Bosch","off","back of length",1,1,100
+"Corbin Bosch","line","back of length",4,8,200
+"Corbin Bosch","leg","back of length",1,1,100
+"Corbin Bosch","off","short",2,2,100
+"Corbin Bosch","line","short",3,1,33.33
+"Corbin Bosch","leg","short",1,6,600
+"Corbin Bosch","off","bouncer",1,1,100
+"Corbin Bosch","line","bouncer",2,1,50
+"Cameron Green","off","yorker",22,30,136.36
+"Cameron Green","line","yorker",19,26,136.84
+"Cameron Green","leg","yorker",5,5,100
+"Cameron Green","off","full",26,43,165.38
+"Cameron Green","line","full",36,66,183.33
+"Cameron Green","leg","full",15,21,140
+"Cameron Green","off","length",49,70,142.86
+"Cameron Green","line","length",69,111,160.87
+"Cameron Green","leg","length",16,25,156.25
+"Cameron Green","off","back of length",57,84,147.37
+"Cameron Green","line","back of length",39,57,146.15
+"Cameron Green","leg","back of length",16,30,187.5
+"Cameron Green","off","short",22,32,145.45
+"Cameron Green","line","short",23,38,165.22
+"Cameron Green","leg","short",13,20,153.85
+"Cameron Green","off","bouncer",14,11,78.57
+"Cameron Green","line","bouncer",14,28,200
+"Cameron Green","leg","bouncer",5,10,200
+"Chetan Sakariya","off","length",1,0,0
+"Chetan Sakariya","line","length",1,0,0
+"Chetan Sakariya","off","back of length",1,0,0
+"Chetan Sakariya","line","back of length",3,4,133.33
+"Chris Jordan","off","yorker",2,4,200
+"Chris Jordan","line","yorker",1,0,0
+"Chris Jordan","leg","yorker",1,0,0
+"Chris Jordan","off","full",3,2,66.67
+"Chris Jordan","off","length",1,2,200
+"Chris Jordan","line","length",3,1,33.33
+"Chris Jordan","off","back of length",3,2,66.67
+"Chris Jordan","line","back of length",2,3,150
+"Chris Jordan","leg","back of length",1,0,0
+"Chris Jordan","line","short",2,3,150
+"Chris Jordan","off","bouncer",1,0,0
+"Varun Chakravarthy","line","yorker",3,1,33.33
+"Varun Chakravarthy","off","full",3,0,0
+"Varun Chakravarthy","leg","full",1,0,0
+"Varun Chakravarthy","off","length",2,0,0
+"Varun Chakravarthy","line","length",4,5,125
+"Varun Chakravarthy","leg","length",2,1,50
+"Varun Chakravarthy","off","back of length",4,5,125
+"Varun Chakravarthy","line","back of length",4,1,25
+"Varun Chakravarthy","line","short",2,0,0
+"Varun Chakravarthy","leg","short",1,0,0
+"Varun Chakravarthy","off","bouncer",1,0,0
+"Varun Chakravarthy","line","bouncer",1,1,100
+"Dewald Brevis","off","yorker",11,8,72.73
+"Dewald Brevis","line","yorker",11,19,172.73
+"Dewald Brevis","leg","yorker",3,10,333.33
+"Dewald Brevis","off","full",29,44,151.72
+"Dewald Brevis","line","full",17,21,123.53
+"Dewald Brevis","leg","full",7,27,385.71
+"Dewald Brevis","off","length",45,57,126.67
+"Dewald Brevis","line","length",34,30,88.24
+"Dewald Brevis","leg","length",13,13,100
+"Dewald Brevis","off","back of length",21,62,295.24
+"Dewald Brevis","line","back of length",24,38,158.33
+"Dewald Brevis","leg","back of length",13,18,138.46
+"Dewald Brevis","off","short",24,41,170.83
+"Dewald Brevis","line","short",23,26,113.04
+"Dewald Brevis","leg","short",6,4,66.67
+"Dewald Brevis","off","bouncer",2,1,50
+"Dewald Brevis","line","bouncer",11,28,254.55
+"Dewald Brevis","leg","bouncer",5,8,160
+"Donovan Ferreira","line","yorker",1,1,100
+"Donovan Ferreira","off","full",1,1,100
+"Donovan Ferreira","line","full",3,1,33.33
+"Donovan Ferreira","off","length",1,0,0
+"Donovan Ferreira","line","length",3,4,133.33
+"Donovan Ferreira","off","back of length",2,1,50
+"Donovan Ferreira","line","back of length",2,1,50
+"Donovan Ferreira","line","bouncer",1,0,0
+"Devdutt Padikkal","off","yorker",30,46,153.33
+"Devdutt Padikkal","line","yorker",16,22,137.5
+"Devdutt Padikkal","leg","yorker",11,14,127.27
+"Devdutt Padikkal","off","full",45,65,144.44
+"Devdutt Padikkal","line","full",50,65,130
+"Devdutt Padikkal","leg","full",21,32,152.38
+"Devdutt Padikkal","off","length",80,80,100
+"Devdutt Padikkal","line","length",90,126,140
+"Devdutt Padikkal","leg","length",28,32,114.29
+"Devdutt Padikkal","off","back of length",79,114,144.3
+"Devdutt Padikkal","line","back of length",96,111,115.62
+"Devdutt Padikkal","leg","back of length",24,35,145.83
+"Devdutt Padikkal","off","short",38,43,113.16
+"Devdutt Padikkal","line","short",51,57,111.76
+"Devdutt Padikkal","leg","short",22,21,95.45
+"Devdutt Padikkal","off","bouncer",20,21,105
+"Devdutt Padikkal","line","bouncer",17,25,147.06
+"Devdutt Padikkal","leg","bouncer",7,13,185.71
+"Dwaine Pretorius","off","yorker",2,2,100
+"Dwaine Pretorius","line","yorker",1,1,100
+"Dwaine Pretorius","off","full",3,0,0
+"Dwaine Pretorius","line","full",1,1,100
+"Dwaine Pretorius","leg","full",1,0,0
+"Dwaine Pretorius","off","length",1,0,0
+"Dwaine Pretorius","line","length",7,10,142.86
+"Dwaine Pretorius","leg","length",1,2,200
+"Dwaine Pretorius","off","back of length",2,8,400
+"Dwaine Pretorius","line","back of length",7,20,285.71
+"Dwaine Pretorius","off","short",1,0,0
+"Dwaine Pretorius","line","bouncer",1,0,0
+"David Wiese","off","yorker",1,1,100
+"David Wiese","line","yorker",1,6,600
+"David Wiese","leg","yorker",1,0,0
+"David Wiese","line","full",1,6,600
+"David Wiese","line","length",2,7,350
+"David Wiese","leg","length",2,0,0
+"David Wiese","off","back of length",1,0,0
+"David Wiese","line","back of length",1,1,100
+"David Wiese","line","short",1,0,0
+"David Miller","off","yorker",34,58,170.59
+"David Miller","line","yorker",27,57,211.11
+"David Miller","leg","yorker",11,10,90.91
+"David Miller","off","full",59,80,135.59
+"David Miller","line","full",65,114,175.38
+"David Miller","leg","full",22,21,95.45
+"David Miller","off","length",95,119,125.26
+"David Miller","line","length",88,139,157.95
+"David Miller","leg","length",33,44,133.33
+"David Miller","off","back of length",86,126,146.51
+"David Miller","line","back of length",83,99,119.28
+"David Miller","leg","back of length",32,39,121.88
+"David Miller","off","short",28,37,132.14
+"David Miller","line","short",43,50,116.28
+"David Miller","leg","short",18,42,233.33
+"David Miller","off","bouncer",19,36,189.47
+"David Miller","line","bouncer",26,21,80.77
+"David Miller","leg","bouncer",6,11,183.33
+"David Warner","off","yorker",47,58,123.4
+"David Warner","line","yorker",29,31,106.9
+"David Warner","leg","yorker",11,12,109.09
+"David Warner","off","full",57,87,152.63
+"David Warner","line","full",54,73,135.19
+"David Warner","leg","full",11,16,145.45
+"David Warner","off","length",82,108,131.71
+"David Warner","line","length",109,148,135.78
+"David Warner","leg","length",35,54,154.29
+"David Warner","off","back of length",87,111,127.59
+"David Warner","line","back of length",88,110,125
+"David Warner","leg","back of length",35,62,177.14
+"David Warner","off","short",44,70,159.09
+"David Warner","line","short",39,57,146.15
+"David Warner","leg","short",22,22,100
+"David Warner","off","bouncer",18,38,211.11
+"David Warner","line","bouncer",28,48,171.43
+"David Warner","leg","bouncer",10,11,110
+"Darshan Nalkande","off","yorker",1,1,100
+"Darshan Nalkande","leg","yorker",1,1,100
+"Darshan Nalkande","off","full",2,0,0
+"Darshan Nalkande","off","length",1,6,600
+"Darshan Nalkande","line","length",2,2,100
+"Darshan Nalkande","off","back of length",1,0,0
+"Darshan Nalkande","line","back of length",1,0,0
+"Darshan Nalkande","off","short",2,2,100
+"Darshan Nalkande","line","short",1,0,0
+"Dwayne Bravo","line","yorker",1,6,600
+"Dwayne Bravo","off","full",1,1,100
+"Dwayne Bravo","line","full",2,1,50
+"Dwayne Bravo","leg","full",1,1,100
+"Dwayne Bravo","off","length",1,1,100
+"Dwayne Bravo","line","length",2,1,50
+"Dwayne Bravo","off","back of length",5,4,80
+"Dwayne Bravo","line","back of length",7,7,100
+"Dwayne Bravo","leg","back of length",2,1,50
+"Dwayne Bravo","off","short",1,0,0
+"Dwayne Bravo","line","short",1,0,0
+"Dwayne Bravo","off","bouncer",1,0,0
+"Deepak Hooda","off","yorker",30,42,140
+"Deepak Hooda","line","yorker",39,37,94.87
+"Deepak Hooda","leg","yorker",7,12,171.43
+"Deepak Hooda","off","full",36,43,119.44
+"Deepak Hooda","line","full",47,43,91.49
+"Deepak Hooda","leg","full",8,7,87.5
+"Deepak Hooda","off","length",64,101,157.81
+"Deepak Hooda","line","length",58,70,120.69
+"Deepak Hooda","leg","length",20,21,105
+"Deepak Hooda","off","back of length",58,65,112.07
+"Deepak Hooda","line","back of length",51,72,141.18
+"Deepak Hooda","leg","back of length",17,34,200
+"Deepak Hooda","off","short",35,42,120
+"Deepak Hooda","line","short",40,64,160
+"Deepak Hooda","leg","short",18,20,111.11
+"Deepak Hooda","off","bouncer",24,26,108.33
+"Deepak Hooda","line","bouncer",12,11,91.67
+"Deepak Hooda","leg","bouncer",4,1,25
+"Daryl Mitchell","off","yorker",11,14,127.27
+"Daryl Mitchell","line","yorker",9,13,144.44
+"Daryl Mitchell","leg","yorker",3,8,266.67
+"Daryl Mitchell","off","full",22,32,145.45
+"Daryl Mitchell","line","full",28,39,139.29
+"Daryl Mitchell","leg","full",6,7,116.67
+"Daryl Mitchell","off","length",29,28,96.55
+"Daryl Mitchell","line","length",31,43,138.71
+"Daryl Mitchell","leg","length",12,18,150
+"Daryl Mitchell","off","back of length",34,42,123.53
+"Daryl Mitchell","line","back of length",30,43,143.33
+"Daryl Mitchell","leg","back of length",9,13,144.44
+"Daryl Mitchell","off","short",14,15,107.14
+"Daryl Mitchell","line","short",13,11,84.62
+"Daryl Mitchell","leg","short",4,9,225
+"Daryl Mitchell","off","bouncer",6,8,133.33
+"Daryl Mitchell","line","bouncer",4,7,175
+"Daryl Mitchell","leg","bouncer",3,1,33.33
+"David Willey","off","yorker",5,3,60
+"David Willey","line","yorker",4,0,0
+"David Willey","off","full",4,3,75
+"David Willey","line","full",4,2,50
+"David Willey","leg","full",1,0,0
+"David Willey","off","length",6,2,33.33
+"David Willey","line","length",9,9,100
+"David Willey","leg","length",2,0,0
+"David Willey","off","back of length",7,7,100
+"David Willey","line","back of length",4,3,75
+"David Willey","leg","back of length",1,0,0
+"David Willey","off","short",4,2,50
+"David Willey","line","short",4,10,250
+"David Willey","leg","short",2,8,400
+"David Willey","off","bouncer",3,0,0
+"David Willey","line","bouncer",3,4,133.33
+"Deepak Chahar","off","yorker",1,4,400
+"Deepak Chahar","leg","yorker",1,2,200
+"Deepak Chahar","off","full",1,2,200
+"Deepak Chahar","line","full",3,4,133.33
+"Deepak Chahar","off","length",2,6,300
+"Deepak Chahar","line","length",4,3,75
+"Deepak Chahar","leg","length",2,5,250
+"Deepak Chahar","off","back of length",5,7,140
+"Deepak Chahar","line","back of length",1,1,100
+"Deepak Chahar","off","short",4,3,75
+"Deepak Chahar","line","short",2,1,50
+"Deepak Chahar","leg","short",1,0,0
+"Devon Conway","off","yorker",39,57,146.15
+"Devon Conway","line","yorker",33,48,145.45
+"Devon Conway","leg","yorker",5,4,80
+"Devon Conway","off","full",60,89,148.33
+"Devon Conway","line","full",61,84,137.7
+"Devon Conway","leg","full",9,15,166.67
+"Devon Conway","off","length",100,150,150
+"Devon Conway","line","length",84,124,147.62
+"Devon Conway","leg","length",30,44,146.67
+"Devon Conway","off","back of length",71,116,163.38
+"Devon Conway","line","back of length",87,124,142.53
+"Devon Conway","leg","back of length",26,27,103.85
+"Devon Conway","off","short",39,29,74.36
+"Devon Conway","line","short",65,91,140
+"Devon Conway","leg","short",24,33,137.5
+"Devon Conway","off","bouncer",17,21,123.53
+"Devon Conway","line","bouncer",18,13,72.22
+"Devon Conway","leg","bouncer",6,11,183.33
+"Daniel Sams","off","yorker",1,0,0
+"Daniel Sams","off","full",5,2,40
+"Daniel Sams","line","full",2,6,300
+"Daniel Sams","off","length",5,2,40
+"Daniel Sams","line","length",5,6,120
+"Daniel Sams","leg","length",2,3,150
+"Daniel Sams","line","back of length",6,15,250
+"Daniel Sams","leg","back of length",1,1,100
+"Daniel Sams","off","short",3,1,33.33
+"Daniel Sams","line","short",2,1,50
+"Daniel Sams","leg","short",3,0,0
+"Daniel Sams","off","bouncer",1,1,100
+"DS Rathi","off","full",1,1,100
+"DS Rathi","leg","back of length",1,0,0
+"DS Rathi","off","bouncer",1,0,0
+"Dhruv Jurel","off","yorker",22,37,168.18
+"Dhruv Jurel","line","yorker",12,23,191.67
+"Dhruv Jurel","leg","yorker",9,7,77.78
+"Dhruv Jurel","off","full",33,46,139.39
+"Dhruv Jurel","line","full",46,57,123.91
+"Dhruv Jurel","leg","full",17,22,129.41
+"Dhruv Jurel","off","length",43,66,153.49
+"Dhruv Jurel","line","length",59,85,144.07
+"Dhruv Jurel","leg","length",11,12,109.09
+"Dhruv Jurel","off","back of length",41,82,200
+"Dhruv Jurel","line","back of length",49,70,142.86
+"Dhruv Jurel","leg","back of length",16,22,137.5
+"Dhruv Jurel","off","short",19,33,173.68
+"Dhruv Jurel","line","short",25,53,212
+"Dhruv Jurel","leg","short",14,30,214.29
+"Dhruv Jurel","off","bouncer",11,12,109.09
+"Dhruv Jurel","line","bouncer",12,18,150
+"Dhruv Jurel","leg","bouncer",6,5,83.33
+"Evin Lewis","off","yorker",3,12,400
+"Evin Lewis","line","yorker",2,1,50
+"Evin Lewis","off","full",6,7,116.67
+"Evin Lewis","line","full",4,9,225
+"Evin Lewis","leg","full",2,1,50
+"Evin Lewis","off","length",9,14,155.56
+"Evin Lewis","line","length",7,8,114.29
+"Evin Lewis","leg","length",2,1,50
+"Evin Lewis","off","back of length",4,1,25
+"Evin Lewis","line","back of length",8,11,137.5
+"Evin Lewis","leg","back of length",1,1,100
+"Evin Lewis","line","short",3,6,200
+"Evin Lewis","leg","short",2,0,0
+"Evin Lewis","off","bouncer",1,1,100
+"Evin Lewis","line","bouncer",1,0,0
+"Evin Lewis","leg","bouncer",1,0,0
+"Faf du Plessis","off","yorker",62,81,130.65
+"Faf du Plessis","line","yorker",53,86,162.26
+"Faf du Plessis","leg","yorker",15,15,100
+"Faf du Plessis","off","full",113,167,147.79
+"Faf du Plessis","line","full",89,129,144.94
+"Faf du Plessis","leg","full",29,45,155.17
+"Faf du Plessis","off","length",139,201,144.6
+"Faf du Plessis","line","length",151,212,140.4
+"Faf du Plessis","leg","length",48,64,133.33
+"Faf du Plessis","off","back of length",157,195,124.2
+"Faf du Plessis","line","back of length",132,216,163.64
+"Faf du Plessis","leg","back of length",64,101,157.81
+"Faf du Plessis","off","short",62,95,153.23
+"Faf du Plessis","line","short",70,102,145.71
+"Faf du Plessis","leg","short",28,44,157.14
+"Faf du Plessis","off","bouncer",38,52,136.84
+"Faf du Plessis","line","bouncer",17,20,117.65
+"Faf du Plessis","leg","bouncer",13,13,100
+"Fabian Allen","line","yorker",1,0,0
+"Fabian Allen","line","full",3,7,233.33
+"Fabian Allen","line","length",1,0,0
+"Fabian Allen","off","back of length",2,1,50
+"Fazalhaq Farooqi","line","yorker",1,0,0
+"Fazalhaq Farooqi","off","length",2,0,0
+"Fazalhaq Farooqi","line","length",2,1,50
+"Fazalhaq Farooqi","off","back of length",4,3,75
+"Fazalhaq Farooqi","line","back of length",3,0,0
+"Fazalhaq Farooqi","leg","back of length",1,0,0
+"Fazalhaq Farooqi","off","short",2,1,50
+"Gerald Coetzee","off","yorker",3,5,166.67
+"Gerald Coetzee","line","yorker",3,1,33.33
+"Gerald Coetzee","off","full",2,2,100
+"Gerald Coetzee","line","full",4,6,150
+"Gerald Coetzee","off","length",3,6,200
+"Gerald Coetzee","line","length",6,6,100
+"Gerald Coetzee","off","back of length",3,0,0
+"Gerald Coetzee","line","back of length",2,1,50
+"Gerald Coetzee","off","short",2,0,0
+"Gerald Coetzee","line","short",2,2,100
+"Gerald Coetzee","off","bouncer",1,1,100
+"Gerald Coetzee","line","bouncer",2,1,50
+"Glenn Phillips","off","yorker",1,4,400
+"Glenn Phillips","line","yorker",1,1,100
+"Glenn Phillips","off","full",2,7,350
+"Glenn Phillips","line","full",4,1,25
+"Glenn Phillips","leg","full",1,0,0
+"Glenn Phillips","off","length",4,11,275
+"Glenn Phillips","line","length",1,0,0
+"Glenn Phillips","leg","length",2,0,0
+"Glenn Phillips","off","back of length",1,6,600
+"Glenn Phillips","line","back of length",1,1,100
+"Glenn Phillips","leg","back of length",1,2,200
+"Glenn Phillips","off","short",2,6,300
+"Glenn Phillips","off","bouncer",1,0,0
+"Glenn Maxwell","off","yorker",27,50,185.19
+"Glenn Maxwell","line","yorker",25,25,100
+"Glenn Maxwell","leg","yorker",8,26,325
+"Glenn Maxwell","off","full",43,52,120.93
+"Glenn Maxwell","line","full",38,46,121.05
+"Glenn Maxwell","leg","full",13,34,261.54
+"Glenn Maxwell","off","length",48,70,145.83
+"Glenn Maxwell","line","length",59,104,176.27
+"Glenn Maxwell","leg","length",13,13,100
+"Glenn Maxwell","off","back of length",47,86,182.98
+"Glenn Maxwell","line","back of length",44,73,165.91
+"Glenn Maxwell","leg","back of length",25,43,172
+"Glenn Maxwell","off","short",30,44,146.67
+"Glenn Maxwell","line","short",24,43,179.17
+"Glenn Maxwell","leg","short",17,36,211.76
+"Glenn Maxwell","off","bouncer",6,7,116.67
+"Glenn Maxwell","line","bouncer",17,43,252.94
+"Glenn Maxwell","leg","bouncer",8,6,75
+"Gulbadin Naib","off","yorker",1,4,400
+"Gulbadin Naib","line","yorker",1,1,100
+"Gulbadin Naib","off","full",3,7,233.33
+"Gulbadin Naib","line","length",2,1,50
+"Gulbadin Naib","off","back of length",1,0,0
+"Gulbadin Naib","line","back of length",2,2,100
+"Gulbadin Naib","leg","back of length",2,2,100
+"Gulbadin Naib","off","short",1,1,100
+"Gulbadin Naib","line","bouncer",1,1,100
+"Gulbadin Naib","leg","bouncer",1,0,0
+"Heinrich Klaasen","off","yorker",39,53,135.9
+"Heinrich Klaasen","line","yorker",38,82,215.79
+"Heinrich Klaasen","leg","yorker",11,15,136.36
+"Heinrich Klaasen","off","full",59,130,220.34
+"Heinrich Klaasen","line","full",45,77,171.11
+"Heinrich Klaasen","leg","full",15,19,126.67
+"Heinrich Klaasen","off","length",98,187,190.82
+"Heinrich Klaasen","line","length",105,143,136.19
+"Heinrich Klaasen","leg","length",33,69,209.09
+"Heinrich Klaasen","off","back of length",92,178,193.48
+"Heinrich Klaasen","line","back of length",80,119,148.75
+"Heinrich Klaasen","leg","back of length",35,61,174.29
+"Heinrich Klaasen","off","short",46,76,165.22
+"Heinrich Klaasen","line","short",50,93,186
+"Heinrich Klaasen","leg","short",19,31,163.16
+"Heinrich Klaasen","off","bouncer",28,50,178.57
+"Heinrich Klaasen","line","bouncer",17,29,170.59
+"Heinrich Klaasen","leg","bouncer",5,2,40
+"Harry Brook","off","yorker",8,8,100
+"Harry Brook","line","yorker",7,7,100
+"Harry Brook","leg","yorker",1,1,100
+"Harry Brook","off","full",9,8,88.89
+"Harry Brook","line","full",15,13,86.67
+"Harry Brook","leg","full",2,0,0
+"Harry Brook","off","length",17,26,152.94
+"Harry Brook","line","length",20,24,120
+"Harry Brook","leg","length",6,11,183.33
+"Harry Brook","off","back of length",17,27,158.82
+"Harry Brook","line","back of length",15,16,106.67
+"Harry Brook","leg","back of length",9,7,77.78
+"Harry Brook","off","short",6,6,100
+"Harry Brook","line","short",6,6,100
+"Harry Brook","leg","short",4,7,175
+"Harry Brook","off","bouncer",7,8,114.29
+"Harry Brook","line","bouncer",3,14,466.67
+"Harry Brook","leg","bouncer",4,1,25
+"Rassie van der Dussen","off","yorker",1,1,100
+"Rassie van der Dussen","leg","yorker",1,0,0
+"Rassie van der Dussen","off","full",2,0,0
+"Rassie van der Dussen","line","full",3,7,233.33
+"Rassie van der Dussen","leg","full",1,4,400
+"Rassie van der Dussen","off","length",1,0,0
+"Rassie van der Dussen","line","length",1,2,200
+"Rassie van der Dussen","off","back of length",4,1,25
+"Rassie van der Dussen","line","back of length",5,5,100
+"Rassie van der Dussen","line","short",3,1,33.33
+"Rassie van der Dussen","leg","short",1,1,100
+"Rassie van der Dussen","off","bouncer",1,0,0
+"Hardik Pandya","off","yorker",44,62,140.91
+"Hardik Pandya","line","yorker",32,48,150
+"Hardik Pandya","leg","yorker",18,30,166.67
+"Hardik Pandya","off","full",68,94,138.24
+"Hardik Pandya","line","full",46,50,108.7
+"Hardik Pandya","leg","full",18,23,127.78
+"Hardik Pandya","off","length",106,134,126.42
+"Hardik Pandya","line","length",115,193,167.83
+"Hardik Pandya","leg","length",44,61,138.64
+"Hardik Pandya","off","back of length",113,161,142.48
+"Hardik Pandya","line","back of length",108,152,140.74
+"Hardik Pandya","leg","back of length",34,44,129.41
+"Hardik Pandya","off","short",54,67,124.07
+"Hardik Pandya","line","short",49,64,130.61
+"Hardik Pandya","leg","short",17,29,170.59
+"Hardik Pandya","off","bouncer",19,19,100
+"Hardik Pandya","line","bouncer",18,27,150
+"Hardik Pandya","leg","bouncer",12,15,125
+"Hrithik Shokeen","off","yorker",3,2,66.67
+"Hrithik Shokeen","line","yorker",1,4,400
+"Hrithik Shokeen","leg","yorker",3,1,33.33
+"Hrithik Shokeen","off","full",7,6,85.71
+"Hrithik Shokeen","line","full",3,1,33.33
+"Hrithik Shokeen","leg","full",2,5,250
+"Hrithik Shokeen","off","length",9,9,100
+"Hrithik Shokeen","line","length",11,17,154.55
+"Hrithik Shokeen","leg","length",1,1,100
+"Hrithik Shokeen","off","back of length",6,3,50
+"Hrithik Shokeen","line","back of length",4,3,75
+"Hrithik Shokeen","leg","back of length",5,8,160
+"Hrithik Shokeen","off","short",2,4,200
+"Hrithik Shokeen","line","short",4,1,25
+"Hrithik Shokeen","leg","short",2,1,50
+"Hrithik Shokeen","off","bouncer",1,0,0
+"Hrithik Shokeen","leg","bouncer",1,0,0
+"Harshal Patel","off","yorker",4,9,225
+"Harshal Patel","line","yorker",5,3,60
+"Harshal Patel","off","full",6,11,183.33
+"Harshal Patel","line","full",6,11,183.33
+"Harshal Patel","leg","full",2,1,50
+"Harshal Patel","off","length",7,4,57.14
+"Harshal Patel","line","length",12,3,25
+"Harshal Patel","leg","length",5,10,200
+"Harshal Patel","off","back of length",9,14,155.56
+"Harshal Patel","line","back of length",13,5,38.46
+"Harshal Patel","leg","back of length",4,2,50
+"Harshal Patel","off","short",4,8,200
+"Harshal Patel","line","short",6,2,33.33
+"Harshal Patel","leg","short",1,0,0
+"Harshal Patel","off","bouncer",1,0,0
+"Harshal Patel","line","bouncer",2,0,0
+"Harshal Patel","leg","bouncer",3,0,0
+"Harpreet Brar","off","yorker",13,13,100
+"Harpreet Brar","line","yorker",6,4,66.67
+"Harpreet Brar","leg","yorker",1,4,400
+"Harpreet Brar","off","full",10,8,80
+"Harpreet Brar","line","full",10,15,150
+"Harpreet Brar","leg","full",6,10,166.67
+"Harpreet Brar","off","length",20,27,135
+"Harpreet Brar","line","length",12,19,158.33
+"Harpreet Brar","off","back of length",16,13,81.25
+"Harpreet Brar","line","back of length",20,17,85
+"Harpreet Brar","leg","back of length",2,7,350
+"Harpreet Brar","off","short",8,6,75
+"Harpreet Brar","line","short",1,1,100
+"Harpreet Brar","leg","short",3,10,333.33
+"Harpreet Brar","off","bouncer",4,5,125
+"Harpreet Brar","line","bouncer",2,1,50
+"Harpreet Singh","off","yorker",2,5,250
+"Harpreet Singh","line","yorker",4,3,75
+"Harpreet Singh","leg","yorker",1,0,0
+"Harpreet Singh","off","full",6,4,66.67
+"Harpreet Singh","line","full",7,4,57.14
+"Harpreet Singh","leg","full",3,1,33.33
+"Harpreet Singh","off","length",11,9,81.82
+"Harpreet Singh","line","length",15,10,66.67
+"Harpreet Singh","leg","length",3,8,266.67
+"Harpreet Singh","off","back of length",9,18,200
+"Harpreet Singh","line","back of length",10,18,180
+"Harpreet Singh","leg","back of length",2,3,150
+"Harpreet Singh","off","short",5,10,200
+"Harpreet Singh","line","short",6,7,116.67
+"Harpreet Singh","leg","short",3,0,0
+"Harpreet Singh","off","bouncer",3,1,33.33
+"Harpreet Singh","line","bouncer",1,2,200
+"Harpreet Singh","leg","bouncer",2,0,0
+"Harshit Rana","off","yorker",4,7,175
+"Harshit Rana","line","yorker",3,4,133.33
+"Harshit Rana","leg","yorker",1,0,0
+"Harshit Rana","off","full",5,3,60
+"Harshit Rana","line","full",2,1,50
+"Harshit Rana","leg","full",2,4,200
+"Harshit Rana","off","length",5,4,80
+"Harshit Rana","line","length",5,6,120
+"Harshit Rana","leg","length",2,1,50
+"Harshit Rana","off","back of length",9,12,133.33
+"Harshit Rana","line","back of length",4,0,0
+"Harshit Rana","leg","back of length",3,7,233.33
+"Harshit Rana","off","short",2,0,0
+"Harshit Rana","line","short",2,7,350
+"Harshit Rana","leg","short",2,0,0
+"Harshit Rana","off","bouncer",1,0,0
+"Harshit Rana","line","bouncer",2,3,150
+"Harshit Rana","leg","bouncer",2,0,0
+"Ishant Sharma","line","yorker",1,1,100
+"Ishant Sharma","line","full",1,0,0
+"Ishant Sharma","leg","full",1,0,0
+"Ishant Sharma","off","length",1,0,0
+"Ishant Sharma","line","length",1,1,100
+"Ishant Sharma","off","short",1,0,0
+"Ishant Sharma","line","short",1,0,0
+"Ishant Sharma","line","bouncer",1,0,0
+"Ishan Kishan","off","yorker",55,65,118.18
+"Ishan Kishan","line","yorker",44,69,156.82
+"Ishan Kishan","leg","yorker",15,15,100
+"Ishan Kishan","off","full",94,127,135.11
+"Ishan Kishan","line","full",83,134,161.45
+"Ishan Kishan","leg","full",26,36,138.46
+"Ishan Kishan","off","length",125,174,139.2
+"Ishan Kishan","line","length",144,183,127.08
+"Ishan Kishan","leg","length",33,36,109.09
+"Ishan Kishan","off","back of length",129,165,127.91
+"Ishan Kishan","line","back of length",130,155,119.23
+"Ishan Kishan","leg","back of length",46,75,163.04
+"Ishan Kishan","off","short",54,73,135.19
+"Ishan Kishan","line","short",57,97,170.18
+"Ishan Kishan","leg","short",23,45,195.65
+"Ishan Kishan","off","bouncer",23,37,160.87
+"Ishan Kishan","line","bouncer",23,36,156.52
+"Ishan Kishan","leg","bouncer",12,24,200
+"Jake Fraser-McGurk","off","yorker",9,7,77.78
+"Jake Fraser-McGurk","line","yorker",4,10,250
+"Jake Fraser-McGurk","off","full",21,50,238.1
+"Jake Fraser-McGurk","line","full",15,21,140
+"Jake Fraser-McGurk","leg","full",4,10,250
+"Jake Fraser-McGurk","off","length",29,61,210.34
+"Jake Fraser-McGurk","line","length",23,61,265.22
+"Jake Fraser-McGurk","leg","length",6,10,166.67
+"Jake Fraser-McGurk","off","back of length",23,50,217.39
+"Jake Fraser-McGurk","line","back of length",23,35,152.17
+"Jake Fraser-McGurk","leg","back of length",7,16,228.57
+"Jake Fraser-McGurk","off","short",10,13,130
+"Jake Fraser-McGurk","line","short",9,15,166.67
+"Jake Fraser-McGurk","leg","short",5,15,300
+"Jake Fraser-McGurk","off","bouncer",2,2,100
+"Jake Fraser-McGurk","line","bouncer",1,2,200
+"Jake Fraser-McGurk","leg","bouncer",3,7,233.33
+"Jamie Overton","off","yorker",1,2,200
+"Jamie Overton","off","full",1,6,600
+"Jamie Overton","line","length",2,2,100
+"Jamie Overton","line","back of length",2,4,200
+"Jamie Overton","line","bouncer",1,1,100
+"Jagadeesha Suchith","off","yorker",2,0,0
+"Jagadeesha Suchith","leg","full",1,0,0
+"Jagadeesha Suchith","off","length",2,0,0
+"Jagadeesha Suchith","off","back of length",1,1,100
+"Jagadeesha Suchith","line","back of length",1,0,0
+"Jagadeesha Suchith","leg","back of length",1,1,100
+"Jhye Richardson","line","full",1,2,200
+"Jhye Richardson","line","back of length",1,0,0
+"Jofra Archer","off","yorker",1,0,0
+"Jofra Archer","line","yorker",2,6,300
+"Jofra Archer","leg","yorker",2,6,300
+"Jofra Archer","off","full",2,2,100
+"Jofra Archer","line","full",2,1,50
+"Jofra Archer","leg","full",2,1,50
+"Jofra Archer","off","length",6,10,166.67
+"Jofra Archer","line","length",8,10,125
+"Jofra Archer","leg","length",3,1,33.33
+"Jofra Archer","off","back of length",6,7,116.67
+"Jofra Archer","line","back of length",8,3,37.5
+"Jofra Archer","leg","back of length",4,7,175
+"Jofra Archer","off","short",2,4,200
+"Jofra Archer","line","short",2,3,150
+"Jofra Archer","off","bouncer",2,5,250
+"Jofra Archer","line","bouncer",2,1,50
+"Jos Buttler","off","yorker",64,100,156.25
+"Jos Buttler","line","yorker",73,111,152.05
+"Jos Buttler","leg","yorker",15,23,153.33
+"Jos Buttler","off","full",117,175,149.57
+"Jos Buttler","line","full",109,171,156.88
+"Jos Buttler","leg","full",32,45,140.62
+"Jos Buttler","off","length",176,256,145.45
+"Jos Buttler","line","length",147,208,141.5
+"Jos Buttler","leg","length",52,100,192.31
+"Jos Buttler","off","back of length",165,243,147.27
+"Jos Buttler","line","back of length",165,248,150.3
+"Jos Buttler","leg","back of length",61,91,149.18
+"Jos Buttler","off","short",72,102,141.67
+"Jos Buttler","line","short",91,111,121.98
+"Jos Buttler","leg","short",35,69,197.14
+"Jos Buttler","off","bouncer",31,31,100
+"Jos Buttler","line","bouncer",35,58,165.71
+"Jos Buttler","leg","bouncer",10,10,100
+"Jaydev Unadkat","off","yorker",2,2,100
+"Jaydev Unadkat","line","yorker",2,1,50
+"Jaydev Unadkat","leg","yorker",1,2,200
+"Jaydev Unadkat","off","full",12,15,125
+"Jaydev Unadkat","line","full",1,0,0
+"Jaydev Unadkat","leg","full",3,5,166.67
+"Jaydev Unadkat","off","length",5,6,120
+"Jaydev Unadkat","line","length",9,12,133.33
+"Jaydev Unadkat","leg","length",2,3,150
+"Jaydev Unadkat","off","back of length",7,10,142.86
+"Jaydev Unadkat","line","back of length",9,14,155.56
+"Jaydev Unadkat","leg","back of length",2,1,50
+"Jaydev Unadkat","off","short",9,12,133.33
+"Jaydev Unadkat","line","short",2,2,100
+"Jaydev Unadkat","leg","short",2,4,200
+"Jaydev Unadkat","line","bouncer",1,2,200
+"Jaydev Unadkat","leg","bouncer",1,1,100
+"James Neesham","off","yorker",2,2,100
+"James Neesham","leg","yorker",1,1,100
+"James Neesham","off","full",1,4,400
+"James Neesham","line","full",2,0,0
+"James Neesham","leg","full",1,1,100
+"James Neesham","off","length",4,3,75
+"James Neesham","line","length",4,10,250
+"James Neesham","leg","length",1,1,100
+"James Neesham","off","back of length",3,1,33.33
+"James Neesham","line","back of length",4,5,125
+"James Neesham","off","short",1,1,100
+"James Neesham","line","short",1,1,100
+"James Neesham","leg","short",1,1,100
+"James Neesham","leg","bouncer",1,0,0
+"Joe Root","off","full",1,0,0
+"Joe Root","line","full",2,1,50
+"Joe Root","off","length",2,0,0
+"Joe Root","line","length",4,2,50
+"Joe Root","off","back of length",2,5,250
+"Joe Root","line","back of length",1,1,100
+"Joe Root","off","short",1,1,100
+"Joe Root","line","short",2,0,0
+"Jacob Bethell","off","yorker",2,2,100
+"Jacob Bethell","off","full",5,3,60
+"Jacob Bethell","line","full",4,0,0
+"Jacob Bethell","leg","full",1,4,400
+"Jacob Bethell","off","length",4,5,125
+"Jacob Bethell","line","length",1,4,400
+"Jacob Bethell","leg","length",2,4,200
+"Jacob Bethell","off","back of length",2,5,250
+"Jacob Bethell","line","back of length",5,15,300
+"Jacob Bethell","leg","back of length",2,7,350
+"Jacob Bethell","off","short",3,5,166.67
+"Jacob Bethell","line","short",7,9,128.57
+"Jacob Bethell","line","bouncer",1,4,400
+"Jasprit Bumrah","line","yorker",1,1,100
+"Jasprit Bumrah","leg","yorker",1,1,100
+"Jasprit Bumrah","off","full",1,0,0
+"Jasprit Bumrah","off","length",4,0,0
+"Jasprit Bumrah","line","length",3,1,33.33
+"Jasprit Bumrah","leg","length",1,1,100
+"Jasprit Bumrah","off","back of length",3,0,0
+"Jasprit Bumrah","line","back of length",4,3,75
+"Jasprit Bumrah","leg","back of length",1,4,400
+"Jasprit Bumrah","off","short",1,0,0
+"Jasprit Bumrah","line","short",1,1,100
+"Jason Roy","off","yorker",10,9,90
+"Jason Roy","line","yorker",5,7,140
+"Jason Roy","leg","yorker",6,7,116.67
+"Jason Roy","off","full",14,18,128.57
+"Jason Roy","line","full",12,10,83.33
+"Jason Roy","leg","full",4,6,150
+"Jason Roy","off","length",17,35,205.88
+"Jason Roy","line","length",17,18,105.88
+"Jason Roy","leg","length",10,24,240
+"Jason Roy","off","back of length",28,35,125
+"Jason Roy","line","back of length",18,32,177.78
+"Jason Roy","leg","back of length",10,26,260
+"Jason Roy","off","short",13,13,100
+"Jason Roy","line","short",9,21,233.33
+"Jason Roy","leg","short",7,20,285.71
+"Jason Roy","off","bouncer",3,3,100
+"Jason Roy","line","bouncer",3,1,33.33
+"Jason Roy","leg","bouncer",3,0,0
+"Jonny Bairstow","off","yorker",6,11,183.33
+"Jonny Bairstow","line","yorker",14,16,114.29
+"Jonny Bairstow","leg","yorker",5,4,80
+"Jonny Bairstow","off","full",33,50,151.52
+"Jonny Bairstow","line","full",31,17,54.84
+"Jonny Bairstow","leg","full",12,27,225
+"Jonny Bairstow","off","length",55,106,192.73
+"Jonny Bairstow","line","length",50,66,132
+"Jonny Bairstow","leg","length",13,6,46.15
+"Jonny Bairstow","off","back of length",48,73,152.08
+"Jonny Bairstow","line","back of length",49,88,179.59
+"Jonny Bairstow","leg","back of length",18,42,233.33
+"Jonny Bairstow","off","short",22,39,177.27
+"Jonny Bairstow","line","short",29,46,158.62
+"Jonny Bairstow","leg","short",12,21,175
+"Jonny Bairstow","off","bouncer",6,11,183.33
+"Jonny Bairstow","line","bouncer",10,5,50
+"Jonny Bairstow","leg","bouncer",3,8,266.67
+"Jitesh Sharma","off","yorker",33,36,109.09
+"Jitesh Sharma","line","yorker",20,31,155
+"Jitesh Sharma","leg","yorker",10,12,120
+"Jitesh Sharma","off","full",45,100,222.22
+"Jitesh Sharma","line","full",38,59,155.26
+"Jitesh Sharma","leg","full",11,16,145.45
+"Jitesh Sharma","off","length",66,87,131.82
+"Jitesh Sharma","line","length",71,121,170.42
+"Jitesh Sharma","leg","length",26,42,161.54
+"Jitesh Sharma","off","back of length",74,72,97.3
+"Jitesh Sharma","line","back of length",87,149,171.26
+"Jitesh Sharma","leg","back of length",26,41,157.69
+"Jitesh Sharma","off","short",32,64,200
+"Jitesh Sharma","line","short",37,75,202.7
+"Jitesh Sharma","leg","short",9,13,144.44
+"Jitesh Sharma","off","bouncer",18,26,144.44
+"Jitesh Sharma","line","bouncer",19,26,136.84
+"Jitesh Sharma","leg","bouncer",10,21,210
+"Jason Holder","off","yorker",3,2,66.67
+"Jason Holder","off","full",9,22,244.44
+"Jason Holder","line","full",5,8,160
+"Jason Holder","off","length",7,2,28.57
+"Jason Holder","line","length",11,3,27.27
+"Jason Holder","leg","length",3,11,366.67
+"Jason Holder","off","back of length",8,8,100
+"Jason Holder","line","back of length",4,9,225
+"Jason Holder","off","short",2,0,0
+"Jason Holder","line","short",1,4,400
+"Jason Holder","leg","short",1,1,100
+"Jason Holder","off","bouncer",1,0,0
+"Jason Behrendorff","off","yorker",1,0,0
+"Jason Behrendorff","line","yorker",1,1,100
+"Jason Behrendorff","leg","yorker",1,1,100
+"Jason Behrendorff","line","full",1,1,100
+"Jason Behrendorff","leg","full",1,0,0
+"Jason Behrendorff","line","length",1,1,100
+"Jason Behrendorff","off","back of length",1,1,100
+"Jason Behrendorff","line","back of length",1,1,100
+"Jason Behrendorff","leg","short",1,0,0
+"Josh Inglis","off","yorker",4,1,25
+"Josh Inglis","line","yorker",3,2,66.67
+"Josh Inglis","leg","yorker",2,2,100
+"Josh Inglis","off","full",13,19,146.15
+"Josh Inglis","line","full",11,20,181.82
+"Josh Inglis","leg","full",6,6,100
+"Josh Inglis","off","length",23,31,134.78
+"Josh Inglis","line","length",22,41,186.36
+"Josh Inglis","leg","length",7,9,128.57
+"Josh Inglis","off","back of length",20,36,180
+"Josh Inglis","line","back of length",16,38,237.5
+"Josh Inglis","leg","back of length",5,7,140
+"Josh Inglis","off","short",15,33,220
+"Josh Inglis","line","short",8,11,137.5
+"Josh Inglis","leg","short",6,14,233.33
+"Josh Inglis","off","bouncer",1,1,100
+"Josh Inglis","line","bouncer",6,7,116.67
+"Josh Inglis","leg","bouncer",3,0,0
+"Josh Hazlewood","off","yorker",1,0,0
+"Josh Hazlewood","line","yorker",1,1,100
+"Josh Hazlewood","leg","yorker",2,1,50
+"Josh Hazlewood","off","full",4,2,50
+"Josh Hazlewood","line","full",2,3,150
+"Josh Hazlewood","leg","full",1,0,0
+"Josh Hazlewood","off","length",1,0,0
+"Josh Hazlewood","line","length",1,0,0
+"Josh Hazlewood","leg","length",1,1,100
+"Josh Hazlewood","off","back of length",6,7,116.67
+"Josh Hazlewood","line","back of length",3,1,33.33
+"Josh Hazlewood","off","short",2,0,0
+"Josh Hazlewood","line","short",1,1,100
+"Josh Hazlewood","off","bouncer",1,1,100
+"Josh Hazlewood","line","bouncer",2,1,50
+"Krishnappa Gowtham","off","yorker",2,8,400
+"Krishnappa Gowtham","line","yorker",3,2,66.67
+"Krishnappa Gowtham","leg","yorker",1,1,100
+"Krishnappa Gowtham","off","full",3,10,333.33
+"Krishnappa Gowtham","line","full",5,7,140
+"Krishnappa Gowtham","off","length",5,1,20
+"Krishnappa Gowtham","line","length",5,10,200
+"Krishnappa Gowtham","off","back of length",4,3,75
+"Krishnappa Gowtham","line","back of length",1,0,0
+"Krishnappa Gowtham","leg","back of length",1,6,600
+"Krishnappa Gowtham","off","short",1,1,100
+"Krishnappa Gowtham","line","short",3,4,133.33
+"Krishnappa Gowtham","off","bouncer",3,2,66.67
+"Krishnappa Gowtham","leg","bouncer",1,6,600
+"Kumar Kartikeya","off","yorker",1,0,0
+"Kumar Kartikeya","off","full",3,5,166.67
+"Kumar Kartikeya","line","full",3,2,66.67
+"Kumar Kartikeya","off","length",1,0,0
+"Kumar Kartikeya","line","length",2,2,100
+"Kumar Kartikeya","off","back of length",2,2,100
+"Kumar Kartikeya","line","back of length",2,0,0
+"Kumar Kartikeya","leg","back of length",1,1,100
+"Kumar Kartikeya","leg","short",1,0,0
+"Kumar Kartikeya","leg","bouncer",1,0,0
+"Kagiso Rabada","off","yorker",4,5,125
+"Kagiso Rabada","line","yorker",2,0,0
+"Kagiso Rabada","leg","yorker",3,8,266.67
+"Kagiso Rabada","off","full",4,1,25
+"Kagiso Rabada","line","full",8,13,162.5
+"Kagiso Rabada","off","length",11,6,54.55
+"Kagiso Rabada","line","length",11,13,118.18
+"Kagiso Rabada","leg","length",4,1,25
+"Kagiso Rabada","off","back of length",3,6,200
+"Kagiso Rabada","line","back of length",5,1,20
+"Kagiso Rabada","leg","back of length",1,0,0
+"Kagiso Rabada","off","short",1,0,0
+"Kagiso Rabada","line","short",8,22,275
+"Kagiso Rabada","leg","short",2,1,50
+"Kyle Jamieson","off","back of length",1,0,0
+"Kyle Jamieson","line","back of length",1,0,0
+"Kyle Jamieson","off","short",1,0,0
+"Kyle Jamieson","leg","short",2,0,0
+"Keshav Maharaj","line","length",2,1,50
+"Kieron Pollard","off","yorker",5,4,80
+"Kieron Pollard","line","yorker",4,2,50
+"Kieron Pollard","leg","yorker",3,2,66.67
+"Kieron Pollard","off","full",11,17,154.55
+"Kieron Pollard","line","full",16,18,112.5
+"Kieron Pollard","leg","full",3,12,400
+"Kieron Pollard","off","length",14,17,121.43
+"Kieron Pollard","line","length",15,18,120
+"Kieron Pollard","leg","length",4,4,100
+"Kieron Pollard","off","back of length",19,20,105.26
+"Kieron Pollard","line","back of length",11,4,36.36
+"Kieron Pollard","leg","back of length",2,1,50
+"Kieron Pollard","off","short",9,11,122.22
+"Kieron Pollard","line","short",7,7,100
+"Kieron Pollard","leg","short",5,3,60
+"Kieron Pollard","off","bouncer",3,2,66.67
+"Kieron Pollard","line","bouncer",2,1,50
+"Kieron Pollard","leg","bouncer",1,1,100
+"Dinesh Karthik","off","yorker",18,39,216.67
+"Dinesh Karthik","line","yorker",19,36,189.47
+"Dinesh Karthik","leg","yorker",12,10,83.33
+"Dinesh Karthik","off","full",23,46,200
+"Dinesh Karthik","line","full",40,50,125
+"Dinesh Karthik","leg","full",14,27,192.86
+"Dinesh Karthik","off","length",44,97,220.45
+"Dinesh Karthik","line","length",62,75,120.97
+"Dinesh Karthik","leg","length",18,36,200
+"Dinesh Karthik","off","back of length",52,106,203.85
+"Dinesh Karthik","line","back of length",43,71,165.12
+"Dinesh Karthik","leg","back of length",18,34,188.89
+"Dinesh Karthik","off","short",27,48,177.78
+"Dinesh Karthik","line","short",24,30,125
+"Dinesh Karthik","leg","short",13,18,138.46
+"Dinesh Karthik","off","bouncer",15,25,166.67
+"Dinesh Karthik","line","bouncer",13,37,284.62
+"Dinesh Karthik","leg","bouncer",4,11,275
+"Krunal Pandya","off","yorker",25,28,112
+"Krunal Pandya","line","yorker",19,26,136.84
+"Krunal Pandya","leg","yorker",7,4,57.14
+"Krunal Pandya","off","full",41,51,124.39
+"Krunal Pandya","line","full",40,48,120
+"Krunal Pandya","leg","full",6,7,116.67
+"Krunal Pandya","off","length",54,56,103.7
+"Krunal Pandya","line","length",61,75,122.95
+"Krunal Pandya","leg","length",22,24,109.09
+"Krunal Pandya","off","back of length",63,81,128.57
+"Krunal Pandya","line","back of length",48,59,122.92
+"Krunal Pandya","leg","back of length",24,25,104.17
+"Krunal Pandya","off","short",25,39,156
+"Krunal Pandya","line","short",30,41,136.67
+"Krunal Pandya","leg","short",12,13,108.33
+"Krunal Pandya","off","bouncer",9,13,144.44
+"Krunal Pandya","line","bouncer",10,14,140
+"Krunal Pandya","leg","bouncer",8,9,112.5
+"Khaleel Ahmed","line","length",1,0,0
+"Khaleel Ahmed","off","back of length",1,0,0
+"Khaleel Ahmed","line","back of length",1,1,100
+"Khaleel Ahmed","leg","short",1,0,0
+"Karun Nair","off","yorker",8,9,112.5
+"Karun Nair","line","yorker",5,7,140
+"Karun Nair","off","full",7,13,185.71
+"Karun Nair","line","full",13,22,169.23
+"Karun Nair","leg","full",2,5,250
+"Karun Nair","off","length",21,36,171.43
+"Karun Nair","line","length",19,21,110.53
+"Karun Nair","leg","length",3,7,233.33
+"Karun Nair","off","back of length",11,24,218.18
+"Karun Nair","line","back of length",17,36,211.76
+"Karun Nair","leg","back of length",5,5,100
+"Karun Nair","off","short",7,9,128.57
+"Karun Nair","line","short",5,12,240
+"Karun Nair","leg","short",3,0,0
+"Karun Nair","off","bouncer",3,1,33.33
+"Karun Nair","line","bouncer",3,5,166.67
+"Karun Nair","leg","bouncer",2,2,100
+"KL Rahul","off","yorker",57,71,124.56
+"KL Rahul","line","yorker",62,71,114.52
+"KL Rahul","leg","yorker",11,21,190.91
+"KL Rahul","off","full",101,118,116.83
+"KL Rahul","line","full",121,174,143.8
+"KL Rahul","leg","full",42,51,121.43
+"KL Rahul","off","length",155,206,132.9
+"KL Rahul","line","length",172,257,149.42
+"KL Rahul","leg","length",51,76,149.02
+"KL Rahul","off","back of length",155,218,140.65
+"KL Rahul","line","back of length",161,209,129.81
+"KL Rahul","leg","back of length",62,96,154.84
+"KL Rahul","off","short",70,96,137.14
+"KL Rahul","line","short",94,106,112.77
+"KL Rahul","leg","short",40,54,135
+"KL Rahul","off","bouncer",41,64,156.1
+"KL Rahul","line","bouncer",34,47,138.24
+"KL Rahul","leg","bouncer",20,21,105
+"KM Asif","line","full",1,0,0
+"KM Asif","leg","bouncer",1,0,0
+"Kedar Jadhav","off","yorker",2,6,300
+"Kedar Jadhav","line","yorker",1,2,200
+"Kedar Jadhav","off","full",1,1,100
+"Kedar Jadhav","off","length",1,0,0
+"Kedar Jadhav","off","back of length",1,1,100
+"Kedar Jadhav","leg","back of length",1,0,0
+"Kedar Jadhav","off","short",1,1,100
+"Kedar Jadhav","line","short",2,1,50
+"Kyle Mayers","off","yorker",12,7,58.33
+"Kyle Mayers","line","yorker",20,37,185
+"Kyle Mayers","leg","yorker",5,10,200
+"Kyle Mayers","off","full",19,18,94.74
+"Kyle Mayers","line","full",18,23,127.78
+"Kyle Mayers","leg","full",3,6,200
+"Kyle Mayers","off","length",30,47,156.67
+"Kyle Mayers","line","length",34,23,67.65
+"Kyle Mayers","leg","length",11,12,109.09
+"Kyle Mayers","off","back of length",22,30,136.36
+"Kyle Mayers","line","back of length",29,49,168.97
+"Kyle Mayers","leg","back of length",10,29,290
+"Kyle Mayers","off","short",15,38,253.33
+"Kyle Mayers","line","short",12,17,141.67
+"Kyle Mayers","leg","short",8,18,225
+"Kyle Mayers","off","bouncer",3,0,0
+"Kyle Mayers","line","bouncer",8,7,87.5
+"Kyle Mayers","leg","bouncer",4,8,200
+"Kuldeep Sen","off","yorker",1,0,0
+"Kuldeep Sen","line","length",1,0,0
+"Kuldeep Sen","off","back of length",1,0,0
+"K Srikar Bharat","off","yorker",2,4,200
+"K Srikar Bharat","line","full",1,0,0
+"K Srikar Bharat","off","length",1,0,0
+"K Srikar Bharat","line","back of length",1,0,0
+"K Srikar Bharat","leg","short",1,4,400
+"K Srikar Bharat","line","bouncer",1,0,0
+"KS Rathore","line","full",1,0,0
+"KS Rathore","line","length",1,0,0
+"KS Rathore","off","back of length",2,0,0
+"KS Rathore","line","short",1,0,0
+"Karan Sharma","off","full",1,1,100
+"Karan Sharma","leg","full",2,2,100
+"Karan Sharma","off","length",2,0,0
+"Karan Sharma","line","length",3,2,66.67
+"Karan Sharma","leg","length",1,1,100
+"Karan Sharma","off","back of length",3,1,33.33
+"Karan Sharma","line","back of length",3,1,33.33
+"Karan Sharma","leg","back of length",1,1,100
+"Karan Sharma","off","short",2,4,200
+"Karan Sharma","line","short",2,2,100
+"Karan Sharma","off","bouncer",3,0,0
+"Karan Sharma","line","bouncer",2,1,50
+"Kane Williamson","off","yorker",13,19,146.15
+"Kane Williamson","line","yorker",11,10,90.91
+"Kane Williamson","off","full",20,19,95
+"Kane Williamson","line","full",13,22,169.23
+"Kane Williamson","leg","full",4,5,125
+"Kane Williamson","off","length",35,29,82.86
+"Kane Williamson","line","length",41,34,82.93
+"Kane Williamson","leg","length",9,6,66.67
+"Kane Williamson","off","back of length",27,35,129.63
+"Kane Williamson","line","back of length",31,24,77.42
+"Kane Williamson","leg","back of length",11,8,72.73
+"Kane Williamson","off","short",15,9,60
+"Kane Williamson","line","short",14,11,78.57
+"Kane Williamson","leg","short",6,0,0
+"Kane Williamson","off","bouncer",3,2,66.67
+"Kane Williamson","line","bouncer",4,5,125
+"Kane Williamson","leg","bouncer",2,5,250
+"Kwena Maphaka","leg","full",1,4,400
+"Kwena Maphaka","off","back of length",1,4,400
+"Karn Sharma","off","yorker",3,7,233.33
+"Karn Sharma","line","yorker",1,4,400
+"Karn Sharma","off","full",1,0,0
+"Karn Sharma","line","full",2,2,100
+"Karn Sharma","off","length",4,2,50
+"Karn Sharma","line","length",1,6,600
+"Karn Sharma","leg","length",2,2,100
+"Karn Sharma","off","back of length",2,5,250
+"Karn Sharma","line","back of length",2,0,0
+"Karn Sharma","leg","back of length",2,6,300
+"Karn Sharma","line","short",1,1,100
+"Kartik Tyagi","line","yorker",1,2,200
+"Kartik Tyagi","line","full",3,4,133.33
+"Kartik Tyagi","line","back of length",1,1,100
+"Kartik Tyagi","leg","short",1,0,0
+"Kuldeep Yadav","off","yorker",5,5,100
+"Kuldeep Yadav","line","yorker",8,5,62.5
+"Kuldeep Yadav","leg","yorker",4,2,50
+"Kuldeep Yadav","off","full",10,11,110
+"Kuldeep Yadav","line","full",9,4,44.44
+"Kuldeep Yadav","leg","full",4,1,25
+"Kuldeep Yadav","off","length",22,23,104.55
+"Kuldeep Yadav","line","length",26,16,61.54
+"Kuldeep Yadav","leg","length",3,0,0
+"Kuldeep Yadav","off","back of length",21,21,100
+"Kuldeep Yadav","line","back of length",20,25,125
+"Kuldeep Yadav","off","short",7,6,85.71
+"Kuldeep Yadav","line","short",8,12,150
+"Kuldeep Yadav","leg","short",2,1,50
+"Kuldeep Yadav","off","bouncer",5,5,100
+"Kuldeep Yadav","line","bouncer",3,6,200
+"Kuldeep Yadav","leg","bouncer",2,1,50
+"Kumar Kushagra","off","yorker",1,1,100
+"Kumar Kushagra","off","length",1,0,0
+"Kumar Kushagra","leg","length",1,2,200
+"Kumar Kushagra","line","back of length",1,0,0
+"Kumar Kushagra","line","short",1,0,0
+"Kumar Kushagra","off","bouncer",2,0,0
+"Lungi Ngidi","line","length",2,0,0
+"Luke Wood","off","length",1,6,600
+"Luke Wood","off","back of length",1,1,100
+"Luke Wood","line","short",1,2,200
+"Lizaad Williams","off","length",1,1,100
+"Lizaad Williams","line","length",1,0,0
+"Lockie Ferguson","leg","yorker",1,1,100
+"Lockie Ferguson","off","full",2,5,250
+"Lockie Ferguson","leg","full",1,4,400
+"Lockie Ferguson","off","back of length",1,0,0
+"Lockie Ferguson","line","bouncer",1,0,0
+"Liam Livingstone","off","yorker",18,25,138.89
+"Liam Livingstone","line","yorker",22,27,122.73
+"Liam Livingstone","leg","yorker",10,15,150
+"Liam Livingstone","off","full",44,57,129.55
+"Liam Livingstone","line","full",48,61,127.08
+"Liam Livingstone","leg","full",12,17,141.67
+"Liam Livingstone","off","length",62,136,219.35
+"Liam Livingstone","line","length",67,129,192.54
+"Liam Livingstone","leg","length",17,19,111.76
+"Liam Livingstone","off","back of length",72,126,175
+"Liam Livingstone","line","back of length",76,93,122.37
+"Liam Livingstone","leg","back of length",25,55,220
+"Liam Livingstone","off","short",30,60,200
+"Liam Livingstone","line","short",33,51,154.55
+"Liam Livingstone","leg","short",12,28,233.33
+"Liam Livingstone","off","bouncer",13,12,92.31
+"Liam Livingstone","line","bouncer",10,19,190
+"Liam Livingstone","leg","bouncer",5,9,180
+"Lalit Yadav","off","yorker",9,10,111.11
+"Lalit Yadav","line","yorker",11,8,72.73
+"Lalit Yadav","leg","yorker",5,3,60
+"Lalit Yadav","off","full",22,37,168.18
+"Lalit Yadav","line","full",17,14,82.35
+"Lalit Yadav","leg","full",4,4,100
+"Lalit Yadav","off","length",24,26,108.33
+"Lalit Yadav","line","length",20,25,125
+"Lalit Yadav","leg","length",7,7,100
+"Lalit Yadav","off","back of length",28,30,107.14
+"Lalit Yadav","line","back of length",15,22,146.67
+"Lalit Yadav","leg","back of length",13,9,69.23
+"Lalit Yadav","off","short",10,12,120
+"Lalit Yadav","line","short",13,12,92.31
+"Lalit Yadav","leg","short",5,3,60
+"Lalit Yadav","off","bouncer",2,1,50
+"Lalit Yadav","line","bouncer",9,10,111.11
+"Lalit Yadav","leg","bouncer",3,4,133.33
+"Liton Das","line","yorker",1,4,400
+"Liton Das","off","back of length",1,0,0
+"Liton Das","off","short",1,0,0
+"Liton Das","line","bouncer",1,0,0
+"Murugan Ashwin","off","yorker",1,0,0
+"Murugan Ashwin","off","full",2,0,0
+"Murugan Ashwin","line","full",1,0,0
+"Murugan Ashwin","off","length",1,0,0
+"Murugan Ashwin","line","length",2,1,50
+"Murugan Ashwin","off","back of length",1,4,400
+"Murugan Ashwin","line","back of length",2,6,300
+"Murugan Ashwin","off","short",1,1,100
+"Murugan Ashwin","line","short",2,0,0
+"Murugan Ashwin","off","bouncer",1,0,0
+"Marco Jansen","off","yorker",6,13,216.67
+"Marco Jansen","line","yorker",6,8,133.33
+"Marco Jansen","leg","yorker",4,3,75
+"Marco Jansen","off","full",17,16,94.12
+"Marco Jansen","line","full",10,5,50
+"Marco Jansen","leg","full",3,4,133.33
+"Marco Jansen","off","length",9,7,77.78
+"Marco Jansen","line","length",18,17,94.44
+"Marco Jansen","leg","length",4,6,150
+"Marco Jansen","off","back of length",9,9,100
+"Marco Jansen","line","back of length",15,28,186.67
+"Marco Jansen","leg","back of length",7,10,142.86
+"Marco Jansen","off","short",7,2,28.57
+"Marco Jansen","line","short",6,3,50
+"Marco Jansen","leg","short",4,5,125
+"Marco Jansen","line","bouncer",2,5,250
+"Mayank Markande","off","yorker",1,4,400
+"Mayank Markande","line","yorker",1,1,100
+"Mayank Markande","off","full",1,2,200
+"Mayank Markande","leg","full",1,4,400
+"Mayank Markande","off","length",1,1,100
+"Mayank Markande","line","length",2,7,350
+"Mayank Markande","off","back of length",1,0,0
+"Mayank Markande","line","back of length",2,1,50
+"Mayank Markande","off","short",1,0,0
+"Mayank Markande","line","short",2,1,50
+"Prasidh Krishna","line","full",1,0,0
+"Prasidh Krishna","off","length",3,1,33.33
+"Prasidh Krishna","line","length",2,1,50
+"Prasidh Krishna","off","back of length",2,1,50
+"Prasidh Krishna","line","back of length",2,1,50
+"Prasidh Krishna","off","short",1,1,100
+"Prasidh Krishna","line","short",1,1,100
+"Shahrukh Khan","off","yorker",21,36,171.43
+"Shahrukh Khan","line","yorker",15,21,140
+"Shahrukh Khan","leg","yorker",7,19,271.43
+"Shahrukh Khan","off","full",26,47,180.77
+"Shahrukh Khan","line","full",22,30,136.36
+"Shahrukh Khan","leg","full",11,25,227.27
+"Shahrukh Khan","off","length",44,66,150
+"Shahrukh Khan","line","length",44,51,115.91
+"Shahrukh Khan","leg","length",19,17,89.47
+"Shahrukh Khan","off","back of length",42,73,173.81
+"Shahrukh Khan","line","back of length",39,73,187.18
+"Shahrukh Khan","leg","back of length",12,9,75
+"Shahrukh Khan","off","short",19,23,121.05
+"Shahrukh Khan","line","short",23,38,165.22
+"Shahrukh Khan","leg","short",14,24,171.43
+"Shahrukh Khan","off","bouncer",8,9,112.5
+"Shahrukh Khan","line","bouncer",7,17,242.86
+"Shahrukh Khan","leg","bouncer",5,1,20
+"Maheesh Theekshana","off","yorker",1,6,600
+"Maheesh Theekshana","line","yorker",1,1,100
+"Maheesh Theekshana","line","full",2,0,0
+"Maheesh Theekshana","off","length",3,2,66.67
+"Maheesh Theekshana","line","length",8,2,25
+"Maheesh Theekshana","off","back of length",3,1,33.33
+"Maheesh Theekshana","line","back of length",8,2,25
+"Maheesh Theekshana","leg","back of length",1,1,100
+"Maheesh Theekshana","off","short",1,0,0
+"Maheesh Theekshana","line","short",2,1,50
+"Maheesh Theekshana","leg","short",1,0,0
+"Maheesh Theekshana","line","bouncer",1,0,0
+"Maheesh Theekshana","leg","bouncer",2,1,50
+"M Tiwari","off","yorker",1,2,200
+"M Tiwari","line","yorker",1,1,100
+"M Tiwari","off","length",1,0,0
+"M Tiwari","leg","back of length",1,0,0
+"Manan Vohra","leg","yorker",1,0,0
+"Manan Vohra","off","full",2,6,300
+"Manan Vohra","line","full",1,1,100
+"Manan Vohra","off","length",3,6,200
+"Manan Vohra","line","length",5,6,120
+"Manan Vohra","leg","length",1,0,0
+"Manan Vohra","off","back of length",4,2,50
+"Manan Vohra","line","back of length",1,1,100
+"Manan Vohra","off","short",1,1,100
+"Manan Vohra","line","short",2,0,0
+"Manan Vohra","off","bouncer",1,0,0
+"Manan Vohra","line","bouncer",1,6,600
+"Mayank Agarwal","off","yorker",23,22,95.65
+"Mayank Agarwal","line","yorker",23,40,173.91
+"Mayank Agarwal","leg","yorker",4,2,50
+"Mayank Agarwal","off","full",33,23,69.7
+"Mayank Agarwal","line","full",44,54,122.73
+"Mayank Agarwal","leg","full",10,11,110
+"Mayank Agarwal","off","length",50,91,182
+"Mayank Agarwal","line","length",51,50,98.04
+"Mayank Agarwal","leg","length",20,16,80
+"Mayank Agarwal","off","back of length",43,44,102.33
+"Mayank Agarwal","line","back of length",58,70,120.69
+"Mayank Agarwal","leg","back of length",28,29,103.57
+"Mayank Agarwal","off","short",34,56,164.71
+"Mayank Agarwal","line","short",30,43,143.33
+"Mayank Agarwal","leg","short",9,16,177.78
+"Mayank Agarwal","off","bouncer",13,20,153.85
+"Mayank Agarwal","line","bouncer",16,25,156.25
+"Mayank Agarwal","leg","bouncer",6,13,216.67
+"Mitchell Starc","off","yorker",2,1,50
+"Mitchell Starc","line","full",3,1,33.33
+"Mitchell Starc","leg","full",1,1,100
+"Mitchell Starc","off","length",1,1,100
+"Mitchell Starc","line","length",4,5,125
+"Mitchell Starc","off","back of length",3,1,33.33
+"Mitchell Starc","line","back of length",2,1,50
+"Mitchell Starc","off","short",3,2,66.67
+"Mitchell Starc","line","short",1,1,100
+"Mitchell Starc","off","bouncer",1,1,100
+"Mark Wood","off","yorker",1,1,100
+"Mark Wood","line","full",1,0,0
+"Mark Wood","line","length",1,0,0
+"Mark Wood","leg","length",1,6,600
+"Mark Wood","off","back of length",1,4,400
+"Dasun Shanaka","off","yorker",3,8,266.67
+"Dasun Shanaka","line","yorker",1,4,400
+"Dasun Shanaka","off","full",4,1,25
+"Dasun Shanaka","line","full",2,3,150
+"Dasun Shanaka","leg","full",2,0,0
+"Dasun Shanaka","line","length",2,1,50
+"Dasun Shanaka","off","back of length",2,1,50
+"Dasun Shanaka","line","back of length",5,5,100
+"Dasun Shanaka","off","short",3,2,66.67
+"Dasun Shanaka","leg","short",1,0,0
+"Dasun Shanaka","line","bouncer",1,1,100
+"Michael Bracewell","off","yorker",1,0,0
+"Michael Bracewell","line","yorker",1,0,0
+"Michael Bracewell","off","full",2,5,250
+"Michael Bracewell","line","full",5,8,160
+"Michael Bracewell","leg","full",1,0,0
+"Michael Bracewell","off","length",9,13,144.44
+"Michael Bracewell","line","length",6,12,200
+"Michael Bracewell","leg","length",2,1,50
+"Michael Bracewell","off","back of length",7,9,128.57
+"Michael Bracewell","line","back of length",3,1,33.33
+"Michael Bracewell","leg","back of length",2,0,0
+"Michael Bracewell","off","short",3,3,100
+"Michael Bracewell","line","short",1,2,200
+"Michael Bracewell","leg","short",1,2,200
+"Michael Bracewell","off","bouncer",2,1,50
+"Michael Bracewell","line","bouncer",1,1,100
+"Mitchell Owen","line","full",1,0,0
+"Mitchell Owen","leg","back of length",1,0,0
+"Mitchell Santner","off","yorker",6,7,116.67
+"Mitchell Santner","line","yorker",2,2,100
+"Mitchell Santner","off","full",5,3,60
+"Mitchell Santner","line","full",8,5,62.5
+"Mitchell Santner","leg","full",1,0,0
+"Mitchell Santner","off","length",12,8,66.67
+"Mitchell Santner","line","length",9,4,44.44
+"Mitchell Santner","leg","length",3,8,266.67
+"Mitchell Santner","off","back of length",11,14,127.27
+"Mitchell Santner","line","back of length",8,1,12.5
+"Mitchell Santner","leg","back of length",2,7,350
+"Mitchell Santner","off","short",5,7,140
+"Mitchell Santner","line","short",5,11,220
+"Mitchell Santner","leg","short",2,0,0
+"Mitchell Santner","off","bouncer",1,1,100
+"Mitchell Santner","line","bouncer",1,0,0
+"MJ Suthar","off","length",1,0,0
+"MJ Suthar","off","back of length",1,1,100
+"Mahipal Lomror","off","yorker",15,22,146.67
+"Mahipal Lomror","line","yorker",12,26,216.67
+"Mahipal Lomror","leg","yorker",6,9,150
+"Mahipal Lomror","off","full",11,14,127.27
+"Mahipal Lomror","line","full",10,11,110
+"Mahipal Lomror","leg","full",8,13,162.5
+"Mahipal Lomror","off","length",28,37,132.14
+"Mahipal Lomror","line","length",28,24,85.71
+"Mahipal Lomror","leg","length",9,17,188.89
+"Mahipal Lomror","off","back of length",28,43,153.57
+"Mahipal Lomror","line","back of length",17,41,241.18
+"Mahipal Lomror","leg","back of length",9,11,122.22
+"Mahipal Lomror","off","short",9,18,200
+"Mahipal Lomror","line","short",16,28,175
+"Mahipal Lomror","leg","short",3,7,233.33
+"Mahipal Lomror","off","bouncer",5,4,80
+"Mahipal Lomror","line","bouncer",8,17,212.5
+"Mahipal Lomror","leg","bouncer",1,4,400
+"Manish Pandey","off","yorker",17,15,88.24
+"Manish Pandey","line","yorker",14,19,135.71
+"Manish Pandey","leg","yorker",5,7,140
+"Manish Pandey","off","full",21,32,152.38
+"Manish Pandey","line","full",23,26,113.04
+"Manish Pandey","leg","full",11,12,109.09
+"Manish Pandey","off","length",48,66,137.5
+"Manish Pandey","line","length",46,63,136.96
+"Manish Pandey","leg","length",11,7,63.64
+"Manish Pandey","off","back of length",29,32,110.34
+"Manish Pandey","line","back of length",29,31,106.9
+"Manish Pandey","leg","back of length",8,10,125
+"Manish Pandey","off","short",19,17,89.47
+"Manish Pandey","line","short",23,31,134.78
+"Manish Pandey","leg","short",8,7,87.5
+"Manish Pandey","off","bouncer",6,3,50
+"Manish Pandey","line","bouncer",4,2,50
+"Manish Pandey","leg","bouncer",2,2,100
+"Moeen Ali","off","yorker",20,42,210
+"Moeen Ali","line","yorker",16,33,206.25
+"Moeen Ali","leg","yorker",3,1,33.33
+"Moeen Ali","off","full",31,42,135.48
+"Moeen Ali","line","full",30,35,116.67
+"Moeen Ali","leg","full",1,4,400
+"Moeen Ali","off","length",47,58,123.4
+"Moeen Ali","line","length",39,42,107.69
+"Moeen Ali","leg","length",11,10,90.91
+"Moeen Ali","off","back of length",47,61,129.79
+"Moeen Ali","line","back of length",37,52,140.54
+"Moeen Ali","leg","back of length",18,21,116.67
+"Moeen Ali","off","short",28,34,121.43
+"Moeen Ali","line","short",21,30,142.86
+"Moeen Ali","leg","short",12,16,133.33
+"Moeen Ali","off","bouncer",7,5,71.43
+"Moeen Ali","line","bouncer",9,8,88.89
+"Moeen Ali","leg","bouncer",3,7,233.33
+"Mohit Sharma","off","yorker",2,1,50
+"Mohit Sharma","leg","yorker",1,0,0
+"Mohit Sharma","off","full",2,0,0
+"Mohit Sharma","line","full",3,0,0
+"Mohit Sharma","off","length",1,1,100
+"Mohit Sharma","leg","length",1,0,0
+"Mohit Sharma","off","back of length",4,0,0
+"Mohit Sharma","leg","back of length",1,0,0
+"Mohit Sharma","off","short",1,0,0
+"Mohit Sharma","line","short",1,1,100
+"Mohit Sharma","leg","short",1,0,0
+"Mohit Sharma","line","bouncer",1,0,0
+"Matthew Breetzke","off","yorker",1,1,100
+"Matthew Breetzke","off","full",1,6,600
+"Matthew Breetzke","line","full",2,0,0
+"Matthew Breetzke","line","length",2,0,0
+"Matthew Breetzke","line","back of length",3,3,100
+"Matthew Breetzke","off","short",2,4,200
+"Matthew Breetzke","leg","short",1,0,0
+"Marcus Stoinis","off","yorker",29,51,175.86
+"Marcus Stoinis","line","yorker",32,51,159.38
+"Marcus Stoinis","leg","yorker",13,19,146.15
+"Marcus Stoinis","off","full",61,85,139.34
+"Marcus Stoinis","line","full",37,45,121.62
+"Marcus Stoinis","leg","full",15,33,220
+"Marcus Stoinis","off","length",86,121,140.7
+"Marcus Stoinis","line","length",101,160,158.42
+"Marcus Stoinis","leg","length",31,51,164.52
+"Marcus Stoinis","off","back of length",80,156,195
+"Marcus Stoinis","line","back of length",63,99,157.14
+"Marcus Stoinis","leg","back of length",36,60,166.67
+"Marcus Stoinis","off","short",42,41,97.62
+"Marcus Stoinis","line","short",48,57,118.75
+"Marcus Stoinis","leg","short",20,29,145
+"Marcus Stoinis","off","bouncer",17,28,164.71
+"Marcus Stoinis","line","bouncer",16,20,125
+"Marcus Stoinis","leg","bouncer",3,6,200
+"Mitchell Marsh","off","yorker",36,48,133.33
+"Mitchell Marsh","line","yorker",20,23,115
+"Mitchell Marsh","leg","yorker",13,26,200
+"Mitchell Marsh","off","full",56,76,135.71
+"Mitchell Marsh","line","full",55,85,154.55
+"Mitchell Marsh","leg","full",14,19,135.71
+"Mitchell Marsh","off","length",70,110,157.14
+"Mitchell Marsh","line","length",80,116,145
+"Mitchell Marsh","leg","length",22,33,150
+"Mitchell Marsh","off","back of length",96,161,167.71
+"Mitchell Marsh","line","back of length",79,136,172.15
+"Mitchell Marsh","leg","back of length",29,50,172.41
+"Mitchell Marsh","off","short",35,63,180
+"Mitchell Marsh","line","short",43,50,116.28
+"Mitchell Marsh","leg","short",19,21,110.53
+"Mitchell Marsh","off","bouncer",9,6,66.67
+"Mitchell Marsh","line","bouncer",20,28,140
+"Mitchell Marsh","leg","bouncer",11,16,145.45
+"MS Bhandage","off","yorker",1,1,100
+"MS Bhandage","line","full",1,0,0
+"MS Bhandage","off","length",1,0,0
+"MS Bhandage","line","length",1,0,0
+"Mahendra Singh Dhoni","off","yorker",24,33,137.5
+"Mahendra Singh Dhoni","line","yorker",15,6,40
+"Mahendra Singh Dhoni","leg","yorker",5,18,360
+"Mahendra Singh Dhoni","off","full",36,55,152.78
+"Mahendra Singh Dhoni","line","full",33,36,109.09
+"Mahendra Singh Dhoni","leg","full",10,13,130
+"Mahendra Singh Dhoni","off","length",55,73,132.73
+"Mahendra Singh Dhoni","line","length",71,115,161.97
+"Mahendra Singh Dhoni","leg","length",16,21,131.25
+"Mahendra Singh Dhoni","off","back of length",50,68,136
+"Mahendra Singh Dhoni","line","back of length",51,96,188.24
+"Mahendra Singh Dhoni","leg","back of length",13,29,223.08
+"Mahendra Singh Dhoni","off","short",27,48,177.78
+"Mahendra Singh Dhoni","line","short",27,48,177.78
+"Mahendra Singh Dhoni","leg","short",10,12,120
+"Mahendra Singh Dhoni","off","bouncer",5,2,40
+"Mahendra Singh Dhoni","line","bouncer",11,11,100
+"Mahendra Singh Dhoni","leg","bouncer",5,9,180
+"Matthew Wade","off","yorker",12,12,100
+"Matthew Wade","line","yorker",4,6,150
+"Matthew Wade","leg","yorker",3,6,200
+"Matthew Wade","off","full",9,7,77.78
+"Matthew Wade","line","full",16,14,87.5
+"Matthew Wade","leg","full",6,7,116.67
+"Matthew Wade","off","length",13,11,84.62
+"Matthew Wade","line","length",8,17,212.5
+"Matthew Wade","leg","length",2,0,0
+"Matthew Wade","off","back of length",17,11,64.71
+"Matthew Wade","line","back of length",21,27,128.57
+"Matthew Wade","leg","back of length",4,6,150
+"Matthew Wade","off","short",11,8,72.73
+"Matthew Wade","line","short",13,16,123.08
+"Matthew Wade","leg","short",2,4,200
+"Matthew Wade","off","bouncer",3,2,66.67
+"Matthew Wade","line","bouncer",4,7,175
+"Matt Short","off","yorker",6,6,100
+"Matt Short","line","yorker",2,1,50
+"Matt Short","off","full",13,15,115.38
+"Matt Short","line","full",1,0,0
+"Matt Short","leg","full",2,0,0
+"Matt Short","off","length",12,21,175
+"Matt Short","line","length",10,12,120
+"Matt Short","leg","length",3,1,33.33
+"Matt Short","off","back of length",12,21,175
+"Matt Short","line","back of length",8,3,37.5
+"Matt Short","leg","back of length",4,2,50
+"Matt Short","off","short",5,20,400
+"Matt Short","line","short",7,6,85.71
+"Matt Short","off","bouncer",2,6,300
+"Matt Short","line","bouncer",3,1,33.33
+"Matt Short","leg","bouncer",2,2,100
+"Mandeep Singh","line","yorker",3,1,33.33
+"Mandeep Singh","leg","yorker",3,6,200
+"Mandeep Singh","off","full",6,3,50
+"Mandeep Singh","line","full",1,0,0
+"Mandeep Singh","leg","full",2,1,50
+"Mandeep Singh","off","length",2,0,0
+"Mandeep Singh","line","length",3,3,100
+"Mandeep Singh","leg","length",1,0,0
+"Mandeep Singh","off","back of length",3,0,0
+"Mandeep Singh","line","back of length",4,9,225
+"Mandeep Singh","leg","back of length",1,1,100
+"Mandeep Singh","off","short",2,4,200
+"Mandeep Singh","line","short",2,4,200
+"Mandeep Singh","leg","short",3,0,0
+"Mandeep Singh","off","bouncer",2,0,0
+"Mandeep Singh","line","bouncer",1,0,0
+"Mayank Dagar","leg","back of length",1,0,0
+"Mohammad Nabi","off","yorker",2,2,100
+"Mohammad Nabi","line","yorker",1,0,0
+"Mohammad Nabi","leg","yorker",2,8,400
+"Mohammad Nabi","off","full",5,10,200
+"Mohammad Nabi","line","full",3,5,166.67
+"Mohammad Nabi","off","length",3,1,33.33
+"Mohammad Nabi","line","length",3,1,33.33
+"Mohammad Nabi","leg","length",2,0,0
+"Mohammad Nabi","off","back of length",3,1,33.33
+"Mohammad Nabi","line","back of length",1,1,100
+"Mohammad Nabi","leg","back of length",1,0,0
+"Mohammad Nabi","line","short",4,6,150
+"Mohammad Nabi","leg","short",1,0,0
+"Mohammed Shami","off","yorker",1,0,0
+"Mohammed Shami","line","yorker",2,0,0
+"Mohammed Shami","off","full",1,1,100
+"Mohammed Shami","line","full",1,2,200
+"Mohammed Shami","leg","full",2,4,200
+"Mohammed Shami","off","length",2,1,50
+"Mohammed Shami","off","back of length",2,0,0
+"Mohammed Shami","line","back of length",1,4,400
+"Mohammed Shami","off","short",1,0,0
+"Mohammed Shami","line","short",2,2,100
+"Mohammed Shami","leg","short",1,0,0
+"Mohammed Shami","off","bouncer",1,1,100
+"Mohammed Siraj","line","yorker",1,0,0
+"Mohammed Siraj","off","full",3,7,233.33
+"Mohammed Siraj","line","full",6,5,83.33
+"Mohammed Siraj","off","length",5,1,20
+"Mohammed Siraj","line","length",6,1,16.67
+"Mohammed Siraj","leg","length",3,4,133.33
+"Mohammed Siraj","off","back of length",5,10,200
+"Mohammed Siraj","line","back of length",5,2,40
+"Mohammed Siraj","leg","back of length",3,4,133.33
+"Mohammed Siraj","off","short",3,2,66.67
+"Mohammed Siraj","leg","short",1,2,200
+"Mohammed Siraj","off","bouncer",3,0,0
+"Mohammed Siraj","leg","bouncer",3,8,266.67
+"Mohit Rathee","line","full",1,0,0
+"Mohit Rathee","line","length",1,1,100
+"Mohsin Khan","off","yorker",1,0,0
+"Mohsin Khan","leg","yorker",1,4,400
+"Mohsin Khan","off","full",2,0,0
+"Mohsin Khan","line","full",4,2,50
+"Mohsin Khan","leg","full",1,2,200
+"Mohsin Khan","off","length",1,1,100
+"Mohsin Khan","line","length",6,0,0
+"Mohsin Khan","leg","length",1,1,100
+"Mohsin Khan","off","back of length",2,6,300
+"Mohsin Khan","line","back of length",1,1,100
+"Mohsin Khan","leg","back of length",1,2,200
+"Mohsin Khan","off","short",1,4,400
+"Mohsin Khan","line","short",1,1,100
+"Mohsin Khan","off","bouncer",1,1,100
+"Mukesh Choudhary","line","full",1,1,100
+"Mukesh Choudhary","off","length",1,0,0
+"Mukesh Choudhary","line","length",1,4,400
+"Mukesh Choudhary","line","back of length",1,0,0
+"Mukesh Choudhary","line","short",1,1,100
+"Mukesh Choudhary","leg","bouncer",1,0,0
+"Mukesh Kumar","off","yorker",1,1,100
+"Mukesh Kumar","line","yorker",2,1,50
+"Mukesh Kumar","off","full",1,1,100
+"Mukesh Kumar","line","full",1,1,100
+"Mukesh Kumar","off","length",1,0,0
+"Mukesh Kumar","line","length",2,0,0
+"Mukesh Kumar","leg","length",1,0,0
+"Mukesh Kumar","off","back of length",1,0,0
+"Mukesh Kumar","line","back of length",2,1,50
+"Mukesh Kumar","line","short",3,2,66.67
+"Mukesh Kumar","off","bouncer",2,2,100
+"Mukesh Kumar","line","bouncer",1,1,100
+"Musheer Khan","off","yorker",2,0,0
+"Musheer Khan","line","back of length",1,0,0
+"Mustafizur Rahman","line","yorker",1,1,100
+"Mustafizur Rahman","line","back of length",4,3,75
+"Mustafizur Rahman","leg","back of length",1,0,0
+"Mustafizur Rahman","off","short",1,0,0
+"Narayan Jagadeesan","off","yorker",8,12,150
+"Narayan Jagadeesan","line","yorker",5,7,140
+"Narayan Jagadeesan","leg","yorker",5,4,80
+"Narayan Jagadeesan","off","full",13,11,84.62
+"Narayan Jagadeesan","line","full",7,4,57.14
+"Narayan Jagadeesan","leg","full",1,4,400
+"Narayan Jagadeesan","off","length",12,10,83.33
+"Narayan Jagadeesan","line","length",15,15,100
+"Narayan Jagadeesan","leg","length",6,5,83.33
+"Narayan Jagadeesan","off","back of length",13,14,107.69
+"Narayan Jagadeesan","line","back of length",12,28,233.33
+"Narayan Jagadeesan","leg","back of length",7,5,71.43
+"Narayan Jagadeesan","off","short",4,2,50
+"Narayan Jagadeesan","line","short",5,1,20
+"Narayan Jagadeesan","leg","short",2,5,250
+"Narayan Jagadeesan","off","bouncer",2,0,0
+"Narayan Jagadeesan","line","bouncer",1,2,200
+"Narayan Jagadeesan","leg","bouncer",1,0,0
+"Nicholas Pooran","off","yorker",63,130,206.35
+"Nicholas Pooran","line","yorker",37,58,156.76
+"Nicholas Pooran","leg","yorker",12,18,150
+"Nicholas Pooran","off","full",60,131,218.33
+"Nicholas Pooran","line","full",70,127,181.43
+"Nicholas Pooran","leg","full",18,18,100
+"Nicholas Pooran","off","length",115,157,136.52
+"Nicholas Pooran","line","length",128,233,182.03
+"Nicholas Pooran","leg","length",36,51,141.67
+"Nicholas Pooran","off","back of length",111,187,168.47
+"Nicholas Pooran","line","back of length",106,204,192.45
+"Nicholas Pooran","leg","back of length",29,56,193.1
+"Nicholas Pooran","off","short",50,90,180
+"Nicholas Pooran","line","short",59,105,177.97
+"Nicholas Pooran","leg","short",20,25,125
+"Nicholas Pooran","off","bouncer",26,49,188.46
+"Nicholas Pooran","line","bouncer",23,31,134.78
+"Nicholas Pooran","leg","bouncer",7,17,242.86
+"Nitish Rana","off","yorker",34,58,170.59
+"Nitish Rana","line","yorker",40,45,112.5
+"Nitish Rana","leg","yorker",7,13,185.71
+"Nitish Rana","off","full",51,61,119.61
+"Nitish Rana","line","full",58,102,175.86
+"Nitish Rana","leg","full",15,14,93.33
+"Nitish Rana","off","length",79,104,131.65
+"Nitish Rana","line","length",90,104,115.56
+"Nitish Rana","leg","length",27,45,166.67
+"Nitish Rana","off","back of length",86,163,189.53
+"Nitish Rana","line","back of length",78,104,133.33
+"Nitish Rana","leg","back of length",28,59,210.71
+"Nitish Rana","off","short",32,49,153.12
+"Nitish Rana","line","short",37,52,140.54
+"Nitish Rana","leg","short",18,26,144.44
+"Nitish Rana","off","bouncer",14,14,100
+"Nitish Rana","line","bouncer",18,14,77.78
+"Nitish Rana","leg","bouncer",5,6,120
+"Nehal Wadhera","off","yorker",21,15,71.43
+"Nehal Wadhera","line","yorker",13,31,238.46
+"Nehal Wadhera","leg","yorker",5,13,260
+"Nehal Wadhera","off","full",40,53,132.5
+"Nehal Wadhera","line","full",43,66,153.49
+"Nehal Wadhera","leg","full",13,17,130.77
+"Nehal Wadhera","off","length",59,77,130.51
+"Nehal Wadhera","line","length",48,91,189.58
+"Nehal Wadhera","leg","length",21,34,161.9
+"Nehal Wadhera","off","back of length",56,71,126.79
+"Nehal Wadhera","line","back of length",62,97,156.45
+"Nehal Wadhera","leg","back of length",17,18,105.88
+"Nehal Wadhera","off","short",22,31,140.91
+"Nehal Wadhera","line","short",38,46,121.05
+"Nehal Wadhera","leg","short",10,5,50
+"Nehal Wadhera","off","bouncer",13,15,115.38
+"Nehal Wadhera","line","bouncer",16,21,131.25
+"Nehal Wadhera","leg","bouncer",7,18,257.14
+"Nathan Coulter-Nile","off","back of length",1,0,0
+"Nathan Coulter-Nile","line","back of length",1,1,100
+"Nathan Ellis","off","yorker",1,0,0
+"Nathan Ellis","line","yorker",1,0,0
+"Nathan Ellis","line","full",3,1,33.33
+"Nathan Ellis","off","length",1,0,0
+"Nathan Ellis","line","length",1,0,0
+"Nathan Ellis","line","back of length",1,0,0
+"Nathan Ellis","off","short",1,0,0
+"Naman Dhir","off","yorker",14,31,221.43
+"Naman Dhir","line","yorker",14,22,157.14
+"Naman Dhir","leg","yorker",3,8,266.67
+"Naman Dhir","off","full",15,20,133.33
+"Naman Dhir","line","full",12,15,125
+"Naman Dhir","leg","full",10,26,260
+"Naman Dhir","off","length",22,56,254.55
+"Naman Dhir","line","length",25,33,132
+"Naman Dhir","leg","length",9,14,155.56
+"Naman Dhir","off","back of length",26,55,211.54
+"Naman Dhir","line","back of length",23,44,191.3
+"Naman Dhir","leg","back of length",11,11,100
+"Naman Dhir","off","short",6,7,116.67
+"Naman Dhir","line","short",10,18,180
+"Naman Dhir","leg","short",6,13,216.67
+"Naman Dhir","off","bouncer",6,7,116.67
+"Naman Dhir","line","bouncer",3,5,166.67
+"Naman Dhir","leg","bouncer",2,7,350
+"Navdeep Saini","off","full",1,2,200
+"Navdeep Saini","line","short",1,0,0
+"Naveen-ul-Haq","line","yorker",2,1,50
+"Naveen-ul-Haq","leg","yorker",2,0,0
+"Naveen-ul-Haq","line","full",1,0,0
+"Naveen-ul-Haq","leg","full",2,1,50
+"Naveen-ul-Haq","line","length",3,5,166.67
+"Naveen-ul-Haq","leg","length",1,0,0
+"Naveen-ul-Haq","off","back of length",7,2,28.57
+"Naveen-ul-Haq","line","back of length",2,0,0
+"Naveen-ul-Haq","leg","back of length",2,2,100
+"Naveen-ul-Haq","line","short",1,1,100
+"Naveen-ul-Haq","off","bouncer",1,4,400
+"Naveen-ul-Haq","line","bouncer",1,2,200
+"Nitish Kumar Reddy","off","yorker",19,32,168.42
+"Nitish Kumar Reddy","line","yorker",18,19,105.56
+"Nitish Kumar Reddy","leg","yorker",3,0,0
+"Nitish Kumar Reddy","off","full",33,39,118.18
+"Nitish Kumar Reddy","line","full",33,48,145.45
+"Nitish Kumar Reddy","leg","full",6,9,150
+"Nitish Kumar Reddy","off","length",41,74,180.49
+"Nitish Kumar Reddy","line","length",49,62,126.53
+"Nitish Kumar Reddy","leg","length",7,6,85.71
+"Nitish Kumar Reddy","off","back of length",34,24,70.59
+"Nitish Kumar Reddy","line","back of length",46,56,121.74
+"Nitish Kumar Reddy","leg","back of length",10,16,160
+"Nitish Kumar Reddy","off","short",15,23,153.33
+"Nitish Kumar Reddy","line","short",20,15,75
+"Nitish Kumar Reddy","leg","short",7,6,85.71
+"Nitish Kumar Reddy","off","bouncer",8,14,175
+"Nitish Kumar Reddy","line","bouncer",11,30,272.73
+"Nitish Kumar Reddy","leg","bouncer",6,12,200
+"Noor Ahmad","off","yorker",3,0,0
+"Noor Ahmad","line","yorker",1,0,0
+"Noor Ahmad","off","full",4,2,50
+"Noor Ahmad","line","full",1,0,0
+"Noor Ahmad","off","length",4,1,25
+"Noor Ahmad","line","length",2,0,0
+"Noor Ahmad","leg","length",1,1,100
+"Noor Ahmad","off","back of length",5,3,60
+"Noor Ahmad","line","back of length",5,3,60
+"Noor Ahmad","leg","back of length",1,0,0
+"Noor Ahmad","off","short",3,5,166.67
+"Noor Ahmad","line","short",3,5,166.67
+"Noor Ahmad","leg","short",1,0,0
+"Noor Ahmad","off","bouncer",1,0,0
+"Obed McCoy","line","full",1,0,0
+"Obed McCoy","line","length",1,6,600
+"Obed McCoy","line","back of length",1,0,0
+"Obed McCoy","off","short",2,2,100
+"Odean Smith","off","yorker",1,0,0
+"Odean Smith","line","yorker",1,0,0
+"Odean Smith","off","full",5,8,160
+"Odean Smith","line","full",5,2,40
+"Odean Smith","leg","full",2,1,50
+"Odean Smith","off","length",4,8,200
+"Odean Smith","line","length",6,6,100
+"Odean Smith","leg","length",2,0,0
+"Odean Smith","off","back of length",5,9,180
+"Odean Smith","line","back of length",6,10,166.67
+"Odean Smith","off","short",3,1,33.33
+"Odean Smith","line","short",3,5,166.67
+"Odean Smith","line","bouncer",1,1,100
+"Odean Smith","leg","bouncer",1,0,0
+"Praveen Dubey","off","yorker",1,1,100
+"Praveen Dubey","off","full",1,1,100
+"Praveen Dubey","line","full",1,0,0
+"Praveen Dubey","leg","full",1,0,0
+"Praveen Dubey","off","length",2,8,400
+"Praveen Dubey","line","length",5,3,60
+"Praveen Dubey","off","back of length",3,1,33.33
+"Praveen Dubey","line","back of length",5,2,40
+"Praveen Dubey","off","bouncer",1,0,0
+"Prabhsimran Singh","off","yorker",43,60,139.53
+"Prabhsimran Singh","line","yorker",35,59,168.57
+"Prabhsimran Singh","leg","yorker",17,14,82.35
+"Prabhsimran Singh","off","full",62,108,174.19
+"Prabhsimran Singh","line","full",63,100,158.73
+"Prabhsimran Singh","leg","full",15,27,180
+"Prabhsimran Singh","off","length",88,136,154.55
+"Prabhsimran Singh","line","length",106,166,156.6
+"Prabhsimran Singh","leg","length",34,63,185.29
+"Prabhsimran Singh","off","back of length",90,143,158.89
+"Prabhsimran Singh","line","back of length",98,143,145.92
+"Prabhsimran Singh","leg","back of length",29,21,72.41
+"Prabhsimran Singh","off","short",29,61,210.34
+"Prabhsimran Singh","line","short",52,84,161.54
+"Prabhsimran Singh","leg","short",23,39,169.57
+"Prabhsimran Singh","off","bouncer",17,25,147.06
+"Prabhsimran Singh","line","bouncer",24,37,154.17
+"Prabhsimran Singh","leg","bouncer",11,19,172.73
+"Bhanuka Rajapaksa","off","yorker",10,13,130
+"Bhanuka Rajapaksa","line","yorker",6,9,150
+"Bhanuka Rajapaksa","leg","yorker",3,12,400
+"Bhanuka Rajapaksa","off","full",9,10,111.11
+"Bhanuka Rajapaksa","line","full",11,19,172.73
+"Bhanuka Rajapaksa","leg","full",5,5,100
+"Bhanuka Rajapaksa","off","length",20,31,155
+"Bhanuka Rajapaksa","line","length",28,49,175
+"Bhanuka Rajapaksa","leg","length",6,10,166.67
+"Bhanuka Rajapaksa","off","back of length",18,28,155.56
+"Bhanuka Rajapaksa","line","back of length",24,30,125
+"Bhanuka Rajapaksa","leg","back of length",10,7,70
+"Bhanuka Rajapaksa","off","short",9,9,100
+"Bhanuka Rajapaksa","line","short",12,21,175
+"Bhanuka Rajapaksa","leg","short",5,5,100
+"Bhanuka Rajapaksa","off","bouncer",10,17,170
+"Bhanuka Rajapaksa","line","bouncer",3,1,33.33
+"Bhanuka Rajapaksa","leg","bouncer",2,1,50
+"Phil Salt","off","yorker",29,42,144.83
+"Phil Salt","line","yorker",18,24,133.33
+"Phil Salt","leg","yorker",12,27,225
+"Phil Salt","off","full",56,93,166.07
+"Phil Salt","line","full",57,101,177.19
+"Phil Salt","leg","full",13,39,300
+"Phil Salt","off","length",74,135,182.43
+"Phil Salt","line","length",60,113,188.33
+"Phil Salt","leg","length",22,46,209.09
+"Phil Salt","off","back of length",64,97,151.56
+"Phil Salt","line","back of length",66,111,168.18
+"Phil Salt","leg","back of length",22,38,172.73
+"Phil Salt","off","short",33,63,190.91
+"Phil Salt","line","short",34,51,150
+"Phil Salt","leg","short",16,26,162.5
+"Phil Salt","off","bouncer",13,19,146.15
+"Phil Salt","line","bouncer",13,29,223.08
+"Phil Salt","leg","bouncer",3,2,66.67
+"PHKD Mendis","off","yorker",3,4,133.33
+"PHKD Mendis","line","yorker",2,2,100
+"PHKD Mendis","off","full",8,12,150
+"PHKD Mendis","line","full",11,13,118.18
+"PHKD Mendis","leg","full",2,1,50
+"PHKD Mendis","off","length",7,5,71.43
+"PHKD Mendis","line","length",7,6,85.71
+"PHKD Mendis","leg","length",3,2,66.67
+"PHKD Mendis","off","back of length",7,16,228.57
+"PHKD Mendis","line","back of length",6,3,50
+"PHKD Mendis","leg","back of length",7,9,128.57
+"PHKD Mendis","off","short",4,13,325
+"PHKD Mendis","line","short",1,0,0
+"PHKD Mendis","off","bouncer",2,6,300
+"Pat Cummins","off","yorker",9,4,44.44
+"Pat Cummins","line","yorker",8,17,212.5
+"Pat Cummins","off","full",10,25,250
+"Pat Cummins","line","full",17,21,123.53
+"Pat Cummins","leg","full",4,12,300
+"Pat Cummins","off","length",21,35,166.67
+"Pat Cummins","line","length",26,42,161.54
+"Pat Cummins","leg","length",4,7,175
+"Pat Cummins","off","back of length",11,21,190.91
+"Pat Cummins","line","back of length",21,30,142.86
+"Pat Cummins","leg","back of length",8,14,175
+"Pat Cummins","off","short",5,5,100
+"Pat Cummins","line","short",11,18,163.64
+"Pat Cummins","leg","short",6,11,183.33
+"Pat Cummins","off","bouncer",8,20,250
+"Pat Cummins","line","bouncer",8,14,175
+"Pradeep Sangwan","off","length",1,1,100
+"Pradeep Sangwan","line","length",2,1,50
+"Pradeep Sangwan","off","back of length",2,0,0
+"Priyam Garg","off","yorker",1,2,200
+"Priyam Garg","line","yorker",2,4,200
+"Priyam Garg","leg","yorker",1,1,100
+"Priyam Garg","off","full",4,7,175
+"Priyam Garg","line","full",2,1,50
+"Priyam Garg","leg","full",1,2,200
+"Priyam Garg","off","length",7,7,100
+"Priyam Garg","line","length",7,11,157.14
+"Priyam Garg","leg","length",3,0,0
+"Priyam Garg","off","back of length",10,15,150
+"Priyam Garg","line","back of length",3,1,33.33
+"Priyam Garg","leg","back of length",2,2,100
+"Priyam Garg","off","short",4,6,150
+"Priyam Garg","line","short",4,5,125
+"Priyam Garg","leg","short",2,4,200
+"Priyam Garg","off","bouncer",2,0,0
+"Priyam Garg","line","bouncer",1,0,0
+"Prerak Mankad","off","yorker",8,13,162.5
+"Prerak Mankad","line","yorker",4,3,75
+"Prerak Mankad","leg","yorker",2,1,50
+"Prerak Mankad","off","full",4,3,75
+"Prerak Mankad","line","full",3,1,33.33
+"Prerak Mankad","leg","full",2,0,0
+"Prerak Mankad","off","length",8,20,250
+"Prerak Mankad","line","length",11,10,90.91
+"Prerak Mankad","leg","length",3,6,200
+"Prerak Mankad","off","back of length",6,8,133.33
+"Prerak Mankad","line","back of length",6,5,83.33
+"Prerak Mankad","leg","back of length",3,3,100
+"Prerak Mankad","off","short",4,5,125
+"Prerak Mankad","line","short",4,4,100
+"Prerak Mankad","leg","short",1,0,0
+"Prerak Mankad","line","bouncer",1,6,600
+"Prerak Mankad","leg","bouncer",3,9,300
+"Piyush Chawla","off","yorker",1,2,200
+"Piyush Chawla","line","yorker",3,3,100
+"Piyush Chawla","off","full",1,4,400
+"Piyush Chawla","line","full",4,8,200
+"Piyush Chawla","leg","full",1,0,0
+"Piyush Chawla","off","length",2,6,300
+"Piyush Chawla","line","length",3,3,100
+"Piyush Chawla","leg","length",2,1,50
+"Piyush Chawla","off","back of length",6,3,50
+"Piyush Chawla","line","back of length",4,6,150
+"Piyush Chawla","leg","back of length",3,0,0
+"Piyush Chawla","line","short",2,1,50
+"Piyush Chawla","leg","short",1,0,0
+"Piyush Chawla","off","bouncer",3,3,100
+"Piyush Chawla","line","bouncer",1,0,0
+"Prithvi Shaw","off","yorker",8,11,137.5
+"Prithvi Shaw","line","yorker",18,36,200
+"Prithvi Shaw","leg","yorker",3,5,166.67
+"Prithvi Shaw","off","full",34,45,132.35
+"Prithvi Shaw","line","full",33,50,151.52
+"Prithvi Shaw","leg","full",10,21,210
+"Prithvi Shaw","off","length",49,70,142.86
+"Prithvi Shaw","line","length",50,62,124
+"Prithvi Shaw","leg","length",12,26,216.67
+"Prithvi Shaw","off","back of length",45,71,157.78
+"Prithvi Shaw","line","back of length",37,50,135.14
+"Prithvi Shaw","leg","back of length",15,29,193.33
+"Prithvi Shaw","off","short",21,22,104.76
+"Prithvi Shaw","line","short",27,40,148.15
+"Prithvi Shaw","leg","short",13,19,146.15
+"Prithvi Shaw","off","bouncer",10,20,200
+"Prithvi Shaw","line","bouncer",6,5,83.33
+"Prithvi Shaw","leg","bouncer",2,5,250
+"Dushmantha Chameera","off","yorker",3,4,133.33
+"Dushmantha Chameera","leg","yorker",2,3,150
+"Dushmantha Chameera","off","full",3,8,266.67
+"Dushmantha Chameera","leg","full",1,0,0
+"Dushmantha Chameera","off","length",4,2,50
+"Dushmantha Chameera","line","length",7,9,128.57
+"Dushmantha Chameera","leg","length",1,6,600
+"Dushmantha Chameera","off","back of length",8,9,112.5
+"Dushmantha Chameera","line","back of length",4,2,50
+"Dushmantha Chameera","leg","back of length",1,1,100
+"Dushmantha Chameera","off","short",2,2,100
+"Dushmantha Chameera","line","short",2,5,250
+"Dushmantha Chameera","leg","short",1,0,0
+"Dushmantha Chameera","off","bouncer",1,1,100
+"Dushmantha Chameera","line","bouncer",1,1,100
+"Dushmantha Chameera","leg","bouncer",1,0,0
+"PVSN Raju","off","length",1,1,100
+"Wiaan Mulder","off","yorker",1,0,0
+"Wiaan Mulder","line","full",1,1,100
+"Wiaan Mulder","off","length",3,5,166.67
+"Wiaan Mulder","line","length",1,1,100
+"Wiaan Mulder","off","back of length",1,1,100
+"Wiaan Mulder","line","back of length",1,0,0
+"Wiaan Mulder","leg","back of length",1,1,100
+"Wiaan Mulder","off","short",1,0,0
+"Wiaan Mulder","leg","short",1,0,0
+"Wanindu Hasaranga","off","yorker",4,8,200
+"Wanindu Hasaranga","line","yorker",3,6,200
+"Wanindu Hasaranga","leg","yorker",2,6,300
+"Wanindu Hasaranga","off","full",3,3,100
+"Wanindu Hasaranga","line","full",5,5,100
+"Wanindu Hasaranga","leg","full",4,3,75
+"Wanindu Hasaranga","off","length",8,5,62.5
+"Wanindu Hasaranga","line","length",11,9,81.82
+"Wanindu Hasaranga","leg","length",6,4,66.67
+"Wanindu Hasaranga","off","back of length",13,9,69.23
+"Wanindu Hasaranga","line","back of length",9,10,111.11
+"Wanindu Hasaranga","leg","back of length",2,1,50
+"Wanindu Hasaranga","off","short",3,7,233.33
+"Wanindu Hasaranga","line","short",6,3,50
+"Wanindu Hasaranga","leg","short",2,0,0
+"Wanindu Hasaranga","off","bouncer",3,0,0
+"Wanindu Hasaranga","line","bouncer",3,1,33.33
+"Prince Yadav","off","yorker",1,0,0
+"Prince Yadav","line","yorker",1,1,100
+"Prince Yadav","off","full",1,1,100
+"Prince Yadav","line","length",4,1,25
+"Prince Yadav","leg","length",1,1,100
+"Prince Yadav","off","back of length",1,0,0
+"Prince Yadav","line","back of length",1,1,100
+"Priyansh Arya","off","yorker",14,19,135.71
+"Priyansh Arya","line","yorker",19,47,247.37
+"Priyansh Arya","leg","yorker",4,7,175
+"Priyansh Arya","off","full",15,15,100
+"Priyansh Arya","line","full",28,66,235.71
+"Priyansh Arya","leg","full",6,4,66.67
+"Priyansh Arya","off","length",37,61,164.86
+"Priyansh Arya","line","length",35,71,202.86
+"Priyansh Arya","leg","length",7,20,285.71
+"Priyansh Arya","off","back of length",32,59,184.38
+"Priyansh Arya","line","back of length",34,65,191.18
+"Priyansh Arya","leg","back of length",8,15,187.5
+"Priyansh Arya","off","short",16,28,175
+"Priyansh Arya","line","short",21,29,138.1
+"Priyansh Arya","leg","short",5,8,160
+"Priyansh Arya","off","bouncer",7,3,42.86
+"Priyansh Arya","line","bouncer",7,22,314.29
+"Priyansh Arya","leg","bouncer",4,6,150
+"Quinton de Kock","off","yorker",43,61,141.86
+"Quinton de Kock","line","yorker",31,34,109.68
+"Quinton de Kock","leg","yorker",15,31,206.67
+"Quinton de Kock","off","full",53,67,126.42
+"Quinton de Kock","line","full",61,76,124.59
+"Quinton de Kock","leg","full",17,22,129.41
+"Quinton de Kock","off","length",73,93,127.4
+"Quinton de Kock","line","length",83,119,143.37
+"Quinton de Kock","leg","length",25,38,152
+"Quinton de Kock","off","back of length",83,102,122.89
+"Quinton de Kock","line","back of length",77,126,163.64
+"Quinton de Kock","leg","back of length",28,48,171.43
+"Quinton de Kock","off","short",46,78,169.57
+"Quinton de Kock","line","short",40,61,152.5
+"Quinton de Kock","leg","short",26,43,165.38
+"Quinton de Kock","off","bouncer",24,17,70.83
+"Quinton de Kock","line","bouncer",22,36,163.64
+"Quinton de Kock","leg","bouncer",3,1,33.33
+"Ravichandran Ashwin","off","yorker",21,19,90.48
+"Ravichandran Ashwin","line","yorker",12,7,58.33
+"Ravichandran Ashwin","leg","yorker",7,12,171.43
+"Ravichandran Ashwin","off","full",18,21,116.67
+"Ravichandran Ashwin","line","full",17,20,117.65
+"Ravichandran Ashwin","leg","full",9,20,222.22
+"Ravichandran Ashwin","off","length",41,57,139.02
+"Ravichandran Ashwin","line","length",44,52,118.18
+"Ravichandran Ashwin","leg","length",6,5,83.33
+"Ravichandran Ashwin","off","back of length",24,49,204.17
+"Ravichandran Ashwin","line","back of length",22,24,109.09
+"Ravichandran Ashwin","leg","back of length",9,22,244.44
+"Ravichandran Ashwin","off","short",15,16,106.67
+"Ravichandran Ashwin","line","short",20,23,115
+"Ravichandran Ashwin","leg","short",6,10,166.67
+"Ravichandran Ashwin","off","bouncer",10,6,60
+"Ravichandran Ashwin","line","bouncer",7,10,142.86
+"Ravichandran Ashwin","leg","bouncer",2,4,200
+"Rishi Dhawan","off","yorker",2,1,50
+"Rishi Dhawan","line","yorker",1,0,0
+"Rishi Dhawan","off","full",3,3,100
+"Rishi Dhawan","line","full",9,10,111.11
+"Rishi Dhawan","leg","full",3,4,133.33
+"Rishi Dhawan","off","length",4,11,275
+"Rishi Dhawan","line","length",7,2,28.57
+"Rishi Dhawan","off","back of length",8,8,100
+"Rishi Dhawan","line","back of length",6,5,83.33
+"Rishi Dhawan","leg","back of length",1,4,400
+"Rishi Dhawan","off","short",1,1,100
+"Rishi Dhawan","line","short",2,1,50
+"Rishi Dhawan","leg","short",2,6,300
+"Rishi Dhawan","off","bouncer",1,1,100
+"Rishi Dhawan","line","bouncer",2,0,0
+"R Minz","off","yorker",2,2,100
+"R Minz","line","yorker",1,0,0
+"R Minz","off","length",3,0,0
+"R Minz","line","length",2,1,50
+"R Minz","leg","length",1,1,100
+"R Minz","off","back of length",3,2,66.67
+"R Minz","line","back of length",2,0,0
+"R Minz","leg","back of length",1,0,0
+"Riyan Parag","off","yorker",41,48,117.07
+"Riyan Parag","line","yorker",43,49,113.95
+"Riyan Parag","leg","yorker",13,25,192.31
+"Riyan Parag","off","full",56,79,141.07
+"Riyan Parag","line","full",66,118,178.79
+"Riyan Parag","leg","full",22,34,154.55
+"Riyan Parag","off","length",79,123,155.7
+"Riyan Parag","line","length",113,181,160.18
+"Riyan Parag","leg","length",39,61,156.41
+"Riyan Parag","off","back of length",91,117,128.57
+"Riyan Parag","line","back of length",66,118,178.79
+"Riyan Parag","leg","back of length",38,58,152.63
+"Riyan Parag","off","short",38,69,181.58
+"Riyan Parag","line","short",50,56,112
+"Riyan Parag","leg","short",16,20,125
+"Riyan Parag","off","bouncer",23,32,139.13
+"Riyan Parag","line","bouncer",22,41,186.36
+"Riyan Parag","leg","bouncer",6,2,33.33
+"Rovman Powell","off","yorker",15,31,206.67
+"Rovman Powell","line","yorker",10,17,170
+"Rovman Powell","leg","yorker",3,1,33.33
+"Rovman Powell","off","full",22,36,163.64
+"Rovman Powell","line","full",23,32,139.13
+"Rovman Powell","leg","full",11,12,109.09
+"Rovman Powell","off","length",28,67,239.29
+"Rovman Powell","line","length",34,47,138.24
+"Rovman Powell","leg","length",5,6,120
+"Rovman Powell","off","back of length",24,39,162.5
+"Rovman Powell","line","back of length",22,22,100
+"Rovman Powell","leg","back of length",10,3,30
+"Rovman Powell","off","short",8,9,112.5
+"Rovman Powell","line","short",17,23,135.29
+"Rovman Powell","leg","short",7,8,114.29
+"Rovman Powell","off","bouncer",2,1,50
+"Rovman Powell","line","bouncer",7,10,142.86
+"Rovman Powell","leg","bouncer",2,1,50
+"Rachin Ravindra","off","yorker",16,20,125
+"Rachin Ravindra","line","yorker",7,16,228.57
+"Rachin Ravindra","leg","yorker",3,3,100
+"Rachin Ravindra","off","full",22,37,168.18
+"Rachin Ravindra","line","full",18,17,94.44
+"Rachin Ravindra","leg","full",10,18,180
+"Rachin Ravindra","off","length",31,55,177.42
+"Rachin Ravindra","line","length",33,57,172.73
+"Rachin Ravindra","leg","length",8,11,137.5
+"Rachin Ravindra","off","back of length",31,41,132.26
+"Rachin Ravindra","line","back of length",38,65,171.05
+"Rachin Ravindra","leg","back of length",9,8,88.89
+"Rachin Ravindra","off","short",17,12,70.59
+"Rachin Ravindra","line","short",21,30,142.86
+"Rachin Ravindra","leg","short",8,5,62.5
+"Rachin Ravindra","off","bouncer",6,7,116.67
+"Rachin Ravindra","line","bouncer",5,9,180
+"Rachin Ravindra","leg","bouncer",4,2,50
+"R Sai Kishore","off","yorker",1,0,0
+"R Sai Kishore","leg","yorker",1,0,0
+"R Sai Kishore","off","full",4,7,175
+"R Sai Kishore","off","length",3,8,266.67
+"R Sai Kishore","off","back of length",3,0,0
+"R Sai Kishore","line","back of length",2,2,100
+"R Sai Kishore","leg","back of length",1,1,100
+"R Sai Kishore","line","short",1,0,0
+"Sanjay Yadav","line","short",1,0,0
+"Sanjay Yadav","line","bouncer",1,0,0
+"Romario Shepherd","off","yorker",5,11,220
+"Romario Shepherd","line","yorker",4,2,50
+"Romario Shepherd","off","full",3,9,300
+"Romario Shepherd","line","full",13,30,230.77
+"Romario Shepherd","leg","full",1,1,100
+"Romario Shepherd","off","length",10,24,240
+"Romario Shepherd","line","length",11,23,209.09
+"Romario Shepherd","leg","length",4,6,150
+"Romario Shepherd","off","back of length",5,10,200
+"Romario Shepherd","line","back of length",13,43,330.77
+"Romario Shepherd","leg","back of length",3,2,66.67
+"Romario Shepherd","off","short",5,8,160
+"Romario Shepherd","line","short",4,2,50
+"Romario Shepherd","leg","short",5,10,200
+"Romario Shepherd","leg","bouncer",1,4,400
+"Rahul Tewatia","off","yorker",20,37,185
+"Rahul Tewatia","line","yorker",17,25,147.06
+"Rahul Tewatia","leg","yorker",4,17,425
+"Rahul Tewatia","off","full",29,35,120.69
+"Rahul Tewatia","line","full",27,41,151.85
+"Rahul Tewatia","leg","full",7,5,71.43
+"Rahul Tewatia","off","length",38,60,157.89
+"Rahul Tewatia","line","length",58,90,155.17
+"Rahul Tewatia","leg","length",12,20,166.67
+"Rahul Tewatia","off","back of length",36,61,169.44
+"Rahul Tewatia","line","back of length",49,69,140.82
+"Rahul Tewatia","leg","back of length",12,18,150
+"Rahul Tewatia","off","short",27,45,166.67
+"Rahul Tewatia","line","short",24,22,91.67
+"Rahul Tewatia","leg","short",9,18,200
+"Rahul Tewatia","off","bouncer",14,18,128.57
+"Rahul Tewatia","line","bouncer",6,9,150
+"Rahul Tewatia","leg","bouncer",3,1,33.33
+"Raj Bawa","off","yorker",2,1,50
+"Raj Bawa","off","length",2,1,50
+"Raj Bawa","line","length",1,2,200
+"Raj Bawa","leg","length",2,2,100
+"Raj Bawa","off","back of length",2,2,100
+"Raj Bawa","line","back of length",2,0,0
+"Raj Bawa","leg","back of length",1,3,300
+"Raj Bawa","line","short",2,1,50
+"Raj Bawa","leg","short",1,1,100
+"Raj Bawa","off","bouncer",2,4,200
+"Raj Bawa","line","bouncer",1,2,200
+"Ravindra Jadeja","off","yorker",37,29,78.38
+"Ravindra Jadeja","line","yorker",28,50,178.57
+"Ravindra Jadeja","leg","yorker",10,22,220
+"Ravindra Jadeja","off","full",42,51,121.43
+"Ravindra Jadeja","line","full",39,59,151.28
+"Ravindra Jadeja","leg","full",17,26,152.94
+"Ravindra Jadeja","off","length",73,106,145.21
+"Ravindra Jadeja","line","length",68,86,126.47
+"Ravindra Jadeja","leg","length",21,27,128.57
+"Ravindra Jadeja","off","back of length",75,101,134.67
+"Ravindra Jadeja","line","back of length",70,98,140
+"Ravindra Jadeja","leg","back of length",27,34,125.93
+"Ravindra Jadeja","off","short",42,58,138.1
+"Ravindra Jadeja","line","short",33,55,166.67
+"Ravindra Jadeja","leg","short",22,24,109.09
+"Ravindra Jadeja","off","bouncer",14,17,121.43
+"Ravindra Jadeja","line","bouncer",19,25,131.58
+"Ravindra Jadeja","leg","bouncer",4,6,150
+"Rahul Tripathi","off","yorker",30,38,126.67
+"Rahul Tripathi","line","yorker",32,41,128.12
+"Rahul Tripathi","leg","yorker",12,10,83.33
+"Rahul Tripathi","off","full",50,81,162
+"Rahul Tripathi","line","full",44,52,118.18
+"Rahul Tripathi","leg","full",18,15,83.33
+"Rahul Tripathi","off","length",77,79,102.6
+"Rahul Tripathi","line","length",82,146,178.05
+"Rahul Tripathi","leg","length",32,57,178.12
+"Rahul Tripathi","off","back of length",70,93,132.86
+"Rahul Tripathi","line","back of length",67,87,129.85
+"Rahul Tripathi","leg","back of length",34,61,179.41
+"Rahul Tripathi","off","short",32,53,165.62
+"Rahul Tripathi","line","short",23,29,126.09
+"Rahul Tripathi","leg","short",13,21,161.54
+"Rahul Tripathi","off","bouncer",18,36,200
+"Rahul Tripathi","line","bouncer",9,5,55.56
+"Rahul Tripathi","leg","bouncer",3,2,66.67
+"Rahul Chahar","off","yorker",1,1,100
+"Rahul Chahar","line","yorker",5,8,160
+"Rahul Chahar","off","full",9,9,100
+"Rahul Chahar","line","full",6,10,166.67
+"Rahul Chahar","leg","full",5,7,140
+"Rahul Chahar","off","length",13,9,69.23
+"Rahul Chahar","line","length",9,1,11.11
+"Rahul Chahar","leg","length",3,1,33.33
+"Rahul Chahar","off","back of length",7,4,57.14
+"Rahul Chahar","line","back of length",5,8,160
+"Rahul Chahar","leg","back of length",3,8,266.67
+"Rahul Chahar","off","short",5,1,20
+"Rahul Chahar","line","short",8,8,100
+"Rahul Chahar","leg","short",2,4,200
+"Rahul Chahar","off","bouncer",6,11,183.33
+"Rahul Chahar","line","bouncer",4,8,200
+"Rahul Chahar","leg","bouncer",1,0,0
+"Ruturaj Gaikwad","off","yorker",81,120,148.15
+"Ruturaj Gaikwad","line","yorker",60,87,145
+"Ruturaj Gaikwad","leg","yorker",17,35,205.88
+"Ruturaj Gaikwad","off","full",87,116,133.33
+"Ruturaj Gaikwad","line","full",91,121,132.97
+"Ruturaj Gaikwad","leg","full",26,35,134.62
+"Ruturaj Gaikwad","off","length",143,185,129.37
+"Ruturaj Gaikwad","line","length",125,179,143.2
+"Ruturaj Gaikwad","leg","length",31,48,154.84
+"Ruturaj Gaikwad","off","back of length",124,156,125.81
+"Ruturaj Gaikwad","line","back of length",135,168,124.44
+"Ruturaj Gaikwad","leg","back of length",43,75,174.42
+"Ruturaj Gaikwad","off","short",64,101,157.81
+"Ruturaj Gaikwad","line","short",68,84,123.53
+"Ruturaj Gaikwad","leg","short",30,55,183.33
+"Ruturaj Gaikwad","off","bouncer",22,39,177.27
+"Ruturaj Gaikwad","line","bouncer",30,38,126.67
+"Ruturaj Gaikwad","leg","bouncer",12,21,175
+"Ryan Rickelton","off","yorker",13,32,246.15
+"Ryan Rickelton","line","yorker",9,20,222.22
+"Ryan Rickelton","leg","yorker",4,8,200
+"Ryan Rickelton","off","full",26,26,100
+"Ryan Rickelton","line","full",20,35,175
+"Ryan Rickelton","leg","full",10,9,90
+"Ryan Rickelton","off","length",27,37,137.04
+"Ryan Rickelton","line","length",36,46,127.78
+"Ryan Rickelton","leg","length",11,24,218.18
+"Ryan Rickelton","off","back of length",21,31,147.62
+"Ryan Rickelton","line","back of length",22,25,113.64
+"Ryan Rickelton","leg","back of length",14,13,92.86
+"Ryan Rickelton","off","short",11,28,254.55
+"Ryan Rickelton","line","short",14,17,121.43
+"Ryan Rickelton","leg","short",8,14,175
+"Ryan Rickelton","off","bouncer",7,13,185.71
+"Ryan Rickelton","line","bouncer",3,9,300
+"Ryan Rickelton","leg","bouncer",2,1,50
+"Rohit Sharma","off","yorker",62,78,125.81
+"Rohit Sharma","line","yorker",38,44,115.79
+"Rohit Sharma","leg","yorker",22,31,140.91
+"Rohit Sharma","off","full",69,71,102.9
+"Rohit Sharma","line","full",89,76,85.39
+"Rohit Sharma","leg","full",21,36,171.43
+"Rohit Sharma","off","length",108,157,145.37
+"Rohit Sharma","line","length",122,192,157.38
+"Rohit Sharma","leg","length",41,44,107.32
+"Rohit Sharma","off","back of length",119,215,180.67
+"Rohit Sharma","line","back of length",111,133,119.82
+"Rohit Sharma","leg","back of length",34,39,114.71
+"Rohit Sharma","off","short",58,106,182.76
+"Rohit Sharma","line","short",55,72,130.91
+"Rohit Sharma","leg","short",35,77,220
+"Rohit Sharma","off","bouncer",20,29,145
+"Rohit Sharma","line","bouncer",24,22,91.67
+"Rohit Sharma","leg","bouncer",10,13,130
+"Richard Gleeson","leg","yorker",1,0,0
+"Richard Gleeson","leg","length",1,2,200
+"Reece Topley","line","yorker",2,1,50
+"Reece Topley","leg","full",1,1,100
+"Reece Topley","line","length",1,0,0
+"Reece Topley","leg","length",1,1,100
+"Reece Topley","line","short",1,0,0
+"Ricky Bhui","line","yorker",1,1,100
+"Ricky Bhui","off","full",1,0,0
+"Ricky Bhui","off","length",2,1,50
+"Ricky Bhui","line","length",2,0,0
+"Ricky Bhui","off","back of length",1,0,0
+"Ricky Bhui","line","back of length",1,0,0
+"Ricky Bhui","off","short",1,1,100
+"Rinku Singh","off","yorker",22,30,136.36
+"Rinku Singh","line","yorker",31,51,164.52
+"Rinku Singh","leg","yorker",8,16,200
+"Rinku Singh","off","full",58,81,139.66
+"Rinku Singh","line","full",61,79,129.51
+"Rinku Singh","leg","full",12,20,166.67
+"Rinku Singh","off","length",64,84,131.25
+"Rinku Singh","line","length",83,116,139.76
+"Rinku Singh","leg","length",24,46,191.67
+"Rinku Singh","off","back of length",75,114,152
+"Rinku Singh","line","back of length",81,130,160.49
+"Rinku Singh","leg","back of length",36,42,116.67
+"Rinku Singh","off","short",31,49,158.06
+"Rinku Singh","line","short",30,43,143.33
+"Rinku Singh","leg","short",23,28,121.74
+"Rinku Singh","off","bouncer",14,36,257.14
+"Rinku Singh","line","bouncer",24,52,216.67
+"Rinku Singh","leg","bouncer",4,5,125
+"Rajat Patidar","off","yorker",23,22,95.65
+"Rajat Patidar","line","yorker",28,47,167.86
+"Rajat Patidar","leg","yorker",8,19,237.5
+"Rajat Patidar","off","full",53,102,192.45
+"Rajat Patidar","line","full",47,65,138.3
+"Rajat Patidar","leg","full",16,37,231.25
+"Rajat Patidar","off","length",76,120,157.89
+"Rajat Patidar","line","length",80,135,168.75
+"Rajat Patidar","leg","length",29,44,151.72
+"Rajat Patidar","off","back of length",91,135,148.35
+"Rajat Patidar","line","back of length",58,83,143.1
+"Rajat Patidar","leg","back of length",21,27,128.57
+"Rajat Patidar","off","short",43,77,179.07
+"Rajat Patidar","line","short",30,34,113.33
+"Rajat Patidar","leg","short",18,31,172.22
+"Rajat Patidar","off","bouncer",17,31,182.35
+"Rajat Patidar","line","bouncer",14,20,142.86
+"Rajat Patidar","leg","bouncer",6,11,183.33
+"Riley Meredith","off","length",1,0,0
+"Riley Meredith","off","back of length",1,0,0
+"Riley Meredith","off","short",1,0,0
+"Rishabh Pant","off","yorker",38,57,150
+"Rishabh Pant","line","yorker",28,24,85.71
+"Rishabh Pant","leg","yorker",18,29,161.11
+"Rishabh Pant","off","full",56,70,125
+"Rishabh Pant","line","full",40,43,107.5
+"Rishabh Pant","leg","full",23,38,165.22
+"Rishabh Pant","off","length",80,140,175
+"Rishabh Pant","line","length",95,153,161.05
+"Rishabh Pant","leg","length",27,31,114.81
+"Rishabh Pant","off","back of length",80,132,165
+"Rishabh Pant","line","back of length",66,104,157.58
+"Rishabh Pant","leg","back of length",30,39,130
+"Rishabh Pant","off","short",41,56,136.59
+"Rishabh Pant","line","short",41,58,141.46
+"Rishabh Pant","leg","short",19,27,142.11
+"Rishabh Pant","off","bouncer",7,15,214.29
+"Rishabh Pant","line","bouncer",17,22,129.41
+"Rishabh Pant","leg","bouncer",8,17,212.5
+"Rilee Rossouw","off","yorker",15,37,246.67
+"Rilee Rossouw","line","yorker",14,23,164.29
+"Rilee Rossouw","leg","yorker",2,7,350
+"Rilee Rossouw","off","full",15,8,53.33
+"Rilee Rossouw","line","full",15,24,160
+"Rilee Rossouw","leg","full",6,9,150
+"Rilee Rossouw","off","length",40,54,135
+"Rilee Rossouw","line","length",29,66,227.59
+"Rilee Rossouw","leg","length",12,11,91.67
+"Rilee Rossouw","off","back of length",27,50,185.19
+"Rilee Rossouw","line","back of length",25,30,120
+"Rilee Rossouw","leg","back of length",7,24,342.86
+"Rilee Rossouw","off","short",14,22,157.14
+"Rilee Rossouw","line","short",15,21,140
+"Rilee Rossouw","leg","short",7,14,200
+"Rilee Rossouw","off","bouncer",6,8,133.33
+"Rilee Rossouw","line","bouncer",6,7,116.67
+"Rilee Rossouw","leg","bouncer",2,5,250
+"Ripal Patel","off","yorker",1,0,0
+"Ripal Patel","off","full",3,2,66.67
+"Ripal Patel","line","full",7,3,42.86
+"Ripal Patel","leg","full",2,2,100
+"Ripal Patel","off","length",4,10,250
+"Ripal Patel","line","length",8,11,137.5
+"Ripal Patel","off","back of length",6,8,133.33
+"Ripal Patel","line","back of length",8,13,162.5
+"Ripal Patel","leg","back of length",1,0,0
+"Ripal Patel","off","short",2,2,100
+"Ripal Patel","line","short",2,2,100
+"Ripal Patel","leg","short",1,2,200
+"Ripal Patel","off","bouncer",1,0,0
+"Robin Uthappa","off","yorker",7,13,185.71
+"Robin Uthappa","line","yorker",4,9,225
+"Robin Uthappa","leg","yorker",1,1,100
+"Robin Uthappa","off","full",23,16,69.57
+"Robin Uthappa","line","full",17,39,229.41
+"Robin Uthappa","leg","full",2,0,0
+"Robin Uthappa","off","length",19,31,163.16
+"Robin Uthappa","line","length",23,22,95.65
+"Robin Uthappa","leg","length",6,12,200
+"Robin Uthappa","off","back of length",22,31,140.91
+"Robin Uthappa","line","back of length",18,25,138.89
+"Robin Uthappa","leg","back of length",7,4,57.14
+"Robin Uthappa","off","short",7,12,171.43
+"Robin Uthappa","line","short",7,1,14.29
+"Robin Uthappa","leg","short",4,12,300
+"Robin Uthappa","off","bouncer",1,0,0
+"Robin Uthappa","line","bouncer",1,1,100
+"Robin Uthappa","leg","bouncer",2,1,50
+"Rahmanullah Gurbaz","off","yorker",14,15,107.14
+"Rahmanullah Gurbaz","line","yorker",8,8,100
+"Rahmanullah Gurbaz","leg","yorker",4,5,125
+"Rahmanullah Gurbaz","off","full",29,31,106.9
+"Rahmanullah Gurbaz","line","full",21,31,147.62
+"Rahmanullah Gurbaz","leg","full",4,1,25
+"Rahmanullah Gurbaz","off","length",38,55,144.74
+"Rahmanullah Gurbaz","line","length",30,33,110
+"Rahmanullah Gurbaz","leg","length",7,9,128.57
+"Rahmanullah Gurbaz","off","back of length",32,53,165.62
+"Rahmanullah Gurbaz","line","back of length",26,61,234.62
+"Rahmanullah Gurbaz","leg","back of length",7,0,0
+"Rahmanullah Gurbaz","off","short",13,21,161.54
+"Rahmanullah Gurbaz","line","short",19,18,94.74
+"Rahmanullah Gurbaz","leg","short",3,1,33.33
+"Rahmanullah Gurbaz","off","bouncer",3,5,166.67
+"Rahmanullah Gurbaz","line","bouncer",9,10,111.11
+"Rahmanullah Gurbaz","leg","bouncer",3,6,200
+"Ramandeep Singh","off","yorker",4,5,125
+"Ramandeep Singh","line","yorker",6,8,133.33
+"Ramandeep Singh","off","full",5,17,340
+"Ramandeep Singh","line","full",17,30,176.47
+"Ramandeep Singh","leg","full",2,4,200
+"Ramandeep Singh","off","length",16,16,100
+"Ramandeep Singh","line","length",19,31,163.16
+"Ramandeep Singh","leg","length",4,4,100
+"Ramandeep Singh","off","back of length",14,26,185.71
+"Ramandeep Singh","line","back of length",15,27,180
+"Ramandeep Singh","leg","back of length",5,1,20
+"Ramandeep Singh","off","short",10,7,70
+"Ramandeep Singh","line","short",5,13,260
+"Ramandeep Singh","leg","short",6,3,50
+"Ramandeep Singh","off","bouncer",5,13,260
+"Ramandeep Singh","line","bouncer",3,7,233.33
+"Ramandeep Singh","leg","bouncer",2,5,250
+"Rashid Khan","off","yorker",8,14,175
+"Rashid Khan","line","yorker",6,2,33.33
+"Rashid Khan","leg","yorker",4,9,225
+"Rashid Khan","off","full",12,19,158.33
+"Rashid Khan","line","full",13,21,161.54
+"Rashid Khan","leg","full",6,13,216.67
+"Rashid Khan","off","length",25,56,224
+"Rashid Khan","line","length",26,38,146.15
+"Rashid Khan","leg","length",10,25,250
+"Rashid Khan","off","back of length",27,39,144.44
+"Rashid Khan","line","back of length",25,54,216
+"Rashid Khan","leg","back of length",8,12,150
+"Rashid Khan","off","short",12,18,150
+"Rashid Khan","line","short",9,25,277.78
+"Rashid Khan","leg","short",3,0,0
+"Rashid Khan","off","bouncer",7,8,114.29
+"Rashid Khan","line","bouncer",2,4,200
+"Rashid Khan","leg","bouncer",1,6,600
+"Rasikh Salam","off","yorker",1,0,0
+"Rasikh Salam","line","yorker",1,0,0
+"Rasikh Salam","off","full",4,4,100
+"Rasikh Salam","line","full",2,5,250
+"Rasikh Salam","leg","full",2,5,250
+"Rasikh Salam","off","length",5,6,120
+"Rasikh Salam","line","length",6,4,66.67
+"Rasikh Salam","off","back of length",5,2,40
+"Rasikh Salam","off","short",7,4,57.14
+"Rasikh Salam","line","short",2,1,50
+"Rasikh Salam","leg","short",1,4,400
+"Ravi Bishnoi","off","yorker",1,0,0
+"Ravi Bishnoi","line","yorker",1,0,0
+"Ravi Bishnoi","leg","yorker",2,8,400
+"Ravi Bishnoi","line","full",3,1,33.33
+"Ravi Bishnoi","off","length",7,7,100
+"Ravi Bishnoi","line","length",7,2,28.57
+"Ravi Bishnoi","leg","length",2,0,0
+"Ravi Bishnoi","off","back of length",6,0,0
+"Ravi Bishnoi","line","back of length",7,6,85.71
+"Ravi Bishnoi","leg","back of length",1,0,0
+"Ravi Bishnoi","off","short",3,3,100
+"Ravi Bishnoi","line","short",3,1,33.33
+"Ravi Bishnoi","leg","short",2,2,100
+"Ravi Bishnoi","off","bouncer",1,6,600
+"Ravi Bishnoi","line","bouncer",3,0,0
+"Ravi Bishnoi","leg","bouncer",1,1,100
+"Shikhar Dhawan","off","yorker",38,51,134.21
+"Shikhar Dhawan","line","yorker",24,32,133.33
+"Shikhar Dhawan","leg","yorker",7,11,157.14
+"Shikhar Dhawan","off","full",51,53,103.92
+"Shikhar Dhawan","line","full",54,93,172.22
+"Shikhar Dhawan","leg","full",25,32,128
+"Shikhar Dhawan","off","length",92,109,118.48
+"Shikhar Dhawan","line","length",94,114,121.28
+"Shikhar Dhawan","leg","length",42,51,121.43
+"Shikhar Dhawan","off","back of length",91,135,148.35
+"Shikhar Dhawan","line","back of length",76,96,126.32
+"Shikhar Dhawan","leg","back of length",24,33,137.5
+"Shikhar Dhawan","off","short",40,32,80
+"Shikhar Dhawan","line","short",41,58,141.46
+"Shikhar Dhawan","leg","short",16,18,112.5
+"Shikhar Dhawan","off","bouncer",21,32,152.38
+"Shikhar Dhawan","line","bouncer",17,25,147.06
+"Shikhar Dhawan","leg","bouncer",7,10,142.86
+"Shivam Dube","off","yorker",42,55,130.95
+"Shivam Dube","line","yorker",45,53,117.78
+"Shivam Dube","leg","yorker",13,20,153.85
+"Shivam Dube","off","full",85,124,145.88
+"Shivam Dube","line","full",56,85,151.79
+"Shivam Dube","leg","full",16,22,137.5
+"Shivam Dube","off","length",122,152,124.59
+"Shivam Dube","line","length",100,174,174
+"Shivam Dube","leg","length",41,55,134.15
+"Shivam Dube","off","back of length",101,173,171.29
+"Shivam Dube","line","back of length",108,181,167.59
+"Shivam Dube","leg","back of length",36,48,133.33
+"Shivam Dube","off","short",51,113,221.57
+"Shivam Dube","line","short",62,79,127.42
+"Shivam Dube","leg","short",26,40,153.85
+"Shivam Dube","off","bouncer",25,38,152
+"Shivam Dube","line","bouncer",29,38,131.03
+"Shivam Dube","leg","bouncer",8,10,125
+"Shreyas Gopal","off","yorker",1,4,400
+"Shreyas Gopal","off","length",3,1,33.33
+"Shreyas Gopal","line","length",1,0,0
+"Shreyas Gopal","leg","length",1,4,400
+"Shreyas Gopal","line","short",1,0,0
+"Sean Abbott","off","full",1,0,0
+"Sean Abbott","off","length",1,6,600
+"Sean Abbott","leg","length",1,0,0
+"Sean Abbott","off","back of length",1,0,0
+"Sean Abbott","leg","bouncer",1,1,100
+"Suryakumar Yadav","off","yorker",54,84,155.56
+"Suryakumar Yadav","line","yorker",39,66,169.23
+"Suryakumar Yadav","leg","yorker",22,31,140.91
+"Suryakumar Yadav","off","full",114,173,151.75
+"Suryakumar Yadav","line","full",68,100,147.06
+"Suryakumar Yadav","leg","full",38,55,144.74
+"Suryakumar Yadav","off","length",125,235,188
+"Suryakumar Yadav","line","length",132,270,204.55
+"Suryakumar Yadav","leg","length",52,75,144.23
+"Suryakumar Yadav","off","back of length",142,193,135.92
+"Suryakumar Yadav","line","back of length",123,202,164.23
+"Suryakumar Yadav","leg","back of length",39,60,153.85
+"Suryakumar Yadav","off","short",68,111,163.24
+"Suryakumar Yadav","line","short",62,111,179.03
+"Suryakumar Yadav","leg","short",38,79,207.89
+"Suryakumar Yadav","off","bouncer",19,33,173.68
+"Suryakumar Yadav","line","bouncer",30,62,206.67
+"Suryakumar Yadav","leg","bouncer",12,30,250
+"Shubham Dubey","off","yorker",2,1,50
+"Shubham Dubey","line","yorker",3,7,233.33
+"Shubham Dubey","leg","yorker",2,4,200
+"Shubham Dubey","off","full",7,11,157.14
+"Shubham Dubey","line","full",6,18,300
+"Shubham Dubey","leg","full",1,0,0
+"Shubham Dubey","off","length",10,9,90
+"Shubham Dubey","line","length",12,19,158.33
+"Shubham Dubey","leg","length",3,8,266.67
+"Shubham Dubey","off","back of length",10,20,200
+"Shubham Dubey","line","back of length",9,8,88.89
+"Shubham Dubey","leg","back of length",4,6,150
+"Shubham Dubey","off","short",4,7,175
+"Shubham Dubey","line","short",6,10,166.67
+"Shubham Dubey","leg","short",1,1,100
+"Shubham Dubey","off","bouncer",1,1,100
+"Shubham Dubey","line","bouncer",2,7,350
+"Shubham Dubey","leg","bouncer",2,2,100
+"Shai Hope","off","yorker",12,22,183.33
+"Shai Hope","line","yorker",5,8,160
+"Shai Hope","leg","yorker",1,4,400
+"Shai Hope","off","full",6,5,83.33
+"Shai Hope","line","full",11,24,218.18
+"Shai Hope","leg","full",3,5,166.67
+"Shai Hope","off","length",13,18,138.46
+"Shai Hope","line","length",12,23,191.67
+"Shai Hope","leg","length",1,4,400
+"Shai Hope","off","back of length",12,11,91.67
+"Shai Hope","line","back of length",17,17,100
+"Shai Hope","leg","back of length",5,19,380
+"Shai Hope","off","short",7,11,157.14
+"Shai Hope","line","short",7,4,57.14
+"Shai Hope","off","bouncer",7,5,71.43
+"Shai Hope","line","bouncer",1,0,0
+"Shai Hope","leg","bouncer",2,3,150
+"Sherfane Rutherford","off","yorker",11,11,100
+"Sherfane Rutherford","line","yorker",11,19,172.73
+"Sherfane Rutherford","leg","yorker",2,1,50
+"Sherfane Rutherford","off","full",13,7,53.85
+"Sherfane Rutherford","line","full",19,18,94.74
+"Sherfane Rutherford","leg","full",2,0,0
+"Sherfane Rutherford","off","length",34,58,170.59
+"Sherfane Rutherford","line","length",25,40,160
+"Sherfane Rutherford","leg","length",15,32,213.33
+"Sherfane Rutherford","off","back of length",20,26,130
+"Sherfane Rutherford","line","back of length",25,38,152
+"Sherfane Rutherford","leg","back of length",13,12,92.31
+"Sherfane Rutherford","off","short",8,11,137.5
+"Sherfane Rutherford","line","short",17,25,147.06
+"Sherfane Rutherford","leg","short",5,10,200
+"Sherfane Rutherford","off","bouncer",10,8,80
+"Sherfane Rutherford","line","bouncer",3,7,233.33
+"Sherfane Rutherford","leg","bouncer",2,1,50
+"Spencer Johnson","off","full",1,0,0
+"Spencer Johnson","line","full",1,1,100
+"Spencer Johnson","off","length",1,1,100
+"Spencer Johnson","line","length",2,0,0
+"Spencer Johnson","line","back of length",2,0,0
+"Spencer Johnson","leg","back of length",1,1,100
+"Spencer Johnson","line","short",1,4,400
+"Spencer Johnson","off","bouncer",1,0,0
+"Spencer Johnson","line","bouncer",1,1,100
+"SK Rasheed","off","yorker",4,7,175
+"SK Rasheed","line","yorker",5,1,20
+"SK Rasheed","leg","yorker",1,0,0
+"SK Rasheed","off","full",10,2,20
+"SK Rasheed","line","full",4,10,250
+"SK Rasheed","off","length",3,1,33.33
+"SK Rasheed","line","length",5,9,180
+"SK Rasheed","leg","length",1,4,400
+"SK Rasheed","off","back of length",7,12,171.43
+"SK Rasheed","line","back of length",7,9,128.57
+"SK Rasheed","leg","back of length",3,6,200
+"SK Rasheed","off","short",4,1,25
+"SK Rasheed","line","short",4,4,100
+"SK Rasheed","leg","short",1,0,0
+"SK Rasheed","off","bouncer",3,1,33.33
+"SK Rasheed","line","bouncer",1,4,400
+"Sam Curran","off","yorker",19,20,105.26
+"Sam Curran","line","yorker",23,35,152.17
+"Sam Curran","leg","yorker",5,8,160
+"Sam Curran","off","full",36,45,125
+"Sam Curran","line","full",42,48,114.29
+"Sam Curran","leg","full",6,4,66.67
+"Sam Curran","off","length",58,88,151.72
+"Sam Curran","line","length",58,52,89.66
+"Sam Curran","leg","length",9,7,77.78
+"Sam Curran","off","back of length",65,71,109.23
+"Sam Curran","line","back of length",56,89,158.93
+"Sam Curran","leg","back of length",18,25,138.89
+"Sam Curran","off","short",33,43,130.3
+"Sam Curran","line","short",30,38,126.67
+"Sam Curran","leg","short",24,28,116.67
+"Sam Curran","off","bouncer",8,17,212.5
+"Sam Curran","line","bouncer",11,27,245.45
+"Sam Curran","leg","bouncer",7,15,214.29
+"Sarfaraz Khan","off","yorker",10,17,170
+"Sarfaraz Khan","line","yorker",10,10,100
+"Sarfaraz Khan","leg","yorker",1,2,200
+"Sarfaraz Khan","off","full",10,11,110
+"Sarfaraz Khan","line","full",8,11,137.5
+"Sarfaraz Khan","leg","full",3,1,33.33
+"Sarfaraz Khan","off","length",11,17,154.55
+"Sarfaraz Khan","line","length",14,7,50
+"Sarfaraz Khan","leg","length",6,10,166.67
+"Sarfaraz Khan","off","back of length",13,13,100
+"Sarfaraz Khan","line","back of length",12,13,108.33
+"Sarfaraz Khan","leg","back of length",7,12,171.43
+"Sarfaraz Khan","off","short",6,6,100
+"Sarfaraz Khan","line","short",4,2,50
+"Sarfaraz Khan","leg","short",3,1,33.33
+"Sarfaraz Khan","off","bouncer",6,8,133.33
+"Sarfaraz Khan","line","bouncer",4,2,50
+"Sarfaraz Khan","leg","bouncer",1,1,100
+"Shardul Thakur","off","yorker",11,13,118.18
+"Shardul Thakur","line","yorker",7,13,185.71
+"Shardul Thakur","leg","yorker",4,2,50
+"Shardul Thakur","off","full",11,18,163.64
+"Shardul Thakur","line","full",13,22,169.23
+"Shardul Thakur","leg","full",5,10,200
+"Shardul Thakur","off","length",15,34,226.67
+"Shardul Thakur","line","length",19,15,78.95
+"Shardul Thakur","leg","length",8,17,212.5
+"Shardul Thakur","off","back of length",24,30,125
+"Shardul Thakur","line","back of length",19,18,94.74
+"Shardul Thakur","leg","back of length",15,34,226.67
+"Shardul Thakur","off","short",10,10,100
+"Shardul Thakur","line","short",7,10,142.86
+"Shardul Thakur","leg","short",6,11,183.33
+"Shardul Thakur","off","bouncer",5,3,60
+"Shardul Thakur","line","bouncer",4,6,150
+"Shardul Thakur","leg","bouncer",4,6,150
+"Shimron Hetmyer","off","yorker",23,42,182.61
+"Shimron Hetmyer","line","yorker",32,30,93.75
+"Shimron Hetmyer","leg","yorker",12,22,183.33
+"Shimron Hetmyer","off","full",47,59,125.53
+"Shimron Hetmyer","line","full",48,73,152.08
+"Shimron Hetmyer","leg","full",14,14,100
+"Shimron Hetmyer","off","length",64,86,134.38
+"Shimron Hetmyer","line","length",86,146,169.77
+"Shimron Hetmyer","leg","length",35,48,137.14
+"Shimron Hetmyer","off","back of length",77,134,174.03
+"Shimron Hetmyer","line","back of length",61,99,162.3
+"Shimron Hetmyer","leg","back of length",27,45,166.67
+"Shimron Hetmyer","off","short",28,49,175
+"Shimron Hetmyer","line","short",32,47,146.88
+"Shimron Hetmyer","leg","short",11,19,172.73
+"Shimron Hetmyer","off","bouncer",20,21,105
+"Shimron Hetmyer","line","bouncer",15,25,166.67
+"Shimron Hetmyer","leg","bouncer",8,12,150
+"Sheldon Jackson","line","yorker",2,3,150
+"Sheldon Jackson","off","full",2,0,0
+"Sheldon Jackson","line","full",3,2,66.67
+"Sheldon Jackson","off","length",1,1,100
+"Sheldon Jackson","line","length",4,4,100
+"Sheldon Jackson","off","back of length",3,1,33.33
+"Sheldon Jackson","line","back of length",4,2,50
+"Sheldon Jackson","leg","back of length",1,1,100
+"Sheldon Jackson","off","short",1,0,0
+"Sheldon Jackson","line","short",2,7,350
+"Sheldon Jackson","off","bouncer",2,1,50
+"Sheldon Jackson","leg","bouncer",1,1,100
+"Sunil Narine","off","yorker",20,27,135
+"Sunil Narine","line","yorker",12,15,125
+"Sunil Narine","leg","yorker",11,9,81.82
+"Sunil Narine","off","full",35,52,148.57
+"Sunil Narine","line","full",47,84,178.72
+"Sunil Narine","leg","full",7,10,142.86
+"Sunil Narine","off","length",58,106,182.76
+"Sunil Narine","line","length",61,88,144.26
+"Sunil Narine","leg","length",16,28,175
+"Sunil Narine","off","back of length",48,57,118.75
+"Sunil Narine","line","back of length",50,101,202
+"Sunil Narine","leg","back of length",16,35,218.75
+"Sunil Narine","off","short",22,57,259.09
+"Sunil Narine","line","short",40,79,197.5
+"Sunil Narine","leg","short",15,33,220
+"Sunil Narine","off","bouncer",11,22,200
+"Sunil Narine","line","bouncer",7,16,228.57
+"Sunil Narine","leg","bouncer",6,7,116.67
+"Shreyas Iyer","off","yorker",47,55,117.02
+"Shreyas Iyer","line","yorker",38,63,165.79
+"Shreyas Iyer","leg","yorker",6,5,83.33
+"Shreyas Iyer","off","full",90,152,168.89
+"Shreyas Iyer","line","full",60,94,156.67
+"Shreyas Iyer","leg","full",18,33,183.33
+"Shreyas Iyer","off","length",104,167,160.58
+"Shreyas Iyer","line","length",116,217,187.07
+"Shreyas Iyer","leg","length",25,34,136
+"Shreyas Iyer","off","back of length",85,133,156.47
+"Shreyas Iyer","line","back of length",83,129,155.42
+"Shreyas Iyer","leg","back of length",42,50,119.05
+"Shreyas Iyer","off","short",50,51,102
+"Shreyas Iyer","line","short",51,70,137.25
+"Shreyas Iyer","leg","short",23,27,117.39
+"Shreyas Iyer","off","bouncer",22,30,136.36
+"Shreyas Iyer","line","bouncer",19,34,178.95
+"Shreyas Iyer","leg","bouncer",6,12,200
+"Suyash Prabhudessai","off","yorker",3,6,200
+"Suyash Prabhudessai","line","yorker",3,1,33.33
+"Suyash Prabhudessai","off","full",12,6,50
+"Suyash Prabhudessai","line","full",6,9,150
+"Suyash Prabhudessai","leg","full",2,0,0
+"Suyash Prabhudessai","off","length",12,8,66.67
+"Suyash Prabhudessai","line","length",15,18,120
+"Suyash Prabhudessai","leg","length",4,9,225
+"Suyash Prabhudessai","off","back of length",15,22,146.67
+"Suyash Prabhudessai","line","back of length",8,16,200
+"Suyash Prabhudessai","leg","back of length",4,3,75
+"Suyash Prabhudessai","off","short",5,9,180
+"Suyash Prabhudessai","line","short",6,5,83.33
+"Suyash Prabhudessai","leg","short",2,6,300
+"Suyash Prabhudessai","off","bouncer",2,2,100
+"Suyash Prabhudessai","line","bouncer",6,6,100
+"Suyash Prabhudessai","leg","bouncer",1,0,0
+"Sanju Samson","off","yorker",45,72,160
+"Sanju Samson","line","yorker",48,81,168.75
+"Sanju Samson","leg","yorker",18,24,133.33
+"Sanju Samson","off","full",90,125,138.89
+"Sanju Samson","line","full",87,117,134.48
+"Sanju Samson","leg","full",17,40,235.29
+"Sanju Samson","off","length",117,199,170.09
+"Sanju Samson","line","length",133,166,124.81
+"Sanju Samson","leg","length",43,102,237.21
+"Sanju Samson","off","back of length",119,188,157.98
+"Sanju Samson","line","back of length",127,180,141.73
+"Sanju Samson","leg","back of length",47,71,151.06
+"Sanju Samson","off","short",66,98,148.48
+"Sanju Samson","line","short",36,42,116.67
+"Sanju Samson","leg","short",23,46,200
+"Sanju Samson","off","bouncer",28,33,117.86
+"Sanju Samson","line","bouncer",41,39,95.12
+"Sanju Samson","leg","bouncer",14,13,92.86
+"Sam Billings","off","yorker",4,3,75
+"Sam Billings","line","yorker",5,13,260
+"Sam Billings","leg","yorker",4,6,150
+"Sam Billings","off","full",19,23,121.05
+"Sam Billings","line","full",11,13,118.18
+"Sam Billings","leg","full",2,6,300
+"Sam Billings","off","length",10,12,120
+"Sam Billings","line","length",13,15,115.38
+"Sam Billings","leg","length",7,4,57.14
+"Sam Billings","off","back of length",17,26,152.94
+"Sam Billings","line","back of length",13,17,130.77
+"Sam Billings","leg","back of length",3,1,33.33
+"Sam Billings","off","short",8,11,137.5
+"Sam Billings","line","short",9,10,111.11
+"Sam Billings","leg","short",5,5,100
+"Sam Billings","off","bouncer",2,1,50
+"Sam Billings","line","bouncer",5,2,40
+"Sam Billings","leg","bouncer",1,1,100
+"Shams Mulani","off","full",1,1,100
+"Sameer Rizvi","off","yorker",5,12,240
+"Sameer Rizvi","line","yorker",6,10,166.67
+"Sameer Rizvi","leg","yorker",3,0,0
+"Sameer Rizvi","off","full",10,10,100
+"Sameer Rizvi","line","full",3,2,66.67
+"Sameer Rizvi","leg","full",3,2,66.67
+"Sameer Rizvi","off","length",11,11,100
+"Sameer Rizvi","line","length",22,39,177.27
+"Sameer Rizvi","leg","length",7,9,128.57
+"Sameer Rizvi","off","back of length",12,6,50
+"Sameer Rizvi","line","back of length",7,9,128.57
+"Sameer Rizvi","leg","back of length",3,3,100
+"Sameer Rizvi","off","short",10,19,190
+"Sameer Rizvi","line","short",10,21,210
+"Sameer Rizvi","leg","short",3,3,100
+"Sameer Rizvi","off","bouncer",5,10,200
+"Sameer Rizvi","line","bouncer",3,6,200
+"Sandeep Sharma","off","yorker",1,0,0
+"Sandeep Sharma","line","yorker",1,0,0
+"Sandeep Sharma","line","full",1,1,100
+"Sandeep Sharma","leg","full",1,1,100
+"Sandeep Sharma","line","length",1,1,100
+"Sandeep Sharma","off","back of length",1,2,200
+"Sandeep Sharma","line","back of length",1,0,0
+"Sandeep Sharma","leg","back of length",1,1,100
+"Sandeep Sharma","off","bouncer",1,1,100
+"Sandeep Sharma","line","bouncer",1,0,0
+"Sandeep Sharma","leg","bouncer",1,1,100
+"Sanvir Singh","line","full",1,0,0
+"Sanvir Singh","off","length",2,1,50
+"Sanvir Singh","line","length",4,4,100
+"Sanvir Singh","leg","length",1,1,100
+"Sanvir Singh","off","back of length",2,4,200
+"Sanvir Singh","line","back of length",2,3,150
+"Sanvir Singh","leg","back of length",2,0,0
+"Sanvir Singh","off","short",3,7,233.33
+"Sanvir Singh","line","short",1,0,0
+"Sanvir Singh","leg","short",1,1,100
+"Sanvir Singh","off","bouncer",1,0,0
+"Sanvir Singh","line","bouncer",1,4,400
+"Saurav Chauhan","off","yorker",1,1,100
+"Saurav Chauhan","line","yorker",1,0,0
+"Saurav Chauhan","off","full",1,0,0
+"Saurav Chauhan","line","full",1,1,100
+"Saurav Chauhan","off","length",1,1,100
+"Saurav Chauhan","line","length",4,8,200
+"Saurav Chauhan","leg","length",1,0,0
+"Saurav Chauhan","off","back of length",2,1,50
+"Saurav Chauhan","line","back of length",1,4,400
+"Saurav Chauhan","leg","short",2,2,100
+"Sediqullah Atal","line","yorker",2,1,50
+"Sediqullah Atal","line","full",1,1,100
+"Sediqullah Atal","off","length",3,9,300
+"Sediqullah Atal","line","length",1,1,100
+"Sediqullah Atal","off","back of length",3,0,0
+"Sediqullah Atal","line","back of length",2,1,50
+"Sediqullah Atal","off","short",2,3,150
+"Sediqullah Atal","line","short",2,6,300
+"Shahbaz Ahmed","off","yorker",18,20,111.11
+"Shahbaz Ahmed","line","yorker",17,15,88.24
+"Shahbaz Ahmed","leg","yorker",3,2,66.67
+"Shahbaz Ahmed","off","full",33,35,106.06
+"Shahbaz Ahmed","line","full",30,28,93.33
+"Shahbaz Ahmed","leg","full",10,8,80
+"Shahbaz Ahmed","off","length",42,59,140.48
+"Shahbaz Ahmed","line","length",43,56,130.23
+"Shahbaz Ahmed","leg","length",15,11,73.33
+"Shahbaz Ahmed","off","back of length",43,63,146.51
+"Shahbaz Ahmed","line","back of length",44,45,102.27
+"Shahbaz Ahmed","leg","back of length",9,14,155.56
+"Shahbaz Ahmed","off","short",22,23,104.55
+"Shahbaz Ahmed","line","short",22,36,163.64
+"Shahbaz Ahmed","leg","short",14,25,178.57
+"Shahbaz Ahmed","off","bouncer",14,19,135.71
+"Shahbaz Ahmed","line","bouncer",14,25,178.57
+"Shahbaz Ahmed","leg","bouncer",3,1,33.33
+"Shashank Singh","off","yorker",20,32,160
+"Shashank Singh","line","yorker",24,34,141.67
+"Shashank Singh","leg","yorker",4,7,175
+"Shashank Singh","off","full",36,67,186.11
+"Shashank Singh","line","full",40,50,125
+"Shashank Singh","leg","full",7,5,71.43
+"Shashank Singh","off","length",49,77,157.14
+"Shashank Singh","line","length",68,119,175
+"Shashank Singh","leg","length",14,24,171.43
+"Shashank Singh","off","back of length",57,70,122.81
+"Shashank Singh","line","back of length",51,84,164.71
+"Shashank Singh","leg","back of length",18,19,105.56
+"Shashank Singh","off","short",29,59,203.45
+"Shashank Singh","line","short",30,53,176.67
+"Shashank Singh","leg","short",14,26,185.71
+"Shashank Singh","off","bouncer",12,21,175
+"Shashank Singh","line","bouncer",15,25,166.67
+"Shashank Singh","leg","bouncer",2,1,50
+"Shivam Mavi","off","full",2,0,0
+"Shivam Mavi","leg","full",1,0,0
+"Shivam Mavi","off","length",2,1,50
+"Shivam Mavi","off","back of length",1,1,100
+"Shivam Mavi","off","bouncer",1,1,100
+"Shivam Singh","off","length",1,1,100
+"Shivam Singh","line","length",2,1,50
+"Shubman Gill","off","yorker",73,103,141.1
+"Shubman Gill","line","yorker",78,105,134.62
+"Shubman Gill","leg","yorker",24,36,150
+"Shubman Gill","off","full",127,166,130.71
+"Shubman Gill","line","full",138,188,136.23
+"Shubman Gill","leg","full",36,41,113.89
+"Shubman Gill","off","length",163,275,168.71
+"Shubman Gill","line","length",198,310,156.57
+"Shubman Gill","leg","length",55,91,165.45
+"Shubman Gill","off","back of length",172,296,172.09
+"Shubman Gill","line","back of length",181,279,154.14
+"Shubman Gill","leg","back of length",57,70,122.81
+"Shubman Gill","off","short",81,101,124.69
+"Shubman Gill","line","short",118,200,169.49
+"Shubman Gill","leg","short",43,57,132.56
+"Shubman Gill","off","bouncer",35,61,174.29
+"Shubman Gill","line","bouncer",40,48,120
+"Shubman Gill","leg","bouncer",19,22,115.79
+"Sikandar Raza","off","yorker",7,10,142.86
+"Sikandar Raza","line","yorker",3,1,33.33
+"Sikandar Raza","off","full",9,7,77.78
+"Sikandar Raza","line","full",14,16,114.29
+"Sikandar Raza","leg","full",2,3,150
+"Sikandar Raza","off","length",19,32,168.42
+"Sikandar Raza","line","length",10,19,190
+"Sikandar Raza","leg","length",7,16,228.57
+"Sikandar Raza","off","back of length",15,14,93.33
+"Sikandar Raza","line","back of length",17,19,111.76
+"Sikandar Raza","leg","back of length",7,14,200
+"Sikandar Raza","off","short",7,8,114.29
+"Sikandar Raza","line","short",7,3,42.86
+"Sikandar Raza","leg","short",3,6,200
+"Sikandar Raza","off","bouncer",3,1,33.33
+"Sikandar Raza","line","bouncer",6,13,216.67
+"Simarjeet Singh","off","yorker",1,2,200
+"Simarjeet Singh","line","yorker",1,0,0
+"Simarjeet Singh","leg","yorker",1,0,0
+"Simarjeet Singh","line","full",1,1,100
+"Simarjeet Singh","leg","full",1,1,100
+"Simarjeet Singh","line","length",2,0,0
+"Simarjeet Singh","leg","length",1,0,0
+"Simarjeet Singh","off","back of length",2,2,100
+"Simarjeet Singh","leg","back of length",1,1,100
+"Simarjeet Singh","off","short",1,2,200
+"Simarjeet Singh","line","short",1,0,0
+"Simarjeet Singh","off","bouncer",1,1,100
+"Simarjeet Singh","leg","bouncer",1,0,0
+"Sumit Kumar","off","yorker",2,0,0
+"Sumit Kumar","line","yorker",2,1,50
+"Sumit Kumar","leg","yorker",1,4,400
+"Sumit Kumar","off","full",2,1,50
+"Sumit Kumar","line","full",1,4,400
+"Sumit Kumar","off","length",2,6,300
+"Sumit Kumar","line","length",2,0,0
+"Sumit Kumar","leg","length",2,0,0
+"Sumit Kumar","off","back of length",2,0,0
+"Sumit Kumar","line","back of length",2,0,0
+"Sumit Kumar","leg","back of length",2,0,0
+"Sumit Kumar","leg","short",1,0,0
+"Sumit Kumar","off","bouncer",1,1,100
+"Sumit Kumar","line","bouncer",2,1,50
+"Suryansh Shedge","off","yorker",2,2,100
+"Suryansh Shedge","line","full",2,2,100
+"Suryansh Shedge","off","length",1,2,200
+"Suryansh Shedge","leg","length",1,0,0
+"Suryansh Shedge","line","back of length",2,0,0
+"Suryansh Shedge","line","bouncer",3,1,33.33
+"Swapnil Singh","line","yorker",1,1,100
+"Swapnil Singh","leg","yorker",1,1,100
+"Swapnil Singh","line","full",2,1,50
+"Swapnil Singh","leg","full",3,2,66.67
+"Swapnil Singh","off","length",1,0,0
+"Swapnil Singh","line","length",2,0,0
+"Swapnil Singh","leg","length",1,4,400
+"Swapnil Singh","line","back of length",5,12,240
+"Swapnil Singh","off","short",3,7,233.33
+"Swapnil Singh","line","short",1,0,0
+"Swapnil Singh","off","bouncer",2,1,50
+"Swapnil Singh","line","bouncer",2,10,500
+"Swapnil Singh","leg","bouncer",1,0,0
+"Tom Kohler-Cadmore","off","yorker",4,10,250
+"Tom Kohler-Cadmore","line","yorker",1,4,400
+"Tom Kohler-Cadmore","leg","yorker",1,0,0
+"Tom Kohler-Cadmore","off","full",6,0,0
+"Tom Kohler-Cadmore","line","full",4,5,125
+"Tom Kohler-Cadmore","leg","full",1,1,100
+"Tom Kohler-Cadmore","off","length",4,9,225
+"Tom Kohler-Cadmore","line","length",6,3,50
+"Tom Kohler-Cadmore","leg","length",3,5,166.67
+"Tom Kohler-Cadmore","off","back of length",11,7,63.64
+"Tom Kohler-Cadmore","line","back of length",9,3,33.33
+"Tom Kohler-Cadmore","leg","back of length",1,1,100
+"Tom Kohler-Cadmore","line","short",1,0,0
+"Tom Kohler-Cadmore","leg","short",1,0,0
+"Tom Kohler-Cadmore","off","bouncer",1,0,0
+"Tristan Stubbs","off","yorker",22,52,236.36
+"Tristan Stubbs","line","yorker",26,57,219.23
+"Tristan Stubbs","leg","yorker",8,18,225
+"Tristan Stubbs","off","full",29,40,137.93
+"Tristan Stubbs","line","full",35,54,154.29
+"Tristan Stubbs","leg","full",9,10,111.11
+"Tristan Stubbs","off","length",49,71,144.9
+"Tristan Stubbs","line","length",47,76,161.7
+"Tristan Stubbs","leg","length",17,25,147.06
+"Tristan Stubbs","off","back of length",49,74,151.02
+"Tristan Stubbs","line","back of length",53,68,128.3
+"Tristan Stubbs","leg","back of length",11,22,200
+"Tristan Stubbs","off","short",21,42,200
+"Tristan Stubbs","line","short",23,51,221.74
+"Tristan Stubbs","leg","short",12,13,108.33
+"Tristan Stubbs","off","bouncer",11,23,209.09
+"Tristan Stubbs","line","bouncer",6,12,200
+"Tristan Stubbs","leg","bouncer",5,3,60
+"Trent Boult","off","yorker",1,1,100
+"Trent Boult","line","yorker",3,5,166.67
+"Trent Boult","off","full",2,2,100
+"Trent Boult","line","full",2,1,50
+"Trent Boult","leg","full",1,1,100
+"Trent Boult","off","length",12,14,116.67
+"Trent Boult","line","length",5,12,240
+"Trent Boult","leg","length",5,6,120
+"Trent Boult","off","back of length",12,12,100
+"Trent Boult","line","back of length",8,4,50
+"Trent Boult","leg","back of length",2,0,0
+"Trent Boult","off","short",2,3,150
+"Trent Boult","line","short",2,2,100
+"Trent Boult","leg","short",1,0,0
+"Trent Boult","off","bouncer",2,1,50
+"Trent Boult","line","bouncer",1,2,200
+"Trent Boult","leg","bouncer",2,6,300
+"Tim Southee","line","yorker",3,2,66.67
+"Tim Southee","leg","yorker",1,0,0
+"Tim Southee","off","length",3,0,0
+"Tim Southee","line","length",1,0,0
+"Tim Southee","leg","length",1,0,0
+"Tim Southee","off","back of length",2,0,0
+"Tim Southee","off","bouncer",1,0,0
+"Tim David","off","yorker",33,47,142.42
+"Tim David","line","yorker",22,32,145.45
+"Tim David","leg","yorker",9,3,33.33
+"Tim David","off","full",37,74,200
+"Tim David","line","full",26,35,134.62
+"Tim David","leg","full",14,16,114.29
+"Tim David","off","length",59,98,166.1
+"Tim David","line","length",54,105,194.44
+"Tim David","leg","length",13,24,184.62
+"Tim David","off","back of length",55,110,200
+"Tim David","line","back of length",46,68,147.83
+"Tim David","leg","back of length",24,44,183.33
+"Tim David","off","short",28,62,221.43
+"Tim David","line","short",28,53,189.29
+"Tim David","leg","short",15,28,186.67
+"Tim David","off","bouncer",6,12,200
+"Tim David","line","bouncer",8,26,325
+"Tim David","leg","bouncer",8,8,100
+"Tim Seifert","off","yorker",1,4,400
+"Tim Seifert","off","full",2,4,200
+"Tim Seifert","line","full",2,0,0
+"Tim Seifert","leg","full",1,0,0
+"Tim Seifert","off","length",1,0,0
+"Tim Seifert","line","length",4,5,125
+"Tim Seifert","leg","length",2,0,0
+"Tim Seifert","off","back of length",2,3,150
+"Tim Seifert","leg","back of length",1,4,400
+"Tim Seifert","off","short",1,0,0
+"Tim Seifert","line","bouncer",2,4,200
+"Travis Head","off","yorker",26,46,176.92
+"Travis Head","line","yorker",24,39,162.5
+"Travis Head","leg","yorker",7,26,371.43
+"Travis Head","off","full",44,76,172.73
+"Travis Head","line","full",43,90,209.3
+"Travis Head","leg","full",15,31,206.67
+"Travis Head","off","length",54,121,224.07
+"Travis Head","line","length",67,135,201.49
+"Travis Head","leg","length",19,30,157.89
+"Travis Head","off","back of length",54,64,118.52
+"Travis Head","line","back of length",55,84,152.73
+"Travis Head","leg","back of length",19,36,189.47
+"Travis Head","off","short",36,52,144.44
+"Travis Head","line","short",26,41,157.69
+"Travis Head","leg","short",18,37,205.56
+"Travis Head","off","bouncer",11,24,218.18
+"Travis Head","line","bouncer",8,8,100
+"Travis Head","leg","bouncer",2,1,50
+"Tymal Mills","leg","full",1,0,0
+"Tymal Mills","leg","length",2,0,0
+"Tushar Deshpande","line","yorker",1,0,0
+"Tushar Deshpande","leg","full",1,0,0
+"Tushar Deshpande","off","length",1,1,100
+"Tushar Deshpande","leg","length",1,1,100
+"Tushar Deshpande","off","back of length",2,0,0
+"Tushar Deshpande","line","back of length",2,2,100
+"Tushar Deshpande","off","short",1,2,200
+"Tushar Deshpande","line","short",1,0,0
+"Tushar Deshpande","line","bouncer",1,1,100
+"Tanush Kotian","line","yorker",1,0,0
+"Tanush Kotian","off","full",3,1,33.33
+"Tanush Kotian","line","full",6,6,100
+"Tanush Kotian","leg","full",1,2,200
+"Tanush Kotian","off","length",4,2,50
+"Tanush Kotian","line","length",3,1,33.33
+"Tanush Kotian","leg","length",1,0,0
+"Tanush Kotian","off","back of length",6,7,116.67
+"Tanush Kotian","line","back of length",3,4,133.33
+"Tanush Kotian","off","short",1,0,0
+"Tanush Kotian","off","bouncer",1,1,100
+"Tanush Kotian","line","bouncer",1,0,0
+"Tilak Varma","off","yorker",58,57,98.28
+"Tilak Varma","line","yorker",40,66,165
+"Tilak Varma","leg","yorker",18,24,133.33
+"Tilak Varma","off","full",75,107,142.67
+"Tilak Varma","line","full",70,104,148.57
+"Tilak Varma","leg","full",16,35,218.75
+"Tilak Varma","off","length",127,195,153.54
+"Tilak Varma","line","length",131,198,151.15
+"Tilak Varma","leg","length",27,29,107.41
+"Tilak Varma","off","back of length",99,150,151.52
+"Tilak Varma","line","back of length",120,185,154.17
+"Tilak Varma","leg","back of length",46,49,106.52
+"Tilak Varma","off","short",58,84,144.83
+"Tilak Varma","line","short",64,90,140.62
+"Tilak Varma","leg","short",26,41,157.69
+"Tilak Varma","off","bouncer",25,29,116
+"Tilak Varma","line","bouncer",24,32,133.33
+"Tilak Varma","leg","bouncer",17,24,141.18
+"Umesh Yadav","off","yorker",2,2,100
+"Umesh Yadav","line","yorker",2,2,100
+"Umesh Yadav","leg","yorker",5,2,40
+"Umesh Yadav","off","full",6,9,150
+"Umesh Yadav","line","full",5,9,180
+"Umesh Yadav","off","length",2,2,100
+"Umesh Yadav","line","length",10,20,200
+"Umesh Yadav","leg","length",2,0,0
+"Umesh Yadav","off","back of length",10,16,160
+"Umesh Yadav","line","back of length",6,7,116.67
+"Umesh Yadav","leg","back of length",5,4,80
+"Umesh Yadav","off","short",6,1,16.67
+"Umesh Yadav","line","short",4,2,50
+"Umesh Yadav","leg","short",3,3,100
+"Umesh Yadav","off","bouncer",1,0,0
+"Umesh Yadav","line","bouncer",3,7,233.33
+"Umesh Yadav","leg","bouncer",1,0,0
+"Umran Malik","leg","yorker",1,0,0
+"Umran Malik","off","full",2,1,50
+"Umran Malik","off","length",2,2,100
+"Umran Malik","line","length",6,12,200
+"Umran Malik","off","back of length",1,2,200
+"Umran Malik","line","back of length",1,0,0
+"Umran Malik","off","short",2,6,300
+"Umran Malik","line","bouncer",1,0,0
+"Urvil Patel","off","yorker",1,3,300
+"Urvil Patel","line","yorker",2,2,100
+"Urvil Patel","off","full",2,1,50
+"Urvil Patel","line","full",2,5,250
+"Urvil Patel","leg","full",1,6,600
+"Urvil Patel","off","length",2,10,500
+"Urvil Patel","line","length",4,9,225
+"Urvil Patel","leg","length",1,6,600
+"Urvil Patel","off","back of length",2,0,0
+"Urvil Patel","line","back of length",7,18,257.14
+"Urvil Patel","off","short",4,1,25
+"Urvil Patel","line","short",3,6,200
+"Urvil Patel","leg","short",1,1,100
+"Virat Kohli","off","yorker",77,103,133.77
+"Virat Kohli","line","yorker",57,62,108.77
+"Virat Kohli","leg","yorker",32,49,153.12
+"Virat Kohli","off","full",145,195,134.48
+"Virat Kohli","line","full",127,216,170.08
+"Virat Kohli","leg","full",48,54,112.5
+"Virat Kohli","off","length",191,277,145.03
+"Virat Kohli","line","length",192,258,134.38
+"Virat Kohli","leg","length",70,113,161.43
+"Virat Kohli","off","back of length",188,244,129.79
+"Virat Kohli","line","back of length",185,289,156.22
+"Virat Kohli","leg","back of length",67,92,137.31
+"Virat Kohli","off","short",77,118,153.25
+"Virat Kohli","line","short",86,111,129.07
+"Virat Kohli","leg","short",48,57,118.75
+"Virat Kohli","off","bouncer",42,50,119.05
+"Virat Kohli","line","bouncer",37,60,162.16
+"Virat Kohli","leg","bouncer",20,30,150
+"V Nigam","off","yorker",5,18,360
+"V Nigam","line","yorker",3,6,200
+"V Nigam","off","full",6,17,283.33
+"V Nigam","line","full",10,23,230
+"V Nigam","leg","full",1,1,100
+"V Nigam","off","length",12,15,125
+"V Nigam","line","length",10,17,170
+"V Nigam","leg","length",4,0,0
+"V Nigam","off","back of length",6,10,166.67
+"V Nigam","line","back of length",2,5,250
+"V Nigam","leg","back of length",3,4,133.33
+"V Nigam","off","short",3,0,0
+"V Nigam","line","short",8,18,225
+"V Nigam","leg","short",4,7,175
+"V Nigam","line","bouncer",1,0,0
+"V Nigam","leg","bouncer",1,1,100
+"Vijay Shankar","off","yorker",20,32,160
+"Vijay Shankar","line","yorker",11,13,118.18
+"Vijay Shankar","leg","yorker",10,18,180
+"Vijay Shankar","off","full",28,44,157.14
+"Vijay Shankar","line","full",30,43,143.33
+"Vijay Shankar","leg","full",10,5,50
+"Vijay Shankar","off","length",45,48,106.67
+"Vijay Shankar","line","length",54,55,101.85
+"Vijay Shankar","leg","length",13,19,146.15
+"Vijay Shankar","off","back of length",44,76,172.73
+"Vijay Shankar","line","back of length",41,51,124.39
+"Vijay Shankar","leg","back of length",12,16,133.33
+"Vijay Shankar","off","short",15,21,140
+"Vijay Shankar","line","short",19,22,115.79
+"Vijay Shankar","leg","short",10,20,200
+"Vijay Shankar","off","bouncer",11,16,145.45
+"Vijay Shankar","line","bouncer",10,18,180
+"Vijay Shankar","leg","bouncer",3,4,133.33
+"V Suryavanshi","off","yorker",3,11,366.67
+"V Suryavanshi","line","yorker",5,2,40
+"V Suryavanshi","leg","yorker",5,10,200
+"V Suryavanshi","off","full",10,20,200
+"V Suryavanshi","line","full",12,18,150
+"V Suryavanshi","leg","full",5,12,240
+"V Suryavanshi","off","length",17,29,170.59
+"V Suryavanshi","line","length",12,15,125
+"V Suryavanshi","leg","length",3,10,333.33
+"V Suryavanshi","off","back of length",21,69,328.57
+"V Suryavanshi","line","back of length",7,17,242.86
+"V Suryavanshi","leg","back of length",2,7,350
+"V Suryavanshi","off","short",7,9,128.57
+"V Suryavanshi","line","short",2,6,300
+"V Suryavanshi","leg","short",1,0,0
+"V Suryavanshi","off","bouncer",6,10,166.67
+"V Suryavanshi","line","bouncer",2,0,0
+"V Suryavanshi","leg","bouncer",2,7,350
+"Vijayakanth Viyaskanth","off","length",1,1,100
+"Vijayakanth Viyaskanth","off","back of length",2,2,100
+"Vijayakanth Viyaskanth","leg","back of length",1,3,300
+"Vijayakanth Viyaskanth","off","short",1,1,100
+"Vaibhav Arora","off","yorker",1,0,0
+"Vaibhav Arora","line","yorker",2,1,50
+"Vaibhav Arora","off","full",1,0,0
+"Vaibhav Arora","leg","full",1,0,0
+"Vaibhav Arora","off","length",5,2,40
+"Vaibhav Arora","line","length",3,2,66.67
+"Vaibhav Arora","leg","length",3,2,66.67
+"Vaibhav Arora","off","back of length",3,2,66.67
+"Vaibhav Arora","line","back of length",1,0,0
+"Vaibhav Arora","leg","back of length",1,0,0
+"Vaibhav Arora","leg","short",1,0,0
+"Vaibhav Arora","off","bouncer",1,0,0
+"Vaibhav Arora","line","bouncer",1,0,0
+"Venkatesh Iyer","off","yorker",34,56,164.71
+"Venkatesh Iyer","line","yorker",31,46,148.39
+"Venkatesh Iyer","leg","yorker",13,21,161.54
+"Venkatesh Iyer","off","full",67,98,146.27
+"Venkatesh Iyer","line","full",60,108,180
+"Venkatesh Iyer","leg","full",12,18,150
+"Venkatesh Iyer","off","length",101,138,136.63
+"Venkatesh Iyer","line","length",105,127,120.95
+"Venkatesh Iyer","leg","length",26,35,134.62
+"Venkatesh Iyer","off","back of length",87,98,112.64
+"Venkatesh Iyer","line","back of length",74,122,164.86
+"Venkatesh Iyer","leg","back of length",28,50,178.57
+"Venkatesh Iyer","off","short",53,70,132.08
+"Venkatesh Iyer","line","short",32,40,125
+"Venkatesh Iyer","leg","short",18,14,77.78
+"Venkatesh Iyer","off","bouncer",17,23,135.29
+"Venkatesh Iyer","line","bouncer",17,24,141.18
+"Venkatesh Iyer","leg","bouncer",8,10,125
+"Vijaykumar Vyshak","line","yorker",1,2,200
+"Vijaykumar Vyshak","line","full",1,1,100
+"Vijaykumar Vyshak","leg","full",2,1,50
+"Vijaykumar Vyshak","off","length",2,1,50
+"Vijaykumar Vyshak","line","length",1,6,600
+"Vijaykumar Vyshak","off","back of length",1,0,0
+"Vijaykumar Vyshak","line","back of length",2,1,50
+"Vijaykumar Vyshak","off","short",1,1,100
+"Vijaykumar Vyshak","line","short",1,1,100
+"Vijaykumar Vyshak","leg","short",1,0,0
+"Vishnu Vinod","off","yorker",1,1,100
+"Vishnu Vinod","line","yorker",2,1,50
+"Vishnu Vinod","leg","yorker",1,0,0
+"Vishnu Vinod","off","full",6,5,83.33
+"Vishnu Vinod","line","full",2,10,500
+"Vishnu Vinod","leg","full",1,1,100
+"Vishnu Vinod","off","length",4,1,25
+"Vishnu Vinod","line","length",4,2,50
+"Vishnu Vinod","leg","length",1,1,100
+"Vishnu Vinod","off","back of length",2,7,350
+"Vishnu Vinod","line","back of length",3,5,166.67
+"Vishnu Vinod","leg","back of length",1,1,100
+"Vishnu Vinod","leg","short",2,2,100
+"Vishnu Vinod","off","bouncer",1,0,0
+"Vivrant Sharma","off","yorker",2,0,0
+"Vivrant Sharma","line","yorker",3,1,33.33
+"Vivrant Sharma","off","full",2,1,50
+"Vivrant Sharma","line","full",4,2,50
+"Vivrant Sharma","leg","full",1,4,400
+"Vivrant Sharma","off","length",5,14,280
+"Vivrant Sharma","line","length",9,19,211.11
+"Vivrant Sharma","leg","length",2,0,0
+"Vivrant Sharma","off","back of length",4,11,275
+"Vivrant Sharma","line","back of length",2,2,100
+"Vivrant Sharma","leg","back of length",1,0,0
+"Vivrant Sharma","off","short",1,0,0
+"Vivrant Sharma","line","short",4,5,125
+"Vivrant Sharma","off","bouncer",2,2,100
+"Vivrant Sharma","line","bouncer",4,7,175
+"Vivrant Sharma","leg","bouncer",1,1,100
+"Wayne Parnell","line","yorker",1,1,100
+"Wayne Parnell","off","length",2,0,0
+"Wayne Parnell","leg","back of length",1,0,0
+"Wayne Parnell","off","bouncer",1,1,100
+"Will Jacks","off","yorker",10,16,160
+"Will Jacks","line","yorker",14,26,185.71
+"Will Jacks","leg","yorker",10,8,80
+"Will Jacks","off","full",20,25,125
+"Will Jacks","line","full",20,26,130
+"Will Jacks","leg","full",12,19,158.33
+"Will Jacks","off","length",23,26,113.04
+"Will Jacks","line","length",39,72,184.62
+"Will Jacks","leg","length",20,21,105
+"Will Jacks","off","back of length",28,38,135.71
+"Will Jacks","line","back of length",25,41,164
+"Will Jacks","leg","back of length",13,27,207.69
+"Will Jacks","off","short",17,33,194.12
+"Will Jacks","line","short",21,35,166.67
+"Will Jacks","leg","short",13,19,146.15
+"Will Jacks","off","bouncer",6,11,183.33
+"Will Jacks","line","bouncer",9,18,200
+"Will Jacks","leg","bouncer",3,2,66.67
+"Wriddhiman Saha","off","yorker",25,31,124
+"Wriddhiman Saha","line","yorker",15,16,106.67
+"Wriddhiman Saha","leg","yorker",9,11,122.22
+"Wriddhiman Saha","off","full",53,54,101.89
+"Wriddhiman Saha","line","full",52,85,163.46
+"Wriddhiman Saha","leg","full",12,10,83.33
+"Wriddhiman Saha","off","length",73,80,109.59
+"Wriddhiman Saha","line","length",82,124,151.22
+"Wriddhiman Saha","leg","length",26,39,150
+"Wriddhiman Saha","off","back of length",78,87,111.54
+"Wriddhiman Saha","line","back of length",76,80,105.26
+"Wriddhiman Saha","leg","back of length",25,24,96
+"Wriddhiman Saha","off","short",39,66,169.23
+"Wriddhiman Saha","line","short",32,27,84.38
+"Wriddhiman Saha","leg","short",18,20,111.11
+"Wriddhiman Saha","off","bouncer",20,22,110
+"Wriddhiman Saha","line","bouncer",19,31,163.16
+"Wriddhiman Saha","leg","bouncer",7,17,242.86
+"Washington Sundar","off","yorker",12,17,141.67
+"Washington Sundar","line","yorker",4,4,100
+"Washington Sundar","leg","yorker",8,18,225
+"Washington Sundar","off","full",12,19,158.33
+"Washington Sundar","line","full",18,20,111.11
+"Washington Sundar","leg","full",8,10,125
+"Washington Sundar","off","length",21,24,114.29
+"Washington Sundar","line","length",25,43,172
+"Washington Sundar","leg","length",5,14,280
+"Washington Sundar","off","back of length",27,33,122.22
+"Washington Sundar","line","back of length",21,26,123.81
+"Washington Sundar","leg","back of length",3,4,133.33
+"Washington Sundar","off","short",6,9,150
+"Washington Sundar","line","short",19,19,100
+"Washington Sundar","leg","short",8,13,162.5
+"Washington Sundar","off","bouncer",4,4,100
+"Washington Sundar","line","bouncer",9,15,166.67
+"Washington Sundar","leg","bouncer",2,2,100
+"Xavier Bartlett","line","yorker",1,1,100
+"Xavier Bartlett","off","full",1,0,0
+"Xavier Bartlett","line","full",4,2,50
+"Xavier Bartlett","line","length",2,1,50
+"Xavier Bartlett","leg","length",1,1,100
+"Xavier Bartlett","off","back of length",1,1,100
+"Xavier Bartlett","line","back of length",1,1,100
+"Xavier Bartlett","off","short",1,0,0
+"Xavier Bartlett","line","short",1,0,0
+"Xavier Bartlett","leg","short",2,4,200
+"Yashasvi Jaiswal","off","yorker",57,99,173.68
+"Yashasvi Jaiswal","line","yorker",58,102,175.86
+"Yashasvi Jaiswal","leg","yorker",10,16,160
+"Yashasvi Jaiswal","off","full",86,120,139.53
+"Yashasvi Jaiswal","line","full",96,134,139.58
+"Yashasvi Jaiswal","leg","full",18,30,166.67
+"Yashasvi Jaiswal","off","length",135,207,153.33
+"Yashasvi Jaiswal","line","length",162,244,150.62
+"Yashasvi Jaiswal","leg","length",42,111,264.29
+"Yashasvi Jaiswal","off","back of length",130,171,131.54
+"Yashasvi Jaiswal","line","back of length",118,178,150.85
+"Yashasvi Jaiswal","leg","back of length",56,102,182.14
+"Yashasvi Jaiswal","off","short",64,94,146.88
+"Yashasvi Jaiswal","line","short",76,123,161.84
+"Yashasvi Jaiswal","leg","short",22,38,172.73
+"Yashasvi Jaiswal","off","bouncer",32,56,175
+"Yashasvi Jaiswal","line","bouncer",40,35,87.5
+"Yashasvi Jaiswal","leg","bouncer",8,17,212.5
+"Yuzvendra Chahal","line","yorker",1,0,0
+"Yuzvendra Chahal","leg","yorker",1,1,100
+"Yuzvendra Chahal","leg","full",1,0,0
+"Yuzvendra Chahal","line","length",2,1,50
+"Yuzvendra Chahal","off","back of length",1,2,200
+"Yuzvendra Chahal","leg","back of length",1,1,100
+"Yuzvendra Chahal","leg","short",1,0,0
+"Yash Dhull","line","yorker",1,0,0
+"Yash Dhull","off","full",3,2,66.67
+"Yash Dhull","line","full",1,0,0
+"Yash Dhull","leg","full",1,1,100
+"Yash Dhull","line","length",2,2,100
+"Yash Dhull","off","back of length",5,5,100
+"Yash Dhull","line","back of length",4,4,100
+"Yash Dhull","leg","back of length",1,0,0
+"Yash Dhull","leg","short",1,0,0
+"Yash Dhull","off","bouncer",1,0,0
+"Yash Dhull","line","bouncer",2,1,50
+"Yash Dhull","leg","bouncer",1,1,100
+"Yash Dayal","off","yorker",1,1,100
+"Yash Dayal","off","full",2,2,100
+"Yash Dayal","off","length",1,0,0
+"Yash Dayal","off","back of length",3,0,0
+"Yash Dayal","leg","back of length",1,0,0
+"Yash Dayal","off","short",1,1,100
+"Yudhvir Singh","off","yorker",2,4,200
+"Yudhvir Singh","line","full",2,7,350
+"Yudhvir Singh","off","length",3,3,100
+"Yudhvir Singh","leg","length",1,0,0
+"Yudhvir Singh","line","back of length",2,1,50
+"Yudhvir Singh","leg","back of length",2,0,0
+"Yudhvir Singh","off","short",1,1,100
+"Yudhvir Singh","line","short",2,0,0
+"Yudhvir Singh","leg","short",1,6,600

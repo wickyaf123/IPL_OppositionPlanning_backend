@@ -1,0 +1,824 @@
+"","Batter_Name","field_zone","n_boundaries"
+"1","Ayush Badoni","Straight (off-side) / long-off",29
+"2","Ayush Badoni","Extra cover",2
+"3","Ayush Badoni","Backward square leg",1
+"4","Ayush Badoni","Square leg",2
+"5","Ayush Badoni","Midwicket",1
+"6","Ayush Badoni","Long-on",1
+"7","Ayush Badoni","Straight (leg-side)",75
+"8","A Kamboj","Straight (leg-side)",2
+"9","Abhinav Manohar","Straight (off-side) / long-off",10
+"10","Abhinav Manohar","Extra cover",2
+"11","Abhinav Manohar","Straight (leg-side)",25
+"12","A Mhatre","Straight (off-side) / long-off",13
+"13","A Mhatre","Straight (leg-side)",29
+"14","Amit Mishra","Straight (off-side) / long-off",1
+"15","Amit Mishra","Straight (leg-side)",1
+"16","Anrich Nortje","Straight (off-side) / long-off",3
+"17","Anrich Nortje","Straight (leg-side)",3
+"18","Angkrish Raghuvanshi","Straight (off-side) / long-off",21
+"19","Angkrish Raghuvanshi","Extra cover",1
+"20","Angkrish Raghuvanshi","Third man",1
+"21","Angkrish Raghuvanshi","Fine leg",1
+"22","Angkrish Raghuvanshi","Straight (leg-side)",38
+"23","Abhijeet Tomar","Straight (leg-side)",1
+"24","AA Kulkarni","Straight (off-side) / long-off",2
+"25","Andre Russell","Straight (off-side) / long-off",42
+"26","Andre Russell","Fine leg",1
+"27","Andre Russell","Backward square leg",1
+"28","Andre Russell","Square leg",1
+"29","Andre Russell","Straight (leg-side)",102
+"30","Aaron Finch","Straight (off-side) / long-off",3
+"31","Aaron Finch","Backward square leg",2
+"32","Aaron Finch","Straight (leg-side)",8
+"33","Akeal Hosein","Straight (leg-side)",2
+"34","Ashton Turner","Straight (off-side) / long-off",1
+"35","Ashton Turner","Straight (leg-side)",1
+"36","Aiden Markram","Straight (off-side) / long-off",51
+"37","Aiden Markram","Extra cover",1
+"38","Aiden Markram","Third man",1
+"39","Aiden Markram","Fine leg",2
+"40","Aiden Markram","Backward square leg",1
+"41","Aiden Markram","Long-on",2
+"42","Aiden Markram","Straight (leg-side)",94
+"43","Ajinkya Rahane","Straight (off-side) / long-off",52
+"44","Ajinkya Rahane","Extra cover",1
+"45","Ajinkya Rahane","Fine leg",1
+"46","Ajinkya Rahane","Backward square leg",1
+"47","Ajinkya Rahane","Long-on",1
+"48","Ajinkya Rahane","Straight (leg-side)",89
+"49","Axar Patel","Straight (off-side) / long-off",35
+"50","Axar Patel","Third man",4
+"51","Axar Patel","Fine leg",2
+"52","Axar Patel","Square leg",1
+"53","Axar Patel","Midwicket",2
+"54","Axar Patel","Long-on",1
+"55","Axar Patel","Straight (leg-side)",80
+"56","Alzarri Joseph","Straight (leg-side)",1
+"57","Anukul Roy","Straight (leg-side)",3
+"58","Ambati Rayudu","Straight (off-side) / long-off",15
+"59","Ambati Rayudu","Long-on",1
+"60","Ambati Rayudu","Straight (leg-side)",43
+"61","Adil Rashid","Straight (leg-side)",3
+"62","Abdul Samad","Straight (off-side) / long-off",27
+"63","Abdul Samad","Third man",1
+"64","Abdul Samad","Long-on",1
+"65","Abdul Samad","Straight (leg-side)",40
+"66","Abhishek Sharma","Straight (off-side) / long-off",75
+"67","Abhishek Sharma","Extra cover",5
+"68","Abhishek Sharma","Third man",2
+"69","Abhishek Sharma","Fine leg",3
+"70","Abhishek Sharma","Backward square leg",2
+"71","Abhishek Sharma","Square leg",2
+"72","Abhishek Sharma","Midwicket",1
+"73","Abhishek Sharma","Long-on",2
+"74","Abhishek Sharma","Straight (leg-side)",154
+"75","Abhishek Porel","Straight (off-side) / long-off",32
+"76","Abhishek Porel","Fine leg",3
+"77","Abhishek Porel","Midwicket",1
+"78","Abhishek Porel","Straight (leg-side)",56
+"79","Akash Deep","Straight (off-side) / long-off",2
+"80","Akash Deep","Straight (leg-side)",2
+"81","Aman Hakim Khan","Straight (off-side) / long-off",6
+"82","Aman Hakim Khan","Straight (leg-side)",8
+"83","Aniket Verma","Straight (off-side) / long-off",11
+"84","Aniket Verma","Extra cover",1
+"85","Aniket Verma","Straight (leg-side)",20
+"86","Anmolpreet Singh","Straight (off-side) / long-off",6
+"87","Anmolpreet Singh","Third man",1
+"88","Anmolpreet Singh","Midwicket",1
+"89","Anmolpreet Singh","Straight (leg-side)",11
+"90","Anuj Rawat","Straight (off-side) / long-off",14
+"91","Anuj Rawat","Long-on",1
+"92","Anuj Rawat","Straight (leg-side)",25
+"93","Arjun Tendulkar","Straight (off-side) / long-off",1
+"94","Arshad Khan","Straight (off-side) / long-off",4
+"95","Arshad Khan","Straight (leg-side)",10
+"96","Arshad Khan (2)","Straight (off-side) / long-off",1
+"97","Arshdeep Singh","Straight (off-side) / long-off",1
+"98","Arshdeep Singh","Straight (leg-side)",3
+"99","Ashutosh Sharma","Straight (off-side) / long-off",16
+"100","Ashutosh Sharma","Fine leg",1
+"101","Ashutosh Sharma","Backward square leg",1
+"102","Ashutosh Sharma","Midwicket",1
+"103","Ashutosh Sharma","Long-on",1
+"104","Ashutosh Sharma","Straight (leg-side)",32
+"105","Atharva Taide","Straight (off-side) / long-off",13
+"106","Atharva Taide","Midwicket",1
+"107","Atharva Taide","Straight (leg-side)",24
+"108","Avesh Khan","Straight (off-side) / long-off",1
+"109","Avesh Khan","Third man",1
+"110","Avesh Khan","Straight (leg-side)",6
+"111","Azmatullah Omarzai","Straight (off-side) / long-off",7
+"112","Azmatullah Omarzai","Straight (leg-side)",6
+"113","Baba Indrajith","Straight (off-side) / long-off",1
+"114","Baba Indrajith","Straight (leg-side)",1
+"115","Bhuvneshwar Kumar","Straight (off-side) / long-off",4
+"116","Bhuvneshwar Kumar","Long-on",1
+"117","Bhuvneshwar Kumar","Straight (leg-side)",6
+"118","Sai Sudharsan","Straight (off-side) / long-off",81
+"119","Sai Sudharsan","Extra cover",1
+"120","Sai Sudharsan","Third man",3
+"121","Sai Sudharsan","Fine leg",2
+"122","Sai Sudharsan","Long-on",2
+"123","Sai Sudharsan","Straight (leg-side)",147
+"124","Ben Stokes","Straight (off-side) / long-off",2
+"125","Kusal Mendis","Straight (leg-side)",3
+"126","Corbin Bosch","Straight (off-side) / long-off",2
+"127","Corbin Bosch","Extra cover",1
+"128","Corbin Bosch","Straight (leg-side)",3
+"129","Cameron Green","Straight (off-side) / long-off",35
+"130","Cameron Green","Third man",2
+"131","Cameron Green","Backward square leg",1
+"132","Cameron Green","Midwicket",2
+"133","Cameron Green","Straight (leg-side)",54
+"134","Chetan Sakariya","Straight (off-side) / long-off",1
+"135","Varun Chakravarthy","Straight (leg-side)",2
+"136","Dewald Brevis","Straight (off-side) / long-off",23
+"137","Dewald Brevis","Extra cover",2
+"138","Dewald Brevis","Fine leg",1
+"139","Dewald Brevis","Straight (leg-side)",37
+"140","Devdutt Padikkal","Straight (off-side) / long-off",50
+"141","Devdutt Padikkal","Extra cover",1
+"142","Devdutt Padikkal","Third man",1
+"143","Devdutt Padikkal","Long-on",3
+"144","Devdutt Padikkal","Straight (leg-side)",76
+"145","Dwaine Pretorius","Straight (off-side) / long-off",2
+"146","Dwaine Pretorius","Straight (leg-side)",4
+"147","David Wiese","Straight (leg-side)",3
+"148","David Miller","Straight (off-side) / long-off",47
+"149","David Miller","Extra cover",2
+"150","David Miller","Fine leg",2
+"151","David Miller","Backward square leg",1
+"152","David Miller","Midwicket",1
+"153","David Miller","Straight (leg-side)",78
+"154","David Warner","Straight (off-side) / long-off",58
+"155","David Warner","Third man",1
+"156","David Warner","Straight (leg-side)",114
+"157","Darshan Nalkande","Straight (leg-side)",1
+"158","Dwayne Bravo","Straight (off-side) / long-off",1
+"159","Dwayne Bravo","Straight (leg-side)",1
+"160","Deepak Hooda","Straight (off-side) / long-off",23
+"161","Deepak Hooda","Third man",2
+"162","Deepak Hooda","Fine leg",1
+"163","Deepak Hooda","Backward square leg",1
+"164","Deepak Hooda","Long-on",1
+"165","Deepak Hooda","Straight (leg-side)",53
+"166","Daryl Mitchell","Straight (off-side) / long-off",9
+"167","Daryl Mitchell","Extra cover",1
+"168","Daryl Mitchell","Straight (leg-side)",28
+"169","David Willey","Straight (off-side) / long-off",4
+"170","David Willey","Straight (leg-side)",3
+"171","Deepak Chahar","Straight (off-side) / long-off",1
+"172","Deepak Chahar","Square leg",1
+"173","Deepak Chahar","Straight (leg-side)",3
+"174","Devon Conway","Straight (off-side) / long-off",52
+"175","Devon Conway","Extra cover",1
+"176","Devon Conway","Fine leg",1
+"177","Devon Conway","Backward square leg",1
+"178","Devon Conway","Midwicket",2
+"179","Devon Conway","Straight (leg-side)",94
+"180","Daniel Sams","Straight (off-side) / long-off",1
+"181","Daniel Sams","Straight (leg-side)",3
+"182","Dhruv Jurel","Straight (off-side) / long-off",34
+"183","Dhruv Jurel","Third man",2
+"184","Dhruv Jurel","Backward square leg",1
+"185","Dhruv Jurel","Long-on",2
+"186","Dhruv Jurel","Straight (leg-side)",50
+"187","Evin Lewis","Straight (off-side) / long-off",2
+"188","Evin Lewis","Straight (leg-side)",9
+"189","Faf du Plessis","Straight (off-side) / long-off",75
+"190","Faf du Plessis","Extra cover",1
+"191","Faf du Plessis","Cover",1
+"192","Faf du Plessis","Third man",2
+"193","Faf du Plessis","Fine leg",3
+"194","Faf du Plessis","Square leg",1
+"195","Faf du Plessis","Midwicket",1
+"196","Faf du Plessis","Long-on",1
+"197","Faf du Plessis","Straight (leg-side)",167
+"198","Fabian Allen","Straight (leg-side)",1
+"199","Gerald Coetzee","Straight (leg-side)",4
+"200","Glenn Phillips","Straight (leg-side)",6
+"201","Glenn Maxwell","Straight (off-side) / long-off",47
+"202","Glenn Maxwell","Cover",1
+"203","Glenn Maxwell","Third man",2
+"204","Glenn Maxwell","Fine leg",1
+"205","Glenn Maxwell","Long-on",2
+"206","Glenn Maxwell","Straight (leg-side)",67
+"207","Gulbadin Naib","Long-on",1
+"208","Gulbadin Naib","Straight (leg-side)",1
+"209","Heinrich Klaasen","Straight (off-side) / long-off",53
+"210","Heinrich Klaasen","Extra cover",2
+"211","Heinrich Klaasen","Third man",3
+"212","Heinrich Klaasen","Backward square leg",1
+"213","Heinrich Klaasen","Midwicket",1
+"214","Heinrich Klaasen","Straight (leg-side)",121
+"215","Harry Brook","Straight (off-side) / long-off",6
+"216","Harry Brook","Fine leg",1
+"217","Harry Brook","Straight (leg-side)",20
+"218","Rassie van der Dussen","Straight (off-side) / long-off",2
+"219","Hardik Pandya","Straight (off-side) / long-off",57
+"220","Hardik Pandya","Cover",2
+"221","Hardik Pandya","Third man",1
+"222","Hardik Pandya","Backward square leg",1
+"223","Hardik Pandya","Long-on",1
+"224","Hardik Pandya","Straight (leg-side)",99
+"225","Hrithik Shokeen","Straight (off-side) / long-off",4
+"226","Hrithik Shokeen","Straight (leg-side)",5
+"227","Harshal Patel","Straight (off-side) / long-off",1
+"228","Harshal Patel","Straight (leg-side)",8
+"229","Harpreet Brar","Straight (off-side) / long-off",7
+"230","Harpreet Brar","Extra cover",1
+"231","Harpreet Brar","Long-on",1
+"232","Harpreet Brar","Straight (leg-side)",12
+"233","Harpreet Singh","Straight (off-side) / long-off",4
+"234","Harpreet Singh","Straight (leg-side)",9
+"235","Harshit Rana","Straight (off-side) / long-off",2
+"236","Harshit Rana","Straight (leg-side)",6
+"237","Ishan Kishan","Straight (off-side) / long-off",83
+"238","Ishan Kishan","Third man",1
+"239","Ishan Kishan","Fine leg",1
+"240","Ishan Kishan","Square leg",2
+"241","Ishan Kishan","Long-on",1
+"242","Ishan Kishan","Straight (leg-side)",139
+"243","Jake Fraser-McGurk","Straight (off-side) / long-off",21
+"244","Jake Fraser-McGurk","Straight (leg-side)",48
+"245","Jamie Overton","Straight (off-side) / long-off",1
+"246","Jamie Overton","Straight (leg-side)",1
+"247","Jofra Archer","Straight (off-side) / long-off",1
+"248","Jofra Archer","Extra cover",2
+"249","Jofra Archer","Straight (leg-side)",4
+"250","Jos Buttler","Straight (off-side) / long-off",102
+"251","Jos Buttler","Extra cover",2
+"252","Jos Buttler","Third man",5
+"253","Jos Buttler","Fine leg",5
+"254","Jos Buttler","Backward square leg",1
+"255","Jos Buttler","Long-on",1
+"256","Jos Buttler","Straight (leg-side)",193
+"257","Jaydev Unadkat","Straight (off-side) / long-off",3
+"258","Jaydev Unadkat","Straight (leg-side)",8
+"259","James Neesham","Straight (off-side) / long-off",1
+"260","James Neesham","Straight (leg-side)",2
+"261","Joe Root","Straight (leg-side)",1
+"262","Jacob Bethell","Straight (off-side) / long-off",7
+"263","Jacob Bethell","Straight (leg-side)",5
+"264","Jasprit Bumrah","Straight (off-side) / long-off",1
+"265","Jason Roy","Straight (off-side) / long-off",22
+"266","Jason Roy","Backward square leg",1
+"267","Jason Roy","Straight (leg-side)",25
+"268","Jonny Bairstow","Straight (off-side) / long-off",32
+"269","Jonny Bairstow","Extra cover",1
+"270","Jonny Bairstow","Fine leg",1
+"271","Jonny Bairstow","Midwicket",2
+"272","Jonny Bairstow","Straight (leg-side)",66
+"273","Jitesh Sharma","Straight (off-side) / long-off",47
+"274","Jitesh Sharma","Third man",3
+"275","Jitesh Sharma","Fine leg",1
+"276","Jitesh Sharma","Straight (leg-side)",88
+"277","Jason Holder","Straight (off-side) / long-off",2
+"278","Jason Holder","Straight (leg-side)",7
+"279","Josh Inglis","Straight (off-side) / long-off",14
+"280","Josh Inglis","Straight (leg-side)",28
+"281","Josh Hazlewood","Straight (leg-side)",1
+"282","Krishnappa Gowtham","Straight (off-side) / long-off",2
+"283","Krishnappa Gowtham","Midwicket",1
+"284","Krishnappa Gowtham","Straight (leg-side)",4
+"285","Kumar Kartikeya","Straight (leg-side)",1
+"286","Kagiso Rabada","Straight (off-side) / long-off",1
+"287","Kagiso Rabada","Extra cover",1
+"288","Kagiso Rabada","Long-on",1
+"289","Kagiso Rabada","Straight (leg-side)",7
+"290","Kieron Pollard","Straight (off-side) / long-off",4
+"291","Kieron Pollard","Straight (leg-side)",11
+"292","Dinesh Karthik","Straight (off-side) / long-off",39
+"293","Dinesh Karthik","Extra cover",1
+"294","Dinesh Karthik","Third man",1
+"295","Dinesh Karthik","Fine leg",2
+"296","Dinesh Karthik","Backward square leg",1
+"297","Dinesh Karthik","Square leg",1
+"298","Dinesh Karthik","Long-on",1
+"299","Dinesh Karthik","Straight (leg-side)",70
+"300","Krunal Pandya","Straight (off-side) / long-off",16
+"301","Krunal Pandya","Third man",1
+"302","Krunal Pandya","Fine leg",1
+"303","Krunal Pandya","Long-on",1
+"304","Krunal Pandya","Straight (leg-side)",48
+"305","Karun Nair","Straight (off-side) / long-off",11
+"306","Karun Nair","Straight (leg-side)",24
+"307","KL Rahul","Straight (off-side) / long-off",88
+"308","KL Rahul","Extra cover",3
+"309","KL Rahul","Third man",3
+"310","KL Rahul","Long-on",1
+"311","KL Rahul","Straight (leg-side)",150
+"312","Kedar Jadhav","Long-on",1
+"313","Kyle Mayers","Straight (off-side) / long-off",24
+"314","Kyle Mayers","Extra cover",2
+"315","Kyle Mayers","Long-on",1
+"316","Kyle Mayers","Straight (leg-side)",33
+"317","K Srikar Bharat","Straight (off-side) / long-off",1
+"318","K Srikar Bharat","Backward square leg",1
+"319","Karan Sharma","Straight (leg-side)",1
+"320","Kane Williamson","Straight (off-side) / long-off",6
+"321","Kane Williamson","Fine leg",1
+"322","Kane Williamson","Long-on",1
+"323","Kane Williamson","Straight (leg-side)",20
+"324","Kwena Maphaka","Straight (off-side) / long-off",1
+"325","Kwena Maphaka","Straight (leg-side)",1
+"326","Karn Sharma","Straight (off-side) / long-off",3
+"327","Karn Sharma","Straight (leg-side)",2
+"328","Kartik Tyagi","Straight (off-side) / long-off",1
+"329","Kuldeep Yadav","Straight (off-side) / long-off",4
+"330","Kuldeep Yadav","Straight (leg-side)",12
+"331","Luke Wood","Straight (leg-side)",1
+"332","Lockie Ferguson","Straight (off-side) / long-off",1
+"333","Lockie Ferguson","Straight (leg-side)",1
+"334","Liam Livingstone","Straight (off-side) / long-off",38
+"335","Liam Livingstone","Extra cover",1
+"336","Liam Livingstone","Fine leg",1
+"337","Liam Livingstone","Square leg",1
+"338","Liam Livingstone","Long-on",1
+"339","Liam Livingstone","Straight (leg-side)",88
+"340","Lalit Yadav","Straight (off-side) / long-off",7
+"341","Lalit Yadav","Third man",1
+"342","Lalit Yadav","Straight (leg-side)",19
+"343","Liton Das","Straight (leg-side)",1
+"344","Murugan Ashwin","Straight (leg-side)",2
+"345","Marco Jansen","Straight (off-side) / long-off",6
+"346","Marco Jansen","Fine leg",1
+"347","Marco Jansen","Straight (leg-side)",7
+"348","Mayank Markande","Straight (off-side) / long-off",2
+"349","Mayank Markande","Straight (leg-side)",1
+"350","Shahrukh Khan","Straight (off-side) / long-off",24
+"351","Shahrukh Khan","Extra cover",1
+"352","Shahrukh Khan","Third man",2
+"353","Shahrukh Khan","Long-on",1
+"354","Shahrukh Khan","Straight (leg-side)",49
+"355","Maheesh Theekshana","Long-on",1
+"356","Manan Vohra","Straight (leg-side)",4
+"357","Mayank Agarwal","Straight (off-side) / long-off",31
+"358","Mayank Agarwal","Fine leg",1
+"359","Mayank Agarwal","Long-on",1
+"360","Mayank Agarwal","Straight (leg-side)",52
+"361","Mitchell Starc","Straight (leg-side)",1
+"362","Mark Wood","Straight (off-side) / long-off",1
+"363","Mark Wood","Straight (leg-side)",1
+"364","Dasun Shanaka","Straight (off-side) / long-off",2
+"365","Dasun Shanaka","Straight (leg-side)",1
+"366","Michael Bracewell","Straight (off-side) / long-off",1
+"367","Michael Bracewell","Straight (leg-side)",6
+"368","Mitchell Santner","Straight (off-side) / long-off",4
+"369","Mitchell Santner","Long-on",1
+"370","Mitchell Santner","Straight (leg-side)",4
+"371","Mahipal Lomror","Straight (off-side) / long-off",18
+"372","Mahipal Lomror","Extra cover",1
+"373","Mahipal Lomror","Straight (leg-side)",27
+"374","Manish Pandey","Straight (off-side) / long-off",14
+"375","Manish Pandey","Backward square leg",1
+"376","Manish Pandey","Straight (leg-side)",28
+"377","Moeen Ali","Straight (off-side) / long-off",20
+"378","Moeen Ali","Third man",1
+"379","Moeen Ali","Fine leg",2
+"380","Moeen Ali","Square leg",1
+"381","Moeen Ali","Long-on",1
+"382","Moeen Ali","Straight (leg-side)",43
+"383","Matthew Breetzke","Straight (leg-side)",2
+"384","Marcus Stoinis","Straight (off-side) / long-off",54
+"385","Marcus Stoinis","Extra cover",3
+"386","Marcus Stoinis","Third man",1
+"387","Marcus Stoinis","Fine leg",1
+"388","Marcus Stoinis","Square leg",1
+"389","Marcus Stoinis","Long-on",1
+"390","Marcus Stoinis","Straight (leg-side)",92
+"391","Mitchell Marsh","Straight (off-side) / long-off",50
+"392","Mitchell Marsh","Third man",2
+"393","Mitchell Marsh","Fine leg",1
+"394","Mitchell Marsh","Midwicket",1
+"395","Mitchell Marsh","Long-on",3
+"396","Mitchell Marsh","Straight (leg-side)",99
+"397","Mahendra Singh Dhoni","Straight (off-side) / long-off",33
+"398","Mahendra Singh Dhoni","Extra cover",2
+"399","Mahendra Singh Dhoni","Third man",1
+"400","Mahendra Singh Dhoni","Fine leg",1
+"401","Mahendra Singh Dhoni","Straight (leg-side)",58
+"402","Matthew Wade","Straight (off-side) / long-off",12
+"403","Matthew Wade","Straight (leg-side)",13
+"404","Matt Short","Straight (leg-side)",19
+"405","Mandeep Singh","Straight (off-side) / long-off",2
+"406","Mandeep Singh","Cover",1
+"407","Mandeep Singh","Straight (leg-side)",2
+"408","Mohammad Nabi","Straight (off-side) / long-off",2
+"409","Mohammad Nabi","Straight (leg-side)",2
+"410","Mohammed Shami","Straight (off-side) / long-off",1
+"411","Mohammed Shami","Straight (leg-side)",1
+"412","Mohammed Siraj","Straight (off-side) / long-off",5
+"413","Mohammed Siraj","Straight (leg-side)",2
+"414","Mohsin Khan","Straight (off-side) / long-off",1
+"415","Mohsin Khan","Straight (leg-side)",2
+"416","Mukesh Choudhary","Straight (off-side) / long-off",1
+"417","Narayan Jagadeesan","Straight (off-side) / long-off",9
+"418","Narayan Jagadeesan","Fine leg",2
+"419","Narayan Jagadeesan","Straight (leg-side)",8
+"420","Nicholas Pooran","Straight (off-side) / long-off",76
+"421","Nicholas Pooran","Extra cover",2
+"422","Nicholas Pooran","Third man",1
+"423","Nicholas Pooran","Fine leg",2
+"424","Nicholas Pooran","Backward square leg",1
+"425","Nicholas Pooran","Square leg",1
+"426","Nicholas Pooran","Long-on",2
+"427","Nicholas Pooran","Straight (leg-side)",160
+"428","Nitish Rana","Straight (off-side) / long-off",49
+"429","Nitish Rana","Extra cover",1
+"430","Nitish Rana","Third man",1
+"431","Nitish Rana","Fine leg",2
+"432","Nitish Rana","Backward square leg",1
+"433","Nitish Rana","Square leg",1
+"434","Nitish Rana","Long-on",2
+"435","Nitish Rana","Straight (leg-side)",95
+"436","Nehal Wadhera","Straight (off-side) / long-off",34
+"437","Nehal Wadhera","Extra cover",2
+"438","Nehal Wadhera","Fine leg",1
+"439","Nehal Wadhera","Straight (leg-side)",62
+"440","Naman Dhir","Straight (off-side) / long-off",19
+"441","Naman Dhir","Fine leg",1
+"442","Naman Dhir","Backward square leg",1
+"443","Naman Dhir","Square leg",1
+"444","Naman Dhir","Straight (leg-side)",38
+"445","Naveen-ul-Haq","Straight (off-side) / long-off",1
+"446","Naveen-ul-Haq","Straight (leg-side)",1
+"447","Nitish Kumar Reddy","Straight (off-side) / long-off",12
+"448","Nitish Kumar Reddy","Backward square leg",2
+"449","Nitish Kumar Reddy","Straight (leg-side)",42
+"450","Noor Ahmad","Straight (off-side) / long-off",1
+"451","Noor Ahmad","Straight (leg-side)",1
+"452","Obed McCoy","Straight (leg-side)",1
+"453","Odean Smith","Straight (off-side) / long-off",2
+"454","Odean Smith","Straight (leg-side)",4
+"455","Praveen Dubey","Straight (leg-side)",2
+"456","Prabhsimran Singh","Straight (off-side) / long-off",71
+"457","Prabhsimran Singh","Extra cover",1
+"458","Prabhsimran Singh","Third man",2
+"459","Prabhsimran Singh","Fine leg",1
+"460","Prabhsimran Singh","Backward square leg",1
+"461","Prabhsimran Singh","Long-on",3
+"462","Prabhsimran Singh","Straight (leg-side)",127
+"463","Bhanuka Rajapaksa","Straight (off-side) / long-off",9
+"464","Bhanuka Rajapaksa","Extra cover",1
+"465","Bhanuka Rajapaksa","Third man",1
+"466","Bhanuka Rajapaksa","Backward square leg",1
+"467","Bhanuka Rajapaksa","Midwicket",1
+"468","Bhanuka Rajapaksa","Straight (leg-side)",24
+"469","Phil Salt","Straight (off-side) / long-off",62
+"470","Phil Salt","Extra cover",2
+"471","Phil Salt","Fine leg",1
+"472","Phil Salt","Backward square leg",1
+"473","Phil Salt","Midwicket",1
+"474","Phil Salt","Long-on",2
+"475","Phil Salt","Straight (leg-side)",109
+"476","PHKD Mendis","Straight (off-side) / long-off",1
+"477","PHKD Mendis","Straight (leg-side)",8
+"478","Pat Cummins","Straight (off-side) / long-off",12
+"479","Pat Cummins","Third man",1
+"480","Pat Cummins","Straight (leg-side)",28
+"481","Priyam Garg","Straight (off-side) / long-off",1
+"482","Priyam Garg","Straight (leg-side)",6
+"483","Prerak Mankad","Straight (off-side) / long-off",4
+"484","Prerak Mankad","Fine leg",1
+"485","Prerak Mankad","Long-on",1
+"486","Prerak Mankad","Straight (leg-side)",9
+"487","Piyush Chawla","Straight (off-side) / long-off",1
+"488","Piyush Chawla","Straight (leg-side)",3
+"489","Prithvi Shaw","Straight (off-side) / long-off",34
+"490","Prithvi Shaw","Third man",1
+"491","Prithvi Shaw","Backward square leg",1
+"492","Prithvi Shaw","Midwicket",1
+"493","Prithvi Shaw","Long-on",1
+"494","Prithvi Shaw","Straight (leg-side)",61
+"495","Dushmantha Chameera","Straight (off-side) / long-off",1
+"496","Dushmantha Chameera","Straight (leg-side)",5
+"497","Wiaan Mulder","Straight (leg-side)",1
+"498","Wanindu Hasaranga","Straight (off-side) / long-off",3
+"499","Wanindu Hasaranga","Straight (leg-side)",5
+"500","Priyansh Arya","Straight (off-side) / long-off",31
+"501","Priyansh Arya","Third man",1
+"502","Priyansh Arya","Fine leg",3
+"503","Priyansh Arya","Midwicket",1
+"504","Priyansh Arya","Long-on",1
+"505","Priyansh Arya","Straight (leg-side)",54
+"506","Quinton de Kock","Straight (off-side) / long-off",46
+"507","Quinton de Kock","Extra cover",2
+"508","Quinton de Kock","Third man",1
+"509","Quinton de Kock","Fine leg",2
+"510","Quinton de Kock","Long-on",2
+"511","Quinton de Kock","Straight (leg-side)",93
+"512","Ravichandran Ashwin","Straight (off-side) / long-off",17
+"513","Ravichandran Ashwin","Extra cover",1
+"514","Ravichandran Ashwin","Third man",1
+"515","Ravichandran Ashwin","Straight (leg-side)",25
+"516","Rishi Dhawan","Straight (off-side) / long-off",3
+"517","Rishi Dhawan","Straight (leg-side)",5
+"518","Riyan Parag","Straight (off-side) / long-off",52
+"519","Riyan Parag","Extra cover",3
+"520","Riyan Parag","Backward square leg",1
+"521","Riyan Parag","Square leg",1
+"522","Riyan Parag","Long-on",2
+"523","Riyan Parag","Straight (leg-side)",99
+"524","Rovman Powell","Straight (off-side) / long-off",10
+"525","Rovman Powell","Third man",1
+"526","Rovman Powell","Square leg",1
+"527","Rovman Powell","Long-on",1
+"528","Rovman Powell","Straight (leg-side)",37
+"529","Rachin Ravindra","Straight (off-side) / long-off",18
+"530","Rachin Ravindra","Third man",1
+"531","Rachin Ravindra","Straight (leg-side)",37
+"532","R Sai Kishore","Straight (leg-side)",2
+"533","Romario Shepherd","Straight (off-side) / long-off",8
+"534","Romario Shepherd","Fine leg",1
+"535","Romario Shepherd","Straight (leg-side)",20
+"536","Rahul Tewatia","Straight (off-side) / long-off",25
+"537","Rahul Tewatia","Extra cover",1
+"538","Rahul Tewatia","Fine leg",1
+"539","Rahul Tewatia","Midwicket",1
+"540","Rahul Tewatia","Straight (leg-side)",55
+"541","Raj Bawa","Straight (leg-side)",1
+"542","Ravindra Jadeja","Straight (off-side) / long-off",34
+"543","Ravindra Jadeja","Extra cover",4
+"544","Ravindra Jadeja","Third man",1
+"545","Ravindra Jadeja","Straight (leg-side)",57
+"546","Rahul Tripathi","Straight (off-side) / long-off",47
+"547","Rahul Tripathi","Extra cover",2
+"548","Rahul Tripathi","Third man",1
+"549","Rahul Tripathi","Fine leg",1
+"550","Rahul Tripathi","Backward square leg",1
+"551","Rahul Tripathi","Long-on",1
+"552","Rahul Tripathi","Straight (leg-side)",77
+"553","Rahul Chahar","Straight (off-side) / long-off",6
+"554","Rahul Chahar","Third man",2
+"555","Rahul Chahar","Straight (leg-side)",7
+"556","Ruturaj Gaikwad","Straight (off-side) / long-off",77
+"557","Ruturaj Gaikwad","Extra cover",1
+"558","Ruturaj Gaikwad","Third man",4
+"559","Ruturaj Gaikwad","Long-on",2
+"560","Ruturaj Gaikwad","Straight (leg-side)",133
+"561","Ryan Rickelton","Straight (off-side) / long-off",15
+"562","Ryan Rickelton","Extra cover",1
+"563","Ryan Rickelton","Third man",2
+"564","Ryan Rickelton","Backward square leg",2
+"565","Ryan Rickelton","Straight (leg-side)",44
+"566","Rohit Sharma","Straight (off-side) / long-off",71
+"567","Rohit Sharma","Extra cover",2
+"568","Rohit Sharma","Third man",3
+"569","Rohit Sharma","Backward square leg",1
+"570","Rohit Sharma","Square leg",1
+"571","Rohit Sharma","Long-on",2
+"572","Rohit Sharma","Straight (leg-side)",144
+"573","Rinku Singh","Straight (off-side) / long-off",45
+"574","Rinku Singh","Extra cover",1
+"575","Rinku Singh","Third man",1
+"576","Rinku Singh","Fine leg",2
+"577","Rinku Singh","Backward square leg",1
+"578","Rinku Singh","Square leg",1
+"579","Rinku Singh","Straight (leg-side)",84
+"580","Rajat Patidar","Straight (off-side) / long-off",42
+"581","Rajat Patidar","Third man",3
+"582","Rajat Patidar","Fine leg",1
+"583","Rajat Patidar","Straight (leg-side)",92
+"584","Rishabh Pant","Straight (off-side) / long-off",48
+"585","Rishabh Pant","Extra cover",2
+"586","Rishabh Pant","Backward square leg",2
+"587","Rishabh Pant","Midwicket",1
+"588","Rishabh Pant","Long-on",4
+"589","Rishabh Pant","Straight (leg-side)",94
+"590","Rilee Rossouw","Straight (off-side) / long-off",23
+"591","Rilee Rossouw","Third man",2
+"592","Rilee Rossouw","Midwicket",1
+"593","Rilee Rossouw","Long-on",1
+"594","Rilee Rossouw","Straight (leg-side)",37
+"595","Ripal Patel","Straight (off-side) / long-off",1
+"596","Ripal Patel","Straight (leg-side)",4
+"597","Robin Uthappa","Straight (off-side) / long-off",9
+"598","Robin Uthappa","Backward square leg",1
+"599","Robin Uthappa","Straight (leg-side)",23
+"600","Rahmanullah Gurbaz","Straight (off-side) / long-off",14
+"601","Rahmanullah Gurbaz","Square leg",1
+"602","Rahmanullah Gurbaz","Straight (leg-side)",41
+"603","Ramandeep Singh","Straight (off-side) / long-off",6
+"604","Ramandeep Singh","Fine leg",1
+"605","Ramandeep Singh","Straight (leg-side)",19
+"606","Rashid Khan","Straight (off-side) / long-off",19
+"607","Rashid Khan","Extra cover",1
+"608","Rashid Khan","Straight (leg-side)",32
+"609","Rasikh Salam","Straight (off-side) / long-off",2
+"610","Rasikh Salam","Straight (leg-side)",3
+"611","Ravi Bishnoi","Straight (off-side) / long-off",1
+"612","Ravi Bishnoi","Extra cover",1
+"613","Ravi Bishnoi","Straight (leg-side)",1
+"614","Shikhar Dhawan","Straight (off-side) / long-off",49
+"615","Shikhar Dhawan","Fine leg",1
+"616","Shikhar Dhawan","Square leg",1
+"617","Shikhar Dhawan","Midwicket",1
+"618","Shikhar Dhawan","Straight (leg-side)",90
+"619","Shivam Dube","Straight (off-side) / long-off",57
+"620","Shivam Dube","Third man",1
+"621","Shivam Dube","Fine leg",2
+"622","Shivam Dube","Long-on",2
+"623","Shivam Dube","Straight (leg-side)",122
+"624","Shreyas Gopal","Straight (off-side) / long-off",1
+"625","Shreyas Gopal","Midwicket",1
+"626","Sean Abbott","Straight (leg-side)",1
+"627","Suryakumar Yadav","Straight (off-side) / long-off",111
+"628","Suryakumar Yadav","Extra cover",1
+"629","Suryakumar Yadav","Third man",3
+"630","Suryakumar Yadav","Fine leg",2
+"631","Suryakumar Yadav","Square leg",2
+"632","Suryakumar Yadav","Midwicket",2
+"633","Suryakumar Yadav","Long-on",1
+"634","Suryakumar Yadav","Straight (leg-side)",171
+"635","Shubham Dubey","Straight (off-side) / long-off",5
+"636","Shubham Dubey","Straight (leg-side)",14
+"637","Shai Hope","Straight (off-side) / long-off",8
+"638","Shai Hope","Extra cover",1
+"639","Shai Hope","Third man",1
+"640","Shai Hope","Straight (leg-side)",14
+"641","Sherfane Rutherford","Straight (off-side) / long-off",19
+"642","Sherfane Rutherford","Midwicket",1
+"643","Sherfane Rutherford","Straight (leg-side)",22
+"644","Spencer Johnson","Straight (off-side) / long-off",1
+"645","SK Rasheed","Straight (off-side) / long-off",5
+"646","SK Rasheed","Straight (leg-side)",6
+"647","Sam Curran","Straight (off-side) / long-off",24
+"648","Sam Curran","Backward square leg",1
+"649","Sam Curran","Square leg",1
+"650","Sam Curran","Straight (leg-side)",52
+"651","Sarfaraz Khan","Straight (off-side) / long-off",4
+"652","Sarfaraz Khan","Fine leg",1
+"653","Sarfaraz Khan","Square leg",1
+"654","Sarfaraz Khan","Long-on",1
+"655","Sarfaraz Khan","Straight (leg-side)",9
+"656","Shardul Thakur","Straight (off-side) / long-off",16
+"657","Shardul Thakur","Third man",1
+"658","Shardul Thakur","Fine leg",1
+"659","Shardul Thakur","Square leg",1
+"660","Shardul Thakur","Straight (leg-side)",18
+"661","Shimron Hetmyer","Straight (off-side) / long-off",45
+"662","Shimron Hetmyer","Extra cover",3
+"663","Shimron Hetmyer","Fine leg",2
+"664","Shimron Hetmyer","Midwicket",1
+"665","Shimron Hetmyer","Long-on",1
+"666","Shimron Hetmyer","Straight (leg-side)",70
+"667","Sheldon Jackson","Straight (off-side) / long-off",1
+"668","Sunil Narine","Straight (off-side) / long-off",55
+"669","Sunil Narine","Fine leg",1
+"670","Sunil Narine","Square leg",1
+"671","Sunil Narine","Long-on",1
+"672","Sunil Narine","Straight (leg-side)",84
+"673","Shreyas Iyer","Straight (off-side) / long-off",56
+"674","Shreyas Iyer","Third man",3
+"675","Shreyas Iyer","Fine leg",1
+"676","Shreyas Iyer","Midwicket",1
+"677","Shreyas Iyer","Long-on",3
+"678","Shreyas Iyer","Straight (leg-side)",118
+"679","Suyash Prabhudessai","Straight (off-side) / long-off",5
+"680","Suyash Prabhudessai","Straight (leg-side)",10
+"681","Sanju Samson","Straight (off-side) / long-off",73
+"682","Sanju Samson","Extra cover",1
+"683","Sanju Samson","Fine leg",6
+"684","Sanju Samson","Square leg",2
+"685","Sanju Samson","Midwicket",1
+"686","Sanju Samson","Long-on",3
+"687","Sanju Samson","Straight (leg-side)",144
+"688","Sam Billings","Straight (off-side) / long-off",4
+"689","Sam Billings","Extra cover",1
+"690","Sam Billings","Cover",1
+"691","Sam Billings","Straight (leg-side)",13
+"692","Sameer Rizvi","Straight (off-side) / long-off",10
+"693","Sameer Rizvi","Square leg",1
+"694","Sameer Rizvi","Straight (leg-side)",13
+"695","Sanvir Singh","Straight (off-side) / long-off",1
+"696","Sanvir Singh","Straight (leg-side)",2
+"697","Saurav Chauhan","Straight (off-side) / long-off",1
+"698","Saurav Chauhan","Straight (leg-side)",1
+"699","Sediqullah Atal","Straight (off-side) / long-off",1
+"700","Sediqullah Atal","Straight (leg-side)",1
+"701","Shahbaz Ahmed","Straight (off-side) / long-off",15
+"702","Shahbaz Ahmed","Midwicket",2
+"703","Shahbaz Ahmed","Straight (leg-side)",31
+"704","Shashank Singh","Straight (off-side) / long-off",37
+"705","Shashank Singh","Extra cover",2
+"706","Shashank Singh","Third man",1
+"707","Shashank Singh","Square leg",1
+"708","Shashank Singh","Straight (leg-side)",58
+"709","Shubman Gill","Straight (off-side) / long-off",95
+"710","Shubman Gill","Extra cover",2
+"711","Shubman Gill","Third man",3
+"712","Shubman Gill","Fine leg",2
+"713","Shubman Gill","Backward square leg",1
+"714","Shubman Gill","Square leg",1
+"715","Shubman Gill","Midwicket",1
+"716","Shubman Gill","Long-on",5
+"717","Shubman Gill","Straight (leg-side)",208
+"718","Sikandar Raza","Straight (off-side) / long-off",9
+"719","Sikandar Raza","Backward square leg",1
+"720","Sikandar Raza","Straight (leg-side)",10
+"721","Sumit Kumar","Straight (off-side) / long-off",1
+"722","Sumit Kumar","Cover",1
+"723","Sumit Kumar","Straight (leg-side)",1
+"724","Swapnil Singh","Straight (off-side) / long-off",2
+"725","Swapnil Singh","Straight (leg-side)",4
+"726","Tom Kohler-Cadmore","Straight (off-side) / long-off",2
+"727","Tom Kohler-Cadmore","Fine leg",1
+"728","Tom Kohler-Cadmore","Long-on",1
+"729","Tom Kohler-Cadmore","Straight (leg-side)",4
+"730","Tristan Stubbs","Straight (off-side) / long-off",21
+"731","Tristan Stubbs","Extra cover",2
+"732","Tristan Stubbs","Third man",2
+"733","Tristan Stubbs","Fine leg",1
+"734","Tristan Stubbs","Backward square leg",2
+"735","Tristan Stubbs","Square leg",1
+"736","Tristan Stubbs","Midwicket",1
+"737","Tristan Stubbs","Long-on",1
+"738","Tristan Stubbs","Straight (leg-side)",58
+"739","Trent Boult","Straight (off-side) / long-off",4
+"740","Trent Boult","Straight (leg-side)",3
+"741","Tim David","Straight (off-side) / long-off",39
+"742","Tim David","Third man",2
+"743","Tim David","Long-on",1
+"744","Tim David","Straight (leg-side)",72
+"745","Tim Seifert","Straight (off-side) / long-off",1
+"746","Tim Seifert","Straight (leg-side)",3
+"747","Travis Head","Straight (off-side) / long-off",56
+"748","Travis Head","Cover",2
+"749","Travis Head","Third man",4
+"750","Travis Head","Fine leg",1
+"751","Travis Head","Square leg",1
+"752","Travis Head","Long-on",2
+"753","Travis Head","Straight (leg-side)",95
+"754","Tanush Kotian","Straight (off-side) / long-off",1
+"755","Tanush Kotian","Straight (leg-side)",2
+"756","Tilak Varma","Straight (off-side) / long-off",58
+"757","Tilak Varma","Third man",1
+"758","Tilak Varma","Fine leg",1
+"759","Tilak Varma","Backward square leg",2
+"760","Tilak Varma","Square leg",1
+"761","Tilak Varma","Long-on",1
+"762","Tilak Varma","Straight (leg-side)",123
+"763","Umesh Yadav","Straight (off-side) / long-off",2
+"764","Umesh Yadav","Straight (leg-side)",8
+"765","Umran Malik","Straight (off-side) / long-off",2
+"766","Umran Malik","Straight (leg-side)",1
+"767","Urvil Patel","Straight (off-side) / long-off",6
+"768","Urvil Patel","Straight (leg-side)",5
+"769","Virat Kohli","Straight (off-side) / long-off",109
+"770","Virat Kohli","Extra cover",1
+"771","Virat Kohli","Third man",2
+"772","Virat Kohli","Fine leg",2
+"773","Virat Kohli","Backward square leg",2
+"774","Virat Kohli","Square leg",1
+"775","Virat Kohli","Midwicket",1
+"776","Virat Kohli","Long-on",1
+"777","Virat Kohli","Straight (leg-side)",187
+"778","V Nigam","Straight (off-side) / long-off",7
+"779","V Nigam","Long-on",2
+"780","V Nigam","Straight (leg-side)",15
+"781","Vijay Shankar","Straight (off-side) / long-off",19
+"782","Vijay Shankar","Extra cover",1
+"783","Vijay Shankar","Fine leg",1
+"784","Vijay Shankar","Long-on",1
+"785","Vijay Shankar","Straight (leg-side)",41
+"786","V Suryavanshi","Straight (off-side) / long-off",13
+"787","V Suryavanshi","Backward square leg",1
+"788","V Suryavanshi","Straight (leg-side)",28
+"789","Venkatesh Iyer","Straight (off-side) / long-off",49
+"790","Venkatesh Iyer","Third man",2
+"791","Venkatesh Iyer","Midwicket",1
+"792","Venkatesh Iyer","Long-on",2
+"793","Venkatesh Iyer","Straight (leg-side)",96
+"794","Vijaykumar Vyshak","Straight (off-side) / long-off",1
+"795","Vishnu Vinod","Straight (off-side) / long-off",1
+"796","Vishnu Vinod","Straight (leg-side)",3
+"797","Vivrant Sharma","Straight (off-side) / long-off",2
+"798","Vivrant Sharma","Straight (leg-side)",9
+"799","Will Jacks","Straight (off-side) / long-off",23
+"800","Will Jacks","Third man",2
+"801","Will Jacks","Square leg",1
+"802","Will Jacks","Long-on",2
+"803","Will Jacks","Straight (leg-side)",39
+"804","Wriddhiman Saha","Straight (off-side) / long-off",47
+"805","Wriddhiman Saha","Extra cover",1
+"806","Wriddhiman Saha","Fine leg",1
+"807","Wriddhiman Saha","Straight (leg-side)",74
+"808","Washington Sundar","Straight (off-side) / long-off",16
+"809","Washington Sundar","Extra cover",1
+"810","Washington Sundar","Straight (leg-side)",18
+"811","Xavier Bartlett","Straight (off-side) / long-off",1
+"812","Yashasvi Jaiswal","Straight (off-side) / long-off",103
+"813","Yashasvi Jaiswal","Extra cover",2
+"814","Yashasvi Jaiswal","Third man",1
+"815","Yashasvi Jaiswal","Fine leg",2
+"816","Yashasvi Jaiswal","Backward square leg",1
+"817","Yashasvi Jaiswal","Square leg",3
+"818","Yashasvi Jaiswal","Midwicket",1
+"819","Yashasvi Jaiswal","Long-on",3
+"820","Yashasvi Jaiswal","Straight (leg-side)",189
+"821","Yash Dhull","Straight (leg-side)",1
+"822","Yudhvir Singh","Straight (off-side) / long-off",1
+"823","Yudhvir Singh","Straight (leg-side)",2

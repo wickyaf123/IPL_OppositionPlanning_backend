@@ -1,0 +1,67 @@
+batting_team,bowling_type,total_runs,total_balls,strike_rate
+Chennai Super Kings,Left arm wrist spin,25,12,208.33
+Chennai Super Kings,Left arm pace,579,396,146.21
+Chennai Super Kings,Leg spin,303,218,138.99
+Chennai Super Kings,Off spin,110,98,112.24
+Chennai Super Kings,Right arm pace,1189,831,143.08
+Chennai Super Kings,Slow left arm orthodox,199,164,121.34
+Delhi Capitals,Left arm wrist spin,49,30,163.33
+Delhi Capitals,Left arm pace,475,307,154.72
+Delhi Capitals,Leg spin,369,278,132.73
+Delhi Capitals,Off spin,221,146,151.37
+Delhi Capitals,Right arm pace,1184,786,150.64
+Delhi Capitals,Slow left arm orthodox,167,94,177.66
+Gujarat Titans,Left arm wrist spin,44,49,89.8
+Gujarat Titans,Left arm pace,273,220,124.09
+Gujarat Titans,Leg spin,203,139,146.04
+Gujarat Titans,Off spin,140,85,164.71
+Gujarat Titans,Right arm pace,969,734,132.02
+Gujarat Titans,Slow left arm orthodox,305,246,123.98
+Kolkata Knight Riders,Left arm wrist spin,34,24,141.67
+Kolkata Knight Riders,Left arm pace,506,343,147.52
+Kolkata Knight Riders,Leg spin,269,189,142.33
+Kolkata Knight Riders,Off spin,129,88,146.59
+Kolkata Knight Riders,Right arm pace,1366,818,166.99
+Kolkata Knight Riders,Slow left arm orthodox,177,132,134.09
+Lucknow Super Giants,Left arm wrist spin,74,73,101.37
+Lucknow Super Giants,Left arm pace,538,362,148.62
+Lucknow Super Giants,Leg spin,284,208,136.54
+Lucknow Super Giants,Off spin,186,161,115.53
+Lucknow Super Giants,Right arm pace,1135,825,137.58
+Lucknow Super Giants,Slow left arm orthodox,133,99,134.34
+Mumbai Indians,Left arm wrist spin,46,19,242.11
+Mumbai Indians,Left arm pace,590,388,152.06
+Mumbai Indians,Leg spin,248,209,118.66
+Mumbai Indians,Off spin,167,129,129.46
+Mumbai Indians,Right arm pace,1152,790,145.82
+Mumbai Indians,Slow left arm orthodox,219,151,145.03
+Punjab Kings,Left arm wrist spin,69,74,93.24
+Punjab Kings,Left arm pace,291,238,122.27
+Punjab Kings,Leg spin,283,190,148.95
+Punjab Kings,Off spin,118,90,131.11
+Punjab Kings,Right arm pace,1311,878,149.32
+Punjab Kings,Slow left arm orthodox,300,223,134.53
+Rajasthan Royals,Left arm wrist spin,105,76,138.16
+Rajasthan Royals,Left arm pace,589,425,138.59
+Rajasthan Royals,Leg spin,270,202,133.66
+Rajasthan Royals,Off spin,108,85,127.06
+Rajasthan Royals,Right arm pace,1205,828,145.53
+Rajasthan Royals,Slow left arm orthodox,256,216,118.52
+Royal Challengers Bengaluru,Left arm wrist spin,116,74,156.76
+Royal Challengers Bengaluru,Left arm pace,573,361,158.73
+Royal Challengers Bengaluru,Leg spin,486,272,178.68
+Royal Challengers Bengaluru,Off spin,185,154,120.13
+Royal Challengers Bengaluru,Right arm pace,1163,747,155.69
+Royal Challengers Bengaluru,Slow left arm orthodox,266,210,126.67
+Sunrisers Hyderabad,Left arm wrist spin,85,50,170.0
+Sunrisers Hyderabad,Left arm pace,559,340,164.41
+Sunrisers Hyderabad,Leg spin,400,250,160.0
+Sunrisers Hyderabad,Off spin,343,226,151.77
+Sunrisers Hyderabad,Right arm pace,1267,889,142.52
+Sunrisers Hyderabad,Slow left arm orthodox,252,164,153.66
+Overall,Left arm wrist spin,,,118.93
+Overall,Left arm pace,,,147.11
+Overall,Leg spin,,,143.4
+Overall,Off spin,,,145.49
+Overall,Right arm pace,,,149.35
+Overall,Slow left arm orthodox,,,142.21
